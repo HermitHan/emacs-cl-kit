@@ -1,6 +1,6 @@
 # Emacs CL Kit handbook
 
-[Back to the README](../README.en.md) · [简体中文](使用手册.md)
+[Back to the README](../README.md) · [简体中文](使用手册.md)
 
 Once you can call `(add-two 40)` in the REPL, you have everything you need for these exercises. When looking up a key, pay attention to the buffer you're in. Source buffers, REPLs and chats each have their own bindings.
 

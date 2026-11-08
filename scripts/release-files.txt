@@ -2,8 +2,8 @@
 # Configuration files are separately reviewed in scripts/config-files.txt.
 .gitignore
 LICENSE
-README.en.md
 README.md
+README.zh-CN.md
 bootstrap/configure.py
 bootstrap/online-packages.py
 bootstrap/package-bundle.py
