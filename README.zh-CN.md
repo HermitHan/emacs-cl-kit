@@ -23,7 +23,7 @@ curl -fsSL https://github.com/HermitHan/emacs-cl-kit/releases/latest/download/em
 emacs --init-directory "$HOME/.emacs-portable-trial" -nw
 ```
 
-GitHub 下载超时时，v0.1.0 发布页提供同一安装器的备用地址和 SHA-256 校验值。[下载与校验](https://github.com/HermitHan/emacs-cl-kit/releases/tag/v0.1.0)
+**目标机器不能联网？** 在能联网的机器上下载 `emacs-portable-offline.sh` 和同名 `.sha256` 文件，一起带到目标机，校验后运行 `bash ./emacs-portable-offline.sh`。目标机需备好 Emacs、Python、Bash 和要用的 Lisp 实现。发布页列有两种安装器、校验文件和在线安装器的备用下载地址。[下载与校验](https://github.com/HermitHan/emacs-cl-kit/releases/latest)
 
 ## 编译一个函数，在 REPL 里试它
 

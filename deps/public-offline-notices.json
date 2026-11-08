@@ -1,0 +1,1350 @@
+{
+  "a": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/plexus/a.el/9ad2d18252b729174fe22ed0b2b7670c88f60c31/LICENSE",
+        "https://cdn.jsdelivr.net/gh/plexus/a.el@9ad2d18252b729174fe22ed0b2b7670c88f60c31/LICENSE"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "add-node-modules-path": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/codesuki/add-node-modules-path/841e93dfed50448da66c89a977c9182bb18796a1/LICENSE",
+        "https://cdn.jsdelivr.net/gh/codesuki/add-node-modules-path@841e93dfed50448da66c89a977c9182bb18796a1/LICENSE"
+      ],
+      "sha256": "3e192737b519e5c0df2c83869d302c82820df9b38f5162e7345266c3472293b3",
+      "bytes": 1070
+    }
+  ],
+  "affe": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/minad/affe/6e06b8efcd5b57160ba267e42cbf3b982a4b89a1/LICENSE",
+        "https://cdn.jsdelivr.net/gh/minad/affe@6e06b8efcd5b57160ba267e42cbf3b982a4b89a1/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "aio": [
+    {
+      "path": "upstream-notices/UNLICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/skeeto/emacs-aio/da93523e235529fa97d6f251319d9e1d6fc24a41/UNLICENSE",
+        "https://cdn.jsdelivr.net/gh/skeeto/emacs-aio@da93523e235529fa97d6f251319d9e1d6fc24a41/UNLICENSE"
+      ],
+      "sha256": "7e12e5df4bae12cb21581ba157ced20e1986a0508dd10d0e8a4ab9a4cf94e85c",
+      "bytes": 1211
+    }
+  ],
+  "async": [
+    {
+      "path": "upstream-notices/COPYING",
+      "urls": [
+        "https://raw.githubusercontent.com/jwiegley/emacs-async/b99658e831bc7e7d20ed4bb0a85bdb5c7dd74142/COPYING",
+        "https://cdn.jsdelivr.net/gh/jwiegley/emacs-async@b99658e831bc7e7d20ed4bb0a85bdb5c7dd74142/COPYING"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "auto-compile": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/emacscollective/auto-compile/5304e2f8a69ed9610b2392b846471f43b28b773b/LICENSE",
+        "https://cdn.jsdelivr.net/gh/emacscollective/auto-compile@5304e2f8a69ed9610b2392b846471f43b28b773b/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "bug-reference-github": [
+    {
+      "path": "upstream-notices/COPYING",
+      "urls": [
+        "https://raw.githubusercontent.com/arnested/bug-reference-github/4e848472a5be464a3bc10a3c917322d1e344951a/COPYING",
+        "https://cdn.jsdelivr.net/gh/arnested/bug-reference-github@4e848472a5be464a3bc10a3c917322d1e344951a/COPYING"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "caml": [
+    {
+      "path": "upstream-notices/COPYING",
+      "urls": [
+        "https://raw.githubusercontent.com/ocaml/caml-mode/744333dc4c4bd8b93e037efa8f7362b0903b96a2/COPYING",
+        "https://cdn.jsdelivr.net/gh/ocaml/caml-mode@744333dc4c4bd8b93e037efa8f7362b0903b96a2/COPYING"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "cask-mode": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/Wilfred/cask-mode/c97755267b7215f02df7b0c16b4210c04aee6566/LICENSE",
+        "https://cdn.jsdelivr.net/gh/Wilfred/cask-mode@c97755267b7215f02df7b0c16b4210c04aee6566/LICENSE"
+      ],
+      "sha256": "db296f2f7f35bca3a174efb0eb392b3b17bd94b341851429a3dff411b1c2fc73",
+      "bytes": 18046
+    }
+  ],
+  "cider": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/clojure-emacs/cider/ee35c30d58bffe08dab080ec5135e23b9dfcf508/LICENSE",
+        "https://cdn.jsdelivr.net/gh/clojure-emacs/cider@ee35c30d58bffe08dab080ec5135e23b9dfcf508/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "closql": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/magit/closql/dc7924c1d206483a2555a98470c96fadf419f32d/LICENSE",
+        "https://cdn.jsdelivr.net/gh/magit/closql@dc7924c1d206483a2555a98470c96fadf419f32d/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "color-theme-sanityinc-tomorrow": [
+    {
+      "path": "upstream-notices/LICENSE.md",
+      "urls": [
+        "https://raw.githubusercontent.com/purcell/color-theme-sanityinc-tomorrow/5e3ed508e2c0a9a6d9af700212dd7ce96a356da6/LICENSE.md",
+        "https://cdn.jsdelivr.net/gh/purcell/color-theme-sanityinc-tomorrow@5e3ed508e2c0a9a6d9af700212dd7ce96a356da6/LICENSE.md"
+      ],
+      "sha256": "4052be61f35ad6a156dcee919b8f99058b24b0417a152ecef746f702c7f34c5c",
+      "bytes": 35179
+    }
+  ],
+  "company": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/company-mode/company-mode/8d599ebc8a9aca27c0a6157aeb31c5b7f05ed0a3/LICENSE",
+        "https://cdn.jsdelivr.net/gh/company-mode/company-mode@8d599ebc8a9aca27c0a6157aeb31c5b7f05ed0a3/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    },
+    {
+      "path": "upstream-notices/icons/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/company-mode/company-mode/8d599ebc8a9aca27c0a6157aeb31c5b7f05ed0a3/icons/LICENSE",
+        "https://cdn.jsdelivr.net/gh/company-mode/company-mode@8d599ebc8a9aca27c0a6157aeb31c5b7f05ed0a3/icons/LICENSE"
+      ],
+      "sha256": "95df2e9564862e51d69683a899b6dcc8218d577057bdf67322880769ff85f29e",
+      "bytes": 18649
+    },
+    {
+      "path": "upstream-notices/icons/attribution.md",
+      "urls": [
+        "https://raw.githubusercontent.com/company-mode/company-mode/8d599ebc8a9aca27c0a6157aeb31c5b7f05ed0a3/icons/attribution.md",
+        "https://cdn.jsdelivr.net/gh/company-mode/company-mode@8d599ebc8a9aca27c0a6157aeb31c5b7f05ed0a3/icons/attribution.md"
+      ],
+      "sha256": "57e725b0049d603c3739928fc4663e9c017e92ee979805d8d433c0f06383cade",
+      "bytes": 289
+    }
+  ],
+  "compat": [
+    {
+      "path": "upstream-notices/COPYING",
+      "urls": [
+        "https://raw.githubusercontent.com/emacs-compat/compat/cccd41f549fa88031a32deb26253b462021d7e12/COPYING",
+        "https://cdn.jsdelivr.net/gh/emacs-compat/compat@cccd41f549fa88031a32deb26253b462021d7e12/COPYING"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "concurrent": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/kiwanami/emacs-deferred/d012a1ab50edcc2c44e3e49006f054dbff47cb6c/LICENSE",
+        "https://cdn.jsdelivr.net/gh/kiwanami/emacs-deferred@d012a1ab50edcc2c44e3e49006f054dbff47cb6c/LICENSE"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "consult": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/minad/consult/d557305b730f7666d46bc3eb04c87cfcc493a8e5/LICENSE",
+        "https://cdn.jsdelivr.net/gh/minad/consult@d557305b730f7666d46bc3eb04c87cfcc493a8e5/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "consult-eglot": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/mohkale/consult-eglot/b71499f4b93bfea4e2005564c25c5bb0f9e73199/LICENSE",
+        "https://cdn.jsdelivr.net/gh/mohkale/consult-eglot@b71499f4b93bfea4e2005564c25c5bb0f9e73199/LICENSE"
+      ],
+      "sha256": "b306b189ec4ba5afe34d0a2dcdf66e9bcc865123269f85d1f90846357bdd36fd",
+      "bytes": 1057
+    }
+  ],
+  "corfu": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/minad/corfu/2c476b442ccfda9935e472b26d9cd60d45726560/LICENSE",
+        "https://cdn.jsdelivr.net/gh/minad/corfu@2c476b442ccfda9935e472b26d9cd60d45726560/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "css-eldoc": [
+    {
+      "path": "upstream-notices/CC-BY-SA-2.5.txt",
+      "urls": [
+        "https://raw.githubusercontent.com/spdx/license-list-data/d685a936bed3dbdd9b668c51f5e0f467ed5d1bd5/text/CC-BY-SA-2.5.txt",
+        "https://cdn.jsdelivr.net/gh/spdx/license-list-data@d685a936bed3dbdd9b668c51f5e0f467ed5d1bd5/text/CC-BY-SA-2.5.txt"
+      ],
+      "sha256": "dbe7fadf81c75e0cb15a0cb338a6f42a7b34dced43958a4921ca056ca1b87a93",
+      "bytes": 14331
+    },
+    {
+      "path": "upstream-notices/README.md",
+      "urls": [
+        "https://raw.githubusercontent.com/zenozeng/css-eldoc/73ebf9757a043b56b7d3b5befec5a38e6754b9e5/README.md",
+        "https://cdn.jsdelivr.net/gh/zenozeng/css-eldoc@73ebf9757a043b56b7d3b5befec5a38e6754b9e5/README.md"
+      ],
+      "sha256": "fbc093902afb321109024613806f0cb5b7f37b542781c83601e91fa6de28fed3",
+      "bytes": 2158
+    },
+    {
+      "path": "upstream-source/css-eldoc-gen-hash-table.el",
+      "urls": [
+        "https://raw.githubusercontent.com/zenozeng/css-eldoc/73ebf9757a043b56b7d3b5befec5a38e6754b9e5/css-eldoc-gen-hash-table.el",
+        "https://cdn.jsdelivr.net/gh/zenozeng/css-eldoc@73ebf9757a043b56b7d3b5befec5a38e6754b9e5/css-eldoc-gen-hash-table.el"
+      ],
+      "sha256": "9ef42dec612f7eab96b7b42f928a608729af7fda1bc0f49009d0ad669fa17068",
+      "bytes": 22235
+    },
+    {
+      "path": "upstream-source/fetch.js",
+      "urls": [
+        "https://raw.githubusercontent.com/zenozeng/css-eldoc/73ebf9757a043b56b7d3b5befec5a38e6754b9e5/fetch.js",
+        "https://cdn.jsdelivr.net/gh/zenozeng/css-eldoc@73ebf9757a043b56b7d3b5befec5a38e6754b9e5/fetch.js"
+      ],
+      "sha256": "7444607a6fcc0359b081bc9c7726b47c97ef546b00492be7eb7c82dce5869836",
+      "bytes": 1271
+    }
+  ],
+  "dash": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/magnars/dash.el/fcb5d831fc08a43f984242c7509870f30983c27c/LICENSE",
+        "https://cdn.jsdelivr.net/gh/magnars/dash.el@fcb5d831fc08a43f984242c7509870f30983c27c/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "deferred": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/kiwanami/emacs-deferred/2239671d94b38d92e9b28d4e12fd79814cfb9c16/LICENSE",
+        "https://cdn.jsdelivr.net/gh/kiwanami/emacs-deferred@2239671d94b38d92e9b28d4e12fd79814cfb9c16/LICENSE"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "diff-hl": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/dgutov/diff-hl/79c46da33b249eb59a2f82fe7ad46fc9621eab0b/LICENSE",
+        "https://cdn.jsdelivr.net/gh/dgutov/diff-hl@79c46da33b249eb59a2f82fe7ad46fc9621eab0b/LICENSE"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "diminish": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/myrjola/diminish.el/fbd5d846611bad828e336b25d2e131d1bc06b83d/LICENSE",
+        "https://cdn.jsdelivr.net/gh/myrjola/diminish.el@fbd5d846611bad828e336b25d2e131d1bc06b83d/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "dimmer": [
+    {
+      "path": "upstream-notices/LICENSE.md",
+      "urls": [
+        "https://raw.githubusercontent.com/gonewest818/dimmer.el/a5b697580e5aed6168b571ae3d925753428284f8/LICENSE.md",
+        "https://cdn.jsdelivr.net/gh/gonewest818/dimmer.el@a5b697580e5aed6168b571ae3d925753428284f8/LICENSE.md"
+      ],
+      "sha256": "33bc26d4498c183b703d1760ee45b8774d21d6e0178ca393dc715271840c7a21",
+      "bytes": 34916
+    }
+  ],
+  "docker-compose-mode": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/meqif/docker-compose-mode/abaa4f3aeb5c62d7d16e186dd7d77f4e846e126a/LICENSE",
+        "https://cdn.jsdelivr.net/gh/meqif/docker-compose-mode@abaa4f3aeb5c62d7d16e186dd7d77f4e846e126a/LICENSE"
+      ],
+      "sha256": "f0b75b3615b860a75c6c1f7cdde68d8b9d5d039c10d83533d9981644bf699f89",
+      "bytes": 11345
+    }
+  ],
+  "dockerfile-mode": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/spotify/dockerfile-mode/7ce17e054eca4d56ca8bc1e4a6a0dbf58efd8d52/LICENSE",
+        "https://cdn.jsdelivr.net/gh/spotify/dockerfile-mode@7ce17e054eca4d56ca8bc1e4a6a0dbf58efd8d52/LICENSE"
+      ],
+      "sha256": "f00312c39a791226441cc36204599477b5d457672afb7ee86fb8b4bb2be8d0e1",
+      "bytes": 11339
+    }
+  ],
+  "dune": [
+    {
+      "path": "upstream-notices/LICENSE.md",
+      "urls": [
+        "https://raw.githubusercontent.com/ocaml/dune/5554158af27ead066fbb3c009e780c930958613c/LICENSE.md",
+        "https://cdn.jsdelivr.net/gh/ocaml/dune@5554158af27ead066fbb3c009e780c930958613c/LICENSE.md"
+      ],
+      "sha256": "7a9971a9f7b19a18568a7a2758573a989830947969506f5a59b657bbfc17abca",
+      "bytes": 1111
+    }
+  ],
+  "elm-mode": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/jcollard/elm-mode/699841865e1bd5b7f2077baa7121510b6bcad3c7/LICENSE",
+        "https://cdn.jsdelivr.net/gh/jcollard/elm-mode@699841865e1bd5b7f2077baa7121510b6bcad3c7/LICENSE"
+      ],
+      "sha256": "a835105bd57ef1a66a8ade49e1f61e3720d9463dc65d4fbb003d73edad8a828b",
+      "bytes": 35142
+    }
+  ],
+  "emacsql": [
+    {
+      "path": "upstream-notices/UNLICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/magit/emacsql/f111b0acc79eadeeb3c6c1332d943f11fd6932ff/UNLICENSE",
+        "https://cdn.jsdelivr.net/gh/magit/emacsql@f111b0acc79eadeeb3c6c1332d943f11fd6932ff/UNLICENSE"
+      ],
+      "sha256": "7e12e5df4bae12cb21581ba157ced20e1986a0508dd10d0e8a4ab9a4cf94e85c",
+      "bytes": 1211
+    }
+  ],
+  "embark": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/oantolin/embark/755cb49b59801ff420193cc0e3b1a7aa12bf22e3/LICENSE",
+        "https://cdn.jsdelivr.net/gh/oantolin/embark@755cb49b59801ff420193cc0e3b1a7aa12bf22e3/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "embark-consult": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/oantolin/embark/d5df0eff182b014ab49328a4dbb1d69eb7faafbd/LICENSE",
+        "https://cdn.jsdelivr.net/gh/oantolin/embark@d5df0eff182b014ab49328a4dbb1d69eb7faafbd/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "erlang": [
+    {
+      "path": "upstream-notices/LICENSE.txt",
+      "urls": [
+        "https://raw.githubusercontent.com/erlang/otp/dd160c846e656634a34f4cc4b4aed46cbe5d6744/LICENSE.txt",
+        "https://cdn.jsdelivr.net/gh/erlang/otp@dd160c846e656634a34f4cc4b4aed46cbe5d6744/LICENSE.txt"
+      ],
+      "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+      "bytes": 10175
+    }
+  ],
+  "exec-path-from-shell": [
+    {
+      "path": "upstream-notices/LICENSE.md",
+      "urls": [
+        "https://raw.githubusercontent.com/purcell/exec-path-from-shell/72ede29a0e0467b3b433e8edbee3c79bab005884/LICENSE.md",
+        "https://cdn.jsdelivr.net/gh/purcell/exec-path-from-shell@72ede29a0e0467b3b433e8edbee3c79bab005884/LICENSE.md"
+      ],
+      "sha256": "4052be61f35ad6a156dcee919b8f99058b24b0417a152ecef746f702c7f34c5c",
+      "bytes": 35179
+    }
+  ],
+  "f": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/rejeep/f.el/931b6d0667fe03e7bf1c6c282d6d8d7006143c52/LICENSE",
+        "https://cdn.jsdelivr.net/gh/rejeep/f.el@931b6d0667fe03e7bf1c6c282d6d8d7006143c52/LICENSE"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "flycheck": [
+    {
+      "path": "upstream-notices/COPYING",
+      "urls": [
+        "https://raw.githubusercontent.com/flycheck/flycheck/b9db1379dcc3e59238dc1fdd7db368c66e8734ba/COPYING",
+        "https://cdn.jsdelivr.net/gh/flycheck/flycheck@b9db1379dcc3e59238dc1fdd7db368c66e8734ba/COPYING"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "flycheck-clojure": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/clojure-emacs/squiggly-clojure/bc85f9dfe1bcfa66a98d2ca5da955e7eab4ae00d/LICENSE",
+        "https://cdn.jsdelivr.net/gh/clojure-emacs/squiggly-clojure@bc85f9dfe1bcfa66a98d2ca5da955e7eab4ae00d/LICENSE"
+      ],
+      "sha256": "12ac5047f2af0522f06798b1589ffc4599bc29c91f954d7874e0320634e777c0",
+      "bytes": 35122
+    }
+  ],
+  "flycheck-ledger": [
+    {
+      "path": "upstream-notices/COPYING",
+      "urls": [
+        "https://raw.githubusercontent.com/purcell/flycheck-ledger/628e25ba66604946085571652a94a54f4d1ad96f/COPYING",
+        "https://cdn.jsdelivr.net/gh/purcell/flycheck-ledger@628e25ba66604946085571652a94a54f4d1ad96f/COPYING"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "flycheck-nim": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/ALSchwalm/flycheck-nim/ddfade51001571c2399f78bcc509e0aa8eb752a4/LICENSE",
+        "https://cdn.jsdelivr.net/gh/ALSchwalm/flycheck-nim@ddfade51001571c2399f78bcc509e0aa8eb752a4/LICENSE"
+      ],
+      "sha256": "12ac5047f2af0522f06798b1589ffc4599bc29c91f954d7874e0320634e777c0",
+      "bytes": 35122
+    }
+  ],
+  "flycheck-rust": [
+    {
+      "path": "upstream-notices/COPYING",
+      "urls": [
+        "https://raw.githubusercontent.com/flycheck/flycheck-rust/2b544bab19b987bfb41d5d88801b89e29bdf69c7/COPYING",
+        "https://cdn.jsdelivr.net/gh/flycheck/flycheck-rust@2b544bab19b987bfb41d5d88801b89e29bdf69c7/COPYING"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "flymake-flycheck": [
+    {
+      "path": "upstream-notices/LICENSE.md",
+      "urls": [
+        "https://raw.githubusercontent.com/purcell/flymake-flycheck/cc50a97ee1384d260c56aca257a1dbf770084330/LICENSE.md",
+        "https://cdn.jsdelivr.net/gh/purcell/flymake-flycheck@cc50a97ee1384d260c56aca257a1dbf770084330/LICENSE.md"
+      ],
+      "sha256": "4052be61f35ad6a156dcee919b8f99058b24b0417a152ecef746f702c7f34c5c",
+      "bytes": 35179
+    }
+  ],
+  "forge": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/magit/forge/1c904090dfdcd201d9170997052c43846ddce149/LICENSE",
+        "https://cdn.jsdelivr.net/gh/magit/forge@1c904090dfdcd201d9170997052c43846ddce149/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "fullframe": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/emacsmirror/fullframe/886b831c001b44ec95aec4ff36e8bc1b3003c786/LICENSE",
+        "https://cdn.jsdelivr.net/gh/emacsmirror/fullframe@886b831c001b44ec95aec4ff36e8bc1b3003c786/LICENSE"
+      ],
+      "sha256": "fe369302a4980f07163ec712b6e73906e97108bbc8906a66f79bd1864f7fc1a2",
+      "bytes": 34358
+    }
+  ],
+  "ghub": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/magit/ghub/af663777c47a3dce64b2144b4409587b35521e47/LICENSE",
+        "https://cdn.jsdelivr.net/gh/magit/ghub@af663777c47a3dce64b2144b4409587b35521e47/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "git-modes": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/magit/git-modes/f99010bbeb8b6d8a0819fac0195a2ef0159d08f0/LICENSE",
+        "https://cdn.jsdelivr.net/gh/magit/git-modes@f99010bbeb8b6d8a0819fac0195a2ef0159d08f0/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "git-timemachine": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/emacsmirror/git-timemachine/d1346a76122595aeeb7ebb292765841c6cfd417b/LICENSE",
+        "https://cdn.jsdelivr.net/gh/emacsmirror/git-timemachine@d1346a76122595aeeb7ebb292765841c6cfd417b/LICENSE"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "github-review": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/charignon/github-review/725fbc7b385228f53a7ddc46a92c1276bab4aea8/LICENSE",
+        "https://cdn.jsdelivr.net/gh/charignon/github-review@725fbc7b385228f53a7ddc46a92c1276bab4aea8/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "gnuplot": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/emacs-gnuplot/gnuplot/235ba76c358d9db5b10f177552f5f8deeef74df5/LICENSE",
+        "https://cdn.jsdelivr.net/gh/emacs-gnuplot/gnuplot@235ba76c358d9db5b10f177552f5f8deeef74df5/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "gptel": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/karthink/gptel/2b02618b2eba819b996eca7f71bf4dd4b91eb532/LICENSE",
+        "https://cdn.jsdelivr.net/gh/karthink/gptel@2b02618b2eba819b996eca7f71bf4dd4b91eb532/LICENSE"
+      ],
+      "sha256": "a187395428b34e87a0279ba67f1dba3c929eec303bea0d2200a2effd55787829",
+      "bytes": 35145
+    }
+  ],
+  "haml-mode": [
+    {
+      "path": "upstream-notices/MIT-LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/nex3/haml-mode/fe83c65c1f002f7c36480b758727c1afbad9a1b2/MIT-LICENSE",
+        "https://cdn.jsdelivr.net/gh/nex3/haml-mode@fe83c65c1f002f7c36480b758727c1afbad9a1b2/MIT-LICENSE"
+      ],
+      "sha256": "b1c53a07a35e3ecb040dd847f3df632737ee88b28b17c6c5945be2a449d77893",
+      "bytes": 1102
+    }
+  ],
+  "haskell-mode": [
+    {
+      "path": "upstream-notices/COPYING",
+      "urls": [
+        "https://raw.githubusercontent.com/haskell/haskell-mode/2ada981f2447039c070441d37d28cd32cc2906ca/COPYING",
+        "https://cdn.jsdelivr.net/gh/haskell/haskell-mode@2ada981f2447039c070441d37d28cd32cc2906ca/COPYING"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "hcl-mode": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/hcl-emacs/hcl-mode/b2a03a446c1fe324ff494c28b9321486fa6fc672/LICENSE",
+        "https://cdn.jsdelivr.net/gh/hcl-emacs/hcl-mode@b2a03a446c1fe324ff494c28b9321486fa6fc672/LICENSE"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "hl-todo": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/tarsius/hl-todo/0ce21c329b686802121df45bf4ae15ae201137bf/LICENSE",
+        "https://cdn.jsdelivr.net/gh/tarsius/hl-todo@0ce21c329b686802121df45bf4ae15ae201137bf/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "ipretty": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/emacsmirror/ipretty/042f5cc4e6f81d59115e8335c582bb5c571c2585/LICENSE",
+        "https://cdn.jsdelivr.net/gh/emacsmirror/ipretty@042f5cc4e6f81d59115e8335c582bb5c571c2585/LICENSE"
+      ],
+      "sha256": "e1c0ad728983d8a57335e52cf1064f1affd1d454173d8cebd3ed8b4a72b48704",
+      "bytes": 35121
+    }
+  ],
+  "j-mode": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/zellio/j-mode/62d373b9d0926f191f42c747a2364cf8dacf0fa1/LICENSE",
+        "https://cdn.jsdelivr.net/gh/zellio/j-mode@62d373b9d0926f191f42c747a2364cf8dacf0fa1/LICENSE"
+      ],
+      "sha256": "da1767116d0b50a39a1f5228d834e873cf084a33db5cbe6ce81fe73d4a61cb4d",
+      "bytes": 35127
+    }
+  ],
+  "js-comint": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/redguardtoo/js-comint/68908b5d232738bdc25c4cae502067ef2255a2fd/LICENSE",
+        "https://cdn.jsdelivr.net/gh/redguardtoo/js-comint@68908b5d232738bdc25c4cae502067ef2255a2fd/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "js2-mode": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/mooz/js2-mode/e0c302872de4d26a9c1614fac8d6b94112b96307/LICENSE",
+        "https://cdn.jsdelivr.net/gh/mooz/js2-mode@e0c302872de4d26a9c1614fac8d6b94112b96307/LICENSE"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "ledger-mode": [
+    {
+      "path": "upstream-notices/LICENSE.md",
+      "urls": [
+        "https://raw.githubusercontent.com/ledger/ledger-mode/dcad2d467d995b1adf0424d61ac3307e1cc25c5c/LICENSE.md",
+        "https://cdn.jsdelivr.net/gh/ledger/ledger-mode@dcad2d467d995b1adf0424d61ac3307e1cc25c5c/LICENSE.md"
+      ],
+      "sha256": "2b0d4dda4bf8034e1506507a67f80f982131137afe62bf144d248f9faea31da4",
+      "bytes": 17893
+    }
+  ],
+  "llama": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/tarsius/llama/48e5bc4919a4a29665362832d59ade8e248b0c3e/LICENSE",
+        "https://cdn.jsdelivr.net/gh/tarsius/llama@48e5bc4919a4a29665362832d59ade8e248b0c3e/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "log4e": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/aki2o/log4e/6d71462df9bf595d3861bfb328377346aceed422/LICENSE",
+        "https://cdn.jsdelivr.net/gh/aki2o/log4e@6d71462df9bf595d3861bfb328377346aceed422/LICENSE"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "lua-mode": [
+    {
+      "path": "upstream-notices/AUTHORS",
+      "urls": [
+        "https://raw.githubusercontent.com/immerrr/lua-mode/2f6b8d7a6317e42c953c5119b0119ddb337e0a5f/AUTHORS",
+        "https://cdn.jsdelivr.net/gh/immerrr/lua-mode@2f6b8d7a6317e42c953c5119b0119ddb337e0a5f/AUTHORS"
+      ],
+      "sha256": "4eb4afb5f3e5a3a687d565e670c7b2f3d6a7d7c05f458792f87f13c00c512983",
+      "bytes": 1414
+    },
+    {
+      "path": "upstream-notices/COPYING",
+      "urls": [
+        "https://raw.githubusercontent.com/immerrr/lua-mode/2f6b8d7a6317e42c953c5119b0119ddb337e0a5f/COPYING",
+        "https://cdn.jsdelivr.net/gh/immerrr/lua-mode@2f6b8d7a6317e42c953c5119b0119ddb337e0a5f/COPYING"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "macrostep": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/emacsorphanage/macrostep/d0928626b4711dcf9f8f90439d23701118724199/LICENSE",
+        "https://cdn.jsdelivr.net/gh/emacsorphanage/macrostep@d0928626b4711dcf9f8f90439d23701118724199/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "magit": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/magit/magit/ed4fa09eeeb531c0cfc3c7bf713d3929c2b2107d/LICENSE",
+        "https://cdn.jsdelivr.net/gh/magit/magit@ed4fa09eeeb531c0cfc3c7bf713d3929c2b2107d/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "magit-section": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/magit/magit/3f79700f1b9a6f5f6fd6a77fd1e812c1b8e6463b/LICENSE",
+        "https://cdn.jsdelivr.net/gh/magit/magit@3f79700f1b9a6f5f6fd6a77fd1e812c1b8e6463b/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "magit-todos": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/alphapapa/magit-todos/bd27c57eada0fda1cc0a813db04731a9bcc51b7b/LICENSE",
+        "https://cdn.jsdelivr.net/gh/alphapapa/magit-todos@bd27c57eada0fda1cc0a813db04731a9bcc51b7b/LICENSE"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "marginalia": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/minad/marginalia/a527fb03b76a2bce1e360c6e73a095e06922c3f3/LICENSE",
+        "https://cdn.jsdelivr.net/gh/minad/marginalia@a527fb03b76a2bce1e360c6e73a095e06922c3f3/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "markdown-mode": [
+    {
+      "path": "upstream-notices/LICENSE.md",
+      "urls": [
+        "https://raw.githubusercontent.com/jrblevin/markdown-mode/d2d960bec164e91e1a3315b176e2bcc324e63c95/LICENSE.md",
+        "https://cdn.jsdelivr.net/gh/jrblevin/markdown-mode@d2d960bec164e91e1a3315b176e2bcc324e63c95/LICENSE.md"
+      ],
+      "sha256": "6d427a39faab2d85898e69c3335069c39f481a857059b3f6cbf77da72c6414fc",
+      "bytes": 34914
+    }
+  ],
+  "mmm-mode": [
+    {
+      "path": "upstream-notices/AUTHORS",
+      "urls": [
+        "https://raw.githubusercontent.com/dgutov/mmm-mode/b1f5c7dbdc405e6e10d9ddd99a43a6b2ad61b176/AUTHORS",
+        "https://cdn.jsdelivr.net/gh/dgutov/mmm-mode@b1f5c7dbdc405e6e10d9ddd99a43a6b2ad61b176/AUTHORS"
+      ],
+      "sha256": "8a0c126f211afb3ab6d6a15395372156c8b45b23d4d5a1c80bc1ff57183e4db7",
+      "bytes": 462
+    },
+    {
+      "path": "upstream-notices/COPYING",
+      "urls": [
+        "https://raw.githubusercontent.com/dgutov/mmm-mode/b1f5c7dbdc405e6e10d9ddd99a43a6b2ad61b176/COPYING",
+        "https://cdn.jsdelivr.net/gh/dgutov/mmm-mode@b1f5c7dbdc405e6e10d9ddd99a43a6b2ad61b176/COPYING"
+      ],
+      "sha256": "32b1062f7da84967e7019d01ab805935caa7ab7321a7ced0e30ebe75e5df1670",
+      "bytes": 17992
+    }
+  ],
+  "move-dup": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/wyuenho/move-dup/bf2e578b89d7e7bf0b5500d9afcf49ac6ec2dcd1/LICENSE",
+        "https://cdn.jsdelivr.net/gh/wyuenho/move-dup@bf2e578b89d7e7bf0b5500d9afcf49ac6ec2dcd1/LICENSE"
+      ],
+      "sha256": "5b73f1e1c0c3bc0b5d14f35ba4377fbc732b8127a474f2faa22951df41aa6d6e",
+      "bytes": 669
+    }
+  ],
+  "nix-buffer": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/shlevy/nix-buffer/db57cda36e7477bdc7ef5a136357b971b1d4d099/LICENSE",
+        "https://cdn.jsdelivr.net/gh/shlevy/nix-buffer@db57cda36e7477bdc7ef5a136357b971b1d4d099/LICENSE"
+      ],
+      "sha256": "2da169e7d1fb5092366e6666c39b99c5be290f5a5eab660a845693552b8e276f",
+      "bytes": 1059
+    }
+  ],
+  "nix-mode": [
+    {
+      "path": "upstream-notices/LGPL-2.1-only.txt",
+      "urls": [
+        "https://raw.githubusercontent.com/spdx/license-list-data/d685a936bed3dbdd9b668c51f5e0f467ed5d1bd5/text/LGPL-2.1-only.txt",
+        "https://cdn.jsdelivr.net/gh/spdx/license-list-data@d685a936bed3dbdd9b668c51f5e0f467ed5d1bd5/text/LGPL-2.1-only.txt"
+      ],
+      "sha256": "5749785c8bdefafcb5d798270ed0a967036fe2ca63dcedade1627565dfef81d2",
+      "bytes": 26001
+    },
+    {
+      "path": "upstream-notices/LGPL-3.0-only.txt",
+      "urls": [
+        "https://raw.githubusercontent.com/spdx/license-list-data/d685a936bed3dbdd9b668c51f5e0f467ed5d1bd5/text/LGPL-3.0-only.txt",
+        "https://cdn.jsdelivr.net/gh/spdx/license-list-data@d685a936bed3dbdd9b668c51f5e0f467ed5d1bd5/text/LGPL-3.0-only.txt"
+      ],
+      "sha256": "996af0513df21f7496288951c41428a03c174e9e4a9d63665c57d670f845ccb1",
+      "bytes": 42098
+    },
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/NixOS/nix-mode/719feb7868fb567ecfe5578f6119892c771ac5e5/LICENSE",
+        "https://cdn.jsdelivr.net/gh/NixOS/nix-mode@719feb7868fb567ecfe5578f6119892c771ac5e5/LICENSE"
+      ],
+      "sha256": "dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551",
+      "bytes": 26530
+    }
+  ],
+  "orderless": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/oantolin/orderless/c7cb04499d94ee1c17affb29b1cfcd2a45116c97/LICENSE",
+        "https://cdn.jsdelivr.net/gh/oantolin/orderless@c7cb04499d94ee1c17affb29b1cfcd2a45116c97/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "org-pomodoro": [
+    {
+      "path": "upstream-notices/COPYING",
+      "urls": [
+        "https://raw.githubusercontent.com/marcinkoziej/org-pomodoro/3f5bcfb80d61556d35fc29e5ddb09750df962cc6/COPYING",
+        "https://cdn.jsdelivr.net/gh/marcinkoziej/org-pomodoro@3f5bcfb80d61556d35fc29e5ddb09750df962cc6/COPYING"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "package-lint": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/purcell/package-lint/6170c1e5b79f9b9f606ab17ab4d9ffb9bce3ebde/LICENSE",
+        "https://cdn.jsdelivr.net/gh/purcell/package-lint@6170c1e5b79f9b9f606ab17ab4d9ffb9bce3ebde/LICENSE"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    },
+    {
+      "path": "upstream-source/Makefile",
+      "urls": [
+        "https://raw.githubusercontent.com/purcell/package-lint/6170c1e5b79f9b9f606ab17ab4d9ffb9bce3ebde/Makefile",
+        "https://cdn.jsdelivr.net/gh/purcell/package-lint@6170c1e5b79f9b9f606ab17ab4d9ffb9bce3ebde/Makefile"
+      ],
+      "sha256": "ce153038e7b3f6beac41bf2b48127be4d267f294c19aad0d40c76192988a7651",
+      "bytes": 2002
+    },
+    {
+      "path": "upstream-source/tools/compat-dump",
+      "urls": [
+        "https://raw.githubusercontent.com/purcell/package-lint/6170c1e5b79f9b9f606ab17ab4d9ffb9bce3ebde/tools/compat-dump",
+        "https://cdn.jsdelivr.net/gh/purcell/package-lint@6170c1e5b79f9b9f606ab17ab4d9ffb9bce3ebde/tools/compat-dump"
+      ],
+      "sha256": "c7f00e11e6e569f4c62c2991bfc916707cdae6de182da4c76eafcd69a4290dad",
+      "bytes": 1484
+    },
+    {
+      "path": "upstream-source/tools/sym-diff.el",
+      "urls": [
+        "https://raw.githubusercontent.com/purcell/package-lint/6170c1e5b79f9b9f606ab17ab4d9ffb9bce3ebde/tools/sym-diff.el",
+        "https://cdn.jsdelivr.net/gh/purcell/package-lint@6170c1e5b79f9b9f606ab17ab4d9ffb9bce3ebde/tools/sym-diff.el"
+      ],
+      "sha256": "458c54694209bbc34aaaf2826075beb0be59a57aa8997991eb0551bdd1cd9896",
+      "bytes": 2150
+    },
+    {
+      "path": "upstream-source/tools/sym-dump-all",
+      "urls": [
+        "https://raw.githubusercontent.com/purcell/package-lint/6170c1e5b79f9b9f606ab17ab4d9ffb9bce3ebde/tools/sym-dump-all",
+        "https://cdn.jsdelivr.net/gh/purcell/package-lint@6170c1e5b79f9b9f606ab17ab4d9ffb9bce3ebde/tools/sym-dump-all"
+      ],
+      "sha256": "0caba8b17e7f4a7f7139e33d0cf4f34231be6977aafcfd122a1506420bb30f38",
+      "bytes": 1944
+    },
+    {
+      "path": "upstream-source/tools/sym-dump.el",
+      "urls": [
+        "https://raw.githubusercontent.com/purcell/package-lint/6170c1e5b79f9b9f606ab17ab4d9ffb9bce3ebde/tools/sym-dump.el",
+        "https://cdn.jsdelivr.net/gh/purcell/package-lint@6170c1e5b79f9b9f606ab17ab4d9ffb9bce3ebde/tools/sym-dump.el"
+      ],
+      "sha256": "2f47a9620acf2a7f720bb8e524c977da1f02237c3fad09acf9684f8110ab733b",
+      "bytes": 2874
+    }
+  ],
+  "package-lint-flymake": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/purcell/package-lint/6170c1e5b79f9b9f606ab17ab4d9ffb9bce3ebde/LICENSE",
+        "https://cdn.jsdelivr.net/gh/purcell/package-lint@6170c1e5b79f9b9f606ab17ab4d9ffb9bce3ebde/LICENSE"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "paredit": [
+    {
+      "path": "upstream-notices/COPYING",
+      "urls": [
+        "https://raw.githubusercontent.com/emacsmirror/paredit/89e75b4cb21f525a6f4cabcd12f1bd4204e682ab/COPYING",
+        "https://cdn.jsdelivr.net/gh/emacsmirror/paredit@89e75b4cb21f525a6f4cabcd12f1bd4204e682ab/COPYING"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    },
+    {
+      "path": "upstream-notices/CREDITS",
+      "urls": [
+        "https://raw.githubusercontent.com/emacsmirror/paredit/89e75b4cb21f525a6f4cabcd12f1bd4204e682ab/CREDITS",
+        "https://cdn.jsdelivr.net/gh/emacsmirror/paredit@89e75b4cb21f525a6f4cabcd12f1bd4204e682ab/CREDITS"
+      ],
+      "sha256": "7a591ee3101f950e46237037b9ddfe4ac26dc5b00653c9f2c190cabacf890723",
+      "bytes": 975
+    }
+  ],
+  "parseclj": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/clojure-emacs/parseclj/6af22372e0fe14df882dd300b22b12ba2d7e00b0/LICENSE",
+        "https://cdn.jsdelivr.net/gh/clojure-emacs/parseclj@6af22372e0fe14df882dd300b22b12ba2d7e00b0/LICENSE"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "pcre2el": [
+    {
+      "path": "upstream-notices/COPYING",
+      "urls": [
+        "https://raw.githubusercontent.com/joddie/pcre2el/b4d846d80dddb313042131cf2b8fbf647567e000/COPYING",
+        "https://cdn.jsdelivr.net/gh/joddie/pcre2el@b4d846d80dddb313042131cf2b8fbf647567e000/COPYING"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "php-mode": [
+    {
+      "path": "upstream-notices/AUTHORS.md",
+      "urls": [
+        "https://raw.githubusercontent.com/emacs-php/php-mode/0f756a8c0782ebdc00557addc68763305c91ca51/AUTHORS.md",
+        "https://cdn.jsdelivr.net/gh/emacs-php/php-mode@0f756a8c0782ebdc00557addc68763305c91ca51/AUTHORS.md"
+      ],
+      "sha256": "4ce4ad057f8cc6bfe7c8532e2fe6863607598f7041ec695df0a301c1d1572dad",
+      "bytes": 2472
+    },
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/emacs-php/php-mode/0f756a8c0782ebdc00557addc68763305c91ca51/LICENSE",
+        "https://cdn.jsdelivr.net/gh/emacs-php/php-mode@0f756a8c0782ebdc00557addc68763305c91ca51/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "projectile": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/bbatsov/projectile/55db082cdf7b849335ccf24b7ba5aa2607d6fe93/LICENSE",
+        "https://cdn.jsdelivr.net/gh/bbatsov/projectile@55db082cdf7b849335ccf24b7ba5aa2607d6fe93/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "psc-ide": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/purescript-emacs/psc-ide-emacs/4e614df553fb315d32ee9dac085109ee7786a3cf/LICENSE",
+        "https://cdn.jsdelivr.net/gh/purescript-emacs/psc-ide-emacs@4e614df553fb315d32ee9dac085109ee7786a3cf/LICENSE"
+      ],
+      "sha256": "c61f12da7cdad526bdcbed47a4c0a603e60dbbfdaf8b66933cd088e9132c303f",
+      "bytes": 32472
+    }
+  ],
+  "restclient": [
+    {
+      "path": "upstream-notices/README.md",
+      "urls": [
+        "https://raw.githubusercontent.com/emacsorphanage/restclient/e2a2b13482d72634f8e49864cd9e5c907a5fe137/README.md",
+        "https://cdn.jsdelivr.net/gh/emacsorphanage/restclient@e2a2b13482d72634f8e49864cd9e5c907a5fe137/README.md"
+      ],
+      "sha256": "cc5e0f9c08708875c0d993578ea3f6c2ad73cea6d6d671d0209bb09d5aeb50f5",
+      "bytes": 10075
+    }
+  ],
+  "rg": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/dajva/rg.el/9ff6cb24bda58f481886ebaf16b524f4f9b3769c/LICENSE",
+        "https://cdn.jsdelivr.net/gh/dajva/rg.el@9ff6cb24bda58f481886ebaf16b524f4f9b3769c/LICENSE"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "robe": [
+    {
+      "path": "upstream-notices/README.md",
+      "urls": [
+        "https://raw.githubusercontent.com/dgutov/robe/73a78e55394c1c70c11f9354ef52e7ffce31547c/README.md",
+        "https://cdn.jsdelivr.net/gh/dgutov/robe@73a78e55394c1c70c11f9354ef52e7ffce31547c/README.md"
+      ],
+      "sha256": "b775d7d5968832af79ae4e24b021a5b29663ff2a05167b11fc569348d8fb5843",
+      "bytes": 6779
+    }
+  ],
+  "ruby-compilation": [
+    {
+      "path": "upstream-notices/COPYING",
+      "urls": [
+        "https://raw.githubusercontent.com/eschulte/rinari/be07b0f42aefa24c5d36c441d1f3f72e64fffaa4/COPYING",
+        "https://cdn.jsdelivr.net/gh/eschulte/rinari@be07b0f42aefa24c5d36c441d1f3f72e64fffaa4/COPYING"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "rust-mode": [
+    {
+      "path": "upstream-notices/LICENSE-APACHE",
+      "urls": [
+        "https://raw.githubusercontent.com/rust-lang/rust-mode/542f1755d8929ca83564322d7030d558f3392fe1/LICENSE-APACHE",
+        "https://cdn.jsdelivr.net/gh/rust-lang/rust-mode@542f1755d8929ca83564322d7030d558f3392fe1/LICENSE-APACHE"
+      ],
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+      "bytes": 10847
+    },
+    {
+      "path": "upstream-notices/LICENSE-MIT",
+      "urls": [
+        "https://raw.githubusercontent.com/rust-lang/rust-mode/542f1755d8929ca83564322d7030d558f3392fe1/LICENSE-MIT",
+        "https://cdn.jsdelivr.net/gh/rust-lang/rust-mode@542f1755d8929ca83564322d7030d558f3392fe1/LICENSE-MIT"
+      ],
+      "sha256": "7b63ecd5f1902af1b63729947373683c32745c16a10e8e6292e2e2dcd7e90ae0",
+      "bytes": 1071
+    }
+  ],
+  "s": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/magnars/s.el/b4b8c03fcef316a27f75633fe4bb990aeff6e705/LICENSE",
+        "https://cdn.jsdelivr.net/gh/magnars/s.el@b4b8c03fcef316a27f75633fe4bb990aeff6e705/LICENSE"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "sass-mode": [
+    {
+      "path": "upstream-notices/MIT-LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/nex3/sass-mode/247a0d4b509f10b28e4687cd8763492bca03599b/MIT-LICENSE",
+        "https://cdn.jsdelivr.net/gh/nex3/sass-mode@247a0d4b509f10b28e4687cd8763492bca03599b/MIT-LICENSE"
+      ],
+      "sha256": "b1c53a07a35e3ecb040dd847f3df632737ee88b28b17c6c5945be2a449d77893",
+      "bytes": 1102
+    }
+  ],
+  "simple-httpd": [
+    {
+      "path": "upstream-notices/UNLICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/skeeto/emacs-web-server/347c30494d3bcfc79de35e54538f92f4e4a46ecd/UNLICENSE",
+        "https://cdn.jsdelivr.net/gh/skeeto/emacs-web-server@347c30494d3bcfc79de35e54538f92f4e4a46ecd/UNLICENSE"
+      ],
+      "sha256": "7e12e5df4bae12cb21581ba157ced20e1986a0508dd10d0e8a4ab9a4cf94e85c",
+      "bytes": 1211
+    }
+  ],
+  "skewer-mode": [
+    {
+      "path": "upstream-notices/UNLICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/skeeto/skewer-mode/e5bed351939c92a1f788f78398583c2f83f1bb3c/UNLICENSE",
+        "https://cdn.jsdelivr.net/gh/skeeto/skewer-mode@e5bed351939c92a1f788f78398583c2f83f1bb3c/UNLICENSE"
+      ],
+      "sha256": "7e12e5df4bae12cb21581ba157ced20e1986a0508dd10d0e8a4ab9a4cf94e85c",
+      "bytes": 1211
+    }
+  ],
+  "slime": [
+    {
+      "path": "upstream-notices/GPL-2.0-only.txt",
+      "urls": [
+        "https://raw.githubusercontent.com/spdx/license-list-data/d685a936bed3dbdd9b668c51f5e0f467ed5d1bd5/text/GPL-2.0-only.txt",
+        "https://cdn.jsdelivr.net/gh/spdx/license-list-data@d685a936bed3dbdd9b668c51f5e0f467ed5d1bd5/text/GPL-2.0-only.txt"
+      ],
+      "sha256": "aaf135472f81c5b4a0dca9367e5bb5e9750032b5bebe5442b36e4c0a47430df3",
+      "bytes": 17337
+    },
+    {
+      "path": "upstream-notices/GPL-3.0-only.txt",
+      "urls": [
+        "https://raw.githubusercontent.com/spdx/license-list-data/d685a936bed3dbdd9b668c51f5e0f467ed5d1bd5/text/GPL-3.0-only.txt",
+        "https://cdn.jsdelivr.net/gh/spdx/license-list-data@d685a936bed3dbdd9b668c51f5e0f467ed5d1bd5/text/GPL-3.0-only.txt"
+      ],
+      "sha256": "fb981668c18a279e285fc4d83fba1e836cc84dd4daa73c9697d3cfd2d8aca6e0",
+      "bytes": 34674
+    },
+    {
+      "path": "upstream-notices/README.md",
+      "urls": [
+        "https://raw.githubusercontent.com/slime/slime/74677912d0923b659418c7d1449648e0d3e2cd1b/README.md",
+        "https://cdn.jsdelivr.net/gh/slime/slime@74677912d0923b659418c7d1449648e0d3e2cd1b/README.md"
+      ],
+      "sha256": "31f3b01042de14e345f69c2d2bb2bf37c238cb3d875183a71c7184a9abce8b25",
+      "bytes": 2251
+    }
+  ],
+  "switch-window": [
+    {
+      "path": "upstream-notices/WTFPL.txt",
+      "urls": [
+        "https://raw.githubusercontent.com/spdx/license-list-data/d685a936bed3dbdd9b668c51f5e0f467ed5d1bd5/text/WTFPL.txt",
+        "https://cdn.jsdelivr.net/gh/spdx/license-list-data@d685a936bed3dbdd9b668c51f5e0f467ed5d1bd5/text/WTFPL.txt"
+      ],
+      "sha256": "13d8825a59e5e546d41e8711405d0f335a9934362a47c04a3b4280fa7932dc4a",
+      "bytes": 432
+    }
+  ],
+  "tablist": [
+    {
+      "path": "upstream-notices/COPYING",
+      "urls": [
+        "https://raw.githubusercontent.com/emacsorphanage/tablist/fcd37147121fabdf003a70279cf86fbe08cfac6f/COPYING",
+        "https://cdn.jsdelivr.net/gh/emacsorphanage/tablist@fcd37147121fabdf003a70279cf86fbe08cfac6f/COPYING"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "terraform-mode": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/hcl-emacs/terraform-mode/5bdd734a87f67f6574664f63eb4d02a0bc74c0d0/LICENSE",
+        "https://cdn.jsdelivr.net/gh/hcl-emacs/terraform-mode@5bdd734a87f67f6574664f63eb4d02a0bc74c0d0/LICENSE"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "textile-mode": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/juba/textile-mode/2ad90cb6ed2560ee147417a3ec65222cc2ad33f1/LICENSE",
+        "https://cdn.jsdelivr.net/gh/juba/textile-mode@2ad90cb6ed2560ee147417a3ec65222cc2ad33f1/LICENSE"
+      ],
+      "sha256": "a45d0bb572ed792ed34627a72621834b3ba92aab6e2cc4e04301dee7a728d753",
+      "bytes": 18027
+    }
+  ],
+  "transient": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/magit/transient/4a06aeb0f7bd279f76bdf619a7852a4725bf4cc5/LICENSE",
+        "https://cdn.jsdelivr.net/gh/magit/transient@4a06aeb0f7bd279f76bdf619a7852a4725bf4cc5/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "treepy": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/volrath/treepy.el/651e2634f01f346da9ec8a64613c51f54b444bc3/LICENSE",
+        "https://cdn.jsdelivr.net/gh/volrath/treepy.el@651e2634f01f346da9ec8a64613c51f54b444bc3/LICENSE"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "tuareg": [
+    {
+      "path": "upstream-notices/COPYING",
+      "urls": [
+        "https://raw.githubusercontent.com/ocaml/tuareg/1600fdad28bdd2c55e52a87e7987713c6d5d1718/COPYING",
+        "https://cdn.jsdelivr.net/gh/ocaml/tuareg@1600fdad28bdd2c55e52a87e7987713c6d5d1718/COPYING"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "typescript-mode": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/emacs-typescript/typescript.el/481df3ad2cdf569d8e6697679669ff6206fbd2f9/LICENSE",
+        "https://cdn.jsdelivr.net/gh/emacs-typescript/typescript.el@481df3ad2cdf569d8e6697679669ff6206fbd2f9/LICENSE"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "vertico": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/minad/vertico/026a81a9c893b1d73cdbcb12436a0fad3ebdeb5f/LICENSE",
+        "https://cdn.jsdelivr.net/gh/minad/vertico@026a81a9c893b1d73cdbcb12436a0fad3ebdeb5f/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "visual-fill-column": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/joostkremers/visual-fill-column/d4464130a21733671a53f915a697dea65888473f/LICENSE",
+        "https://cdn.jsdelivr.net/gh/joostkremers/visual-fill-column@d4464130a21733671a53f915a697dea65888473f/LICENSE"
+      ],
+      "sha256": "12ac5047f2af0522f06798b1589ffc4599bc29c91f954d7874e0320634e777c0",
+      "bytes": 35122
+    }
+  ],
+  "wgrep": [
+    {
+      "path": "upstream-notices/COPYING",
+      "urls": [
+        "https://raw.githubusercontent.com/mhayashi1120/Emacs-wgrep/b4d69280d8a6a5ded1597e02afbaa811a160383b/COPYING",
+        "https://cdn.jsdelivr.net/gh/mhayashi1120/Emacs-wgrep@b4d69280d8a6a5ded1597e02afbaa811a160383b/COPYING"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "which-key": [
+    {
+      "path": "upstream-notices/LICENSE.md",
+      "urls": [
+        "https://raw.githubusercontent.com/justbur/emacs-which-key/ed389312170df955aaf10c2e120cc533ed5c509e/LICENSE.md",
+        "https://cdn.jsdelivr.net/gh/justbur/emacs-which-key@ed389312170df955aaf10c2e120cc533ed5c509e/LICENSE.md"
+      ],
+      "sha256": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
+      "bytes": 35141
+    }
+  ],
+  "with-editor": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/magit/with-editor/ca902ae02972bdd6919a902be2593d8cb6bd991b/LICENSE",
+        "https://cdn.jsdelivr.net/gh/magit/with-editor@ca902ae02972bdd6919a902be2593d8cb6bd991b/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "writeroom-mode": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/joostkremers/writeroom-mode/cca2b4b3cfcfea1919e1870519d79ed1a69aa5e2/LICENSE",
+        "https://cdn.jsdelivr.net/gh/joostkremers/writeroom-mode@cca2b4b3cfcfea1919e1870519d79ed1a69aa5e2/LICENSE"
+      ],
+      "sha256": "5285ec02267b6b9f5a0038d3fb706c6418ddb58ac65a0d045dc00eccc9bb6a8f",
+      "bytes": 1526
+    }
+  ],
+  "xref-js2": [
+    {
+      "path": "upstream-notices/COPYING",
+      "urls": [
+        "https://raw.githubusercontent.com/js-emacs/xref-js2/e215af9eedac69b40942fff9d5514704f9f4d43e/COPYING",
+        "https://cdn.jsdelivr.net/gh/js-emacs/xref-js2@e215af9eedac69b40942fff9d5514704f9f4d43e/COPYING"
+      ],
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    }
+  ],
+  "yaml": [
+    {
+      "path": "upstream-notices/LICENSE",
+      "urls": [
+        "https://raw.githubusercontent.com/zkry/yaml.el/09e46d563f1f3ff948852e08360c7d3c76e2acba/LICENSE",
+        "https://cdn.jsdelivr.net/gh/zkry/yaml.el@09e46d563f1f3ff948852e08360c7d3c76e2acba/LICENSE"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ],
+  "yaml-mode": [
+    {
+      "path": "upstream-notices/LICENSE.txt",
+      "urls": [
+        "https://raw.githubusercontent.com/yoshiki/yaml-mode/d91f878729312a6beed77e6637c60497c5786efa/LICENSE.txt",
+        "https://cdn.jsdelivr.net/gh/yoshiki/yaml-mode@d91f878729312a6beed77e6637c60497c5786efa/LICENSE.txt"
+      ],
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  ]
+}

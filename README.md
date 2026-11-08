@@ -22,7 +22,9 @@ curl -fsSL https://github.com/HermitHan/emacs-cl-kit/releases/latest/download/em
 emacs --init-directory "$HOME/.emacs-portable-trial" -nw
 ```
 
-When prompted, choose a Lisp implementation or press Return. On a fresh install, the default is SBCL if available. If GitHub's download URL times out, the release notes give an alternate URL for the same installer. [v0.1.0 release notes](https://github.com/HermitHan/emacs-cl-kit/releases/tag/v0.1.0)
+When prompted, choose a Lisp implementation or press Return. On a fresh install, the default is SBCL if available.
+
+**Installing without internet access?** Download `emacs-portable-offline.sh` and its `.sha256` file on a connected machine, transfer both, verify the checksum, then run `bash ./emacs-portable-offline.sh`. The target machine needs Emacs, Python, Bash and the Lisp implementation you plan to use. The release page lists both installers, checksums and an alternate download for the online installer. [Latest release](https://github.com/HermitHan/emacs-cl-kit/releases/latest)
 
 ## Compile and call your first function
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build/restore a *private* source-only package cache. No .elc, user data or auth caches."""
+"""Build a private migration snapshot or restore a hash-verified offline package bundle."""
 import argparse
 import gzip
 import hashlib
@@ -80,7 +80,7 @@ def restore(ns):
     with tarfile.open(ns.bundle,'r:gz') as t:
         members = t.getmembers()
         if not members or sum(m.size for m in members)>MAX_SIZE or len(members)>10000:
-            raise ValueError('Unexpected private bundle size')
+            raise ValueError('Unexpected offline bundle size')
         names = [m.name for m in members]
         if len(set(names))!=len(names) or any(not m.isfile() for m in members) or META not in names:
             raise ValueError('Unexpected member type, missing manifest or duplicate member')
@@ -102,7 +102,7 @@ def restore(ns):
             out.parent.mkdir(parents=True, exist_ok=True)
             with out.open('xb') as fp: fp.write(data)
             out.chmod(0o755 if m.mode&0o111 else 0o644)
-    print('Verified private source bundle.')
+    print('Verified offline package sources.')
 
 a=argparse.ArgumentParser(description=__doc__)
 s=a.add_subparsers(dest='op',required=True)

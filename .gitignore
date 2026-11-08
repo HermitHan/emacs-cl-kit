@@ -28,5 +28,6 @@ openai-oauth-token*
 *.key
 *.portable-backups/
 /deps/offline-packages*.tar.gz
+/deps/public-offline-packages.tar.gz
 /emacs-portable-*.tar.gz*
 /emacs-portable-*.sh*

@@ -1,5 +1,6 @@
 """安装器隔离端到端测试；依赖阶段用可控的小包替身，真正的包安装另做集成测试。"""
 import contextlib
+import hashlib
 import importlib.util
 import json
 import os
@@ -86,6 +87,27 @@ class InstallerTest(unittest.TestCase):
     def backup(self):
         root = self.root / (self.target.name + '.portable-backups')
         return sorted(x for x in root.iterdir() if x.is_dir())[-1]
+
+    def test_public_release_rejects_private_snapshot_even_when_renamed(self):
+        for directory in ('scripts', 'deps'):
+            (self.repo/directory).mkdir()
+        scripts = self.repo/'scripts'
+        shutil.copy2(SRC/'scripts/make-release.py', scripts)
+        for manifest in ('config-files.txt', 'release-files.txt'):
+            (scripts/manifest).write_text('')
+        private = self.repo/'public-offline-packages.tar.gz'
+        private.write_bytes(b'private test fixture')
+        for name, content in [('public-offline-packages', b'public test fixture'),
+                              ('offline-packages', private.read_bytes())]:
+            (self.repo/'deps'/(name+'.sha256')).write_text(
+                hashlib.sha256(content).hexdigest()+'  '+name+'.tar.gz\n')
+        dist = self.root/'dist'
+        result = subprocess.run([sys.executable, str(scripts/'make-release.py'),
+                                 '--output', str(dist), '--public-offline-bundle', str(private)],
+                                capture_output=True, text=True)
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn('public-offline-packages.sha256', result.stderr)
+        self.assertEqual(list(dist.iterdir()), [])
 
     def test_minimum_supported_emacs(self):
         for version in ('28.2', '29.0'):

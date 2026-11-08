@@ -33,15 +33,18 @@ def sources():
 def digest(data):
     return hashlib.sha256(data).hexdigest()
 
-def write_release(stage, bundle):
+def write_release(stage, bundle, public_offline=False):
     items = list(sources())
     snapshot = None
+    inner = 'public-offline-packages' if public_offline else 'offline-packages'
+    bundle_name = 'deps/'+inner+'.tar.gz'
     if bundle:
         snapshot = bundle.read_bytes()
-        pin, name = (ROOT/'deps/offline-packages.sha256').read_text(encoding='ascii').split()
-        if name != 'offline-packages.tar.gz' or digest(snapshot) != pin:
-            raise ValueError('离线依赖与 deps/offline-packages.sha256 不符，未生成发行文件。')
-        items.append(('deps/offline-packages.tar.gz', bundle))
+        pin_file = ROOT/'deps'/(inner+'.sha256')
+        pin, name = pin_file.read_text(encoding='ascii').split()
+        if name != inner+'.tar.gz' or digest(snapshot) != pin:
+            raise ValueError('离线依赖与 '+pin_file.name+' 不符，未生成发行文件。')
+        items.append((bundle_name, bundle))
     suffix = 'offline' if bundle else 'source'
     archive = stage/('emacs-portable-'+suffix+'.tar.gz')
     sums = []
@@ -52,7 +55,7 @@ def write_release(stage, bundle):
     with archive.open('xb') as raw, gzip.GzipFile(filename='', mode='wb', fileobj=raw, mtime=0) as zipped:
         with tarfile.open(fileobj=zipped, mode='w') as tar:
             for name, p in sorted(items):
-                data = snapshot if name == 'deps/offline-packages.tar.gz' else p.read_bytes()
+                data = snapshot if name == bundle_name else p.read_bytes()
                 sums.append(digest(data)+'  '+name)
                 mode = 0o755 if name.endswith('.sh') or p.stat().st_mode & 0o111 else 0o644
                 entry(tar, name, data, mode)
@@ -75,11 +78,11 @@ def write_release(stage, bundle):
         checksum = digest(artifact.read_bytes())+'  '+artifact.name+'\n'
         artifact.with_name(artifact.name+'.sha256').write_text(checksum, encoding='ascii')
 
-def build(output, bundle):
+def build(output, bundle, public_offline=False):
     output.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory(dir=output) as temp:
         stage = Path(temp)
-        write_release(stage, bundle)
+        write_release(stage, bundle, public_offline)
         created = []
         try:
             for artifact in sorted(stage.iterdir()):
@@ -97,6 +100,9 @@ def build(output, bundle):
 if __name__ == '__main__':
     cli = argparse.ArgumentParser(description=__doc__)
     cli.add_argument('--output', required=True, type=Path)
-    cli.add_argument('--offline-bundle', type=Path)
+    group = cli.add_mutually_exclusive_group()
+    group.add_argument('--offline-bundle', type=Path, help='个人迁移用的固定快照')
+    group.add_argument('--public-offline-bundle', type=Path, help='含上游声明的公开发行快照')
     args = cli.parse_args()
-    build(args.output, args.offline_bundle)
+    build(args.output, args.public_offline_bundle or args.offline_bundle,
+          public_offline=args.public_offline_bundle is not None)

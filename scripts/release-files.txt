@@ -11,6 +11,8 @@ bootstrap/packages.el
 bootstrap/packages.sh
 deps/offline-packages.sha256
 deps/online-packages.json
+deps/public-offline-notices.json
+deps/public-offline-packages.sha256
 deps/reference-packages.tsv
 docs/handbook.en.md
 docs/third-party-distribution.md
@@ -18,9 +20,11 @@ docs/使用手册.md
 docs/依赖与离线包.md
 docs/迁移到已有设备.md
 install.sh
+scripts/build-public-bundle.py
 scripts/config-files.txt
 scripts/export-config.py
 scripts/make-release.py
+scripts/offline/switch-window-mvborder.el
 scripts/release-files.txt
 scripts/standalone.sh.in
 tests/slime-smoke.el

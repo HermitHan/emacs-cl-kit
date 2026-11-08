@@ -24,6 +24,7 @@ fi
 [[ ! -e "$dest" && ! -L "$dest" ]] || { echo "拒绝替换已有包目录：$dest" >&2; exit 1; }
 export HAN_PKGDIR="$private/elpa-$version"
 bundle=${EMACS_PORTABLE_PACKAGE_BUNDLE:-}
+if [[ -z "$bundle" && -f "$repo/deps/public-offline-packages.tar.gz" ]]; then bundle="$repo/deps/public-offline-packages.tar.gz"; fi
 if [[ -z "$bundle" && -f "$repo/deps/offline-packages.tar.gz" ]]; then bundle="$repo/deps/offline-packages.tar.gz"; fi
 if [[ -z "$bundle" && -n "${EMACS_PORTABLE_BUNDLE_URL:-}" ]]; then
   case "$EMACS_PORTABLE_BUNDLE_URL" in
@@ -32,22 +33,26 @@ if [[ -z "$bundle" && -n "${EMACS_PORTABLE_BUNDLE_URL:-}" ]]; then
   esac
   bundle="$private/offline-packages.tar.gz"
   curl --fail --location --proto '=https' --proto-redir '=https' --connect-timeout 10 \
-    --max-time 120 --max-filesize 16777216 --retry 1 --output "$bundle" -- "$EMACS_PORTABLE_BUNDLE_URL"
+    --max-time 120 --max-filesize 67108864 --retry 1 --output "$bundle" -- "$EMACS_PORTABLE_BUNDLE_URL"
 fi
 if [[ -z "$bundle" ]]; then
   echo "正在下载此版本锁定的第三方依赖；首次安装需要网络。" >&2
   python3 "$here/online-packages.py" --output "$HAN_PKGDIR" --emacs-major "${version%%.*}"
 else
   [[ -f "$bundle" ]] || { echo "指定的离线依赖文件不存在：$bundle" >&2; exit 1; }
-  python3 - "$repo/deps/offline-packages.sha256" "$bundle" <<'PYHASH'
+  python3 - "$repo/deps" "$bundle" <<'PYHASH'
 from pathlib import Path
 import hashlib, sys
-expected=Path(sys.argv[1]).read_text().split()[0]
+deps, bundle = map(Path, sys.argv[1:])
+names = ("public-offline-packages", "offline-packages")
+# Shipped filenames identify an edition. A user-supplied path may name either pinned bundle.
+pins = [name for name in names if bundle == deps / (name + ".tar.gz")] or names
+expected = {(deps / (name + ".sha256")).read_text().split()[0] for name in pins}
 digest=hashlib.sha256()
-with Path(sys.argv[2]).open("rb") as stream:
+with bundle.open("rb") as stream:
     for block in iter(lambda: stream.read(1024 * 1024), b""):
         digest.update(block)
-if digest.hexdigest() != expected:
+if digest.hexdigest() not in expected:
     raise SystemExit("依赖包 SHA256 与此版本不符；停止安装。")
 PYHASH
   echo "固定版本依赖包 SHA256 已验证；用目标 Emacs 生成 autoload。" >&2
