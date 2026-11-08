@@ -1,0 +1,116 @@
+#+title: 我的 Emacs 配置阅读指南
+#+language: zh-CN
+#+startup: overview
+
+* 从哪里开始读
+
+用 C-x C-f 打开本文件，TAB 可展开/折叠章节。下面链接可用 C-c C-o 打开。
+本指南以 Emacs 30.1 为例。其他版本可用 =C-h k= 查看当前按键，用 =C-h f= 查看命令文档。
+
+1. [[file:init.el][init.el]]：启动顺序、个人按键翻译、模块清单。
+2. [[file:early-init.el][early-init.el]]：主配置之前的包初始化开关。
+3. [[file:lisp/init-elpa.el][init-elpa.el]]：软件源、确保依赖已安装、选装包登记。
+4. [[file:lisp/init-editing-utils.el][init-editing-utils.el]]、[[file:lisp/init-windows.el][init-windows.el]]：通用编辑与窗口操作。
+5. [[file:lisp/init-paredit.el][init-paredit.el]]、[[file:lisp/init-lisp.el][init-lisp.el]]：结构编辑与 Lisp 公共设置。
+6. [[file:lisp/init-slime.el][init-slime.el]]、[[file:lisp/init-common-lisp.el][init-common-lisp.el]]：CL 开发、REPL、SBCL。
+7. [[file:lisp/init-gptel.el][init-gptel.el]]、[[file:lisp/init-gptel-workflow.el][init-gptel-workflow.el]]：AI 接入、聊天与改写审阅。
+8. [[file:lisp/init-gptel-preferences.el][init-gptel-preferences.el]]：每次请求读取个人偏好的实现。
+9. [[file:lisp/init-state.el][init-state.el]]：历史、会话等运行时数据的统一保存位置。
+
+其他语言按文件名寻找，例如 init-python.el、init-ruby.el、init-sql.el。
+每个模块中的中文注释解释“何时执行、解决什么问题、如何使用”；英文函数名保留，方便查帮助。
+
+* 读懂最常见的 Emacs Lisp 写法
+
+- =(setq 变量 值)=：修改变量。=(setq-local ...)= 只影响当前 buffer。
+- =setq-default=：修改默认值；已经存在的 buffer 局部值不一定跟着变化。
+- =(require '名字)=：需要某个 feature，若尚未加载则寻找并执行其库文件。
+- =(provide '名字)=：声明本文件已经提供这个 feature，供 require 判断。
+- =require-package=：这份配置自定义的安装辅助函数。包缺失时可能联网安装，和 require 不同。
+- =maybe-require-package=：尝试确保可选包存在，失败时记录信息而不让该可选功能阻断启动。
+- =with-eval-after-load=：等某个库加载后再运行设置，避免对尚不存在的键图操作。
+- =add-hook=：登记一个在指定时机调用的函数，例如进入 lisp-mode 后执行的设置。
+- =defun=：定义函数；包含 =(interactive)= 的函数通常能通过 M-x 调用。
+- =define-key= / =global-set-key=：指定键图中的绑定。minor mode、major mode 的键图可能覆盖全局绑定。
+- =advice-add=：给已有函数加前置、后置或包裹处理；依赖上游函数名，升级时应特别核对。
+- 以分号开头的是注释，不执行；函数体开头的字符串是 docstring，能被帮助命令显示。
+
+这里使用的是 Emacs Lisp。CL 项目中的包、函数和类型交给 SLIME/SBCL；不要把两者混用。
+
+* 常用的学习与排查入口
+
+- =M-x describe-key=：接着按目标键，看当前上下文实际调用哪个命令。
+- =M-x describe-function=：查函数参数、说明和源码链接。
+- =M-x describe-variable=：查变量当前值、默认值及其是否是 buffer 局部变量。
+- =M-x find-library=：打开某个已安装库的源码，例如 slime、gptel-rewrite。
+- =M-x check-parens=：在当前 Lisp 配置中检查括号与字符串是否配对。
+- =M-x view-echo-area-messages=：查看 *Messages* 中的启动或命令信息。
+- =M-x sanityinc/require-times=：查看这份配置记录的库加载耗时。
+
+不要只因一个变量值为 nil 就判断功能坏了；它可能尚未加载、只在指定模式启用，或者被局部值覆盖。
+
+* 我的按键习惯
+
+以下保留 init.el 中的输入事件翻译。终端实际发送什么键，也会影响 Emacs 能否识别。
+
+| 物理按键 | 当前用途 |
+|----------+----------|
+| [ / ] | 输入圆括号，方便写 Lisp |
+| ( / ) | 输入方括号 |
+| TAB | 翻译为 M-/，使用已有补全入口；Org 保留 TAB 折叠 |
+| M-TAB / M-\ / M-、 | 产生原 TAB，供缩进等命令使用 |
+| C-w | 复制选区 |
+| M-w | 剪切选区 |
+| M-o | 切换窗口 |
+| M-+ / M-~ / M-～ | 切换标签页 |
+| M-- | 撤销 |
+
+* CL 与 AI 的分工
+
+- =M-x slime=：启动本机默认实现；安装时可以选择，无有效偏好时优先 SBCL。
+- =M-x han/slime-start=：按名称选这一次的实现，不改默认值；=M--= 仍是撤销。
+- 多个 REPL 可以共存，彼此不共享已定义的函数或变量。=M-x slime-list-connections= 后在目标行按 =d=，让未固定连接的源码 buffer 使用该连接；每个 REPL 仍指向自己的 Lisp。
+- Linux 上运行同一份配置时，=my-lispworks=、=han-lispworks= 等控制台程序在 PATH 中就会出现在列表里。独立安装的原版映像可用环境变量 =LISPWORKS= 指定可执行文件的完整路径（不带参数）。
+- 若安装在试用目录，可运行 ~SLIME_DEFAULT_LISP=my-lispworks emacs --init-directory "$HOME/.emacs-portable-trial" -nw~，在这次启动首选 LispWorks。若想长期使用，可在该机的 shell 配置里 export 此变量；Emacs 需要继承它。没有该实现则自动回退。通过 SSH 在服务器内运行 Emacs 时，列表反映服务器上安装的实现。
+- 安装器写入 =var/slime-default-lisp= 的是一个普通名称。环境变量未指定可用实现时，SLIME 采用这个本机选择；文件里不需要写 Lisp 代码。
+- 源码 =C-c C-c=：编译当前函数；=C-c C-r=：求值选区；=C-c C-z=：切到 SLIME 输出/REPL。
+- REPL 的 =RET= 只换行，=M-RET= 才提交表达式。多行粘贴后可先检查再执行。
+- 源码选区后 =C-c r=：调用 gptel-rewrite；它与 =C-c C-r= 完全不同。
+- 改写 Diff 中 =a= 接受，=k= 拒绝，=r= 在当前候选基础上继续提要求。
+- =e= 准备解释用的聊天草稿；=s= 回到源码；=?= 查看当前审阅帮助。
+- =y= 复制当前候选，=Y= 复制首次原文；复制内容没有 Diff 的加减号，也不会自动求值。
+- 普通 =C-y= 可将复制的代码粘贴到 REPL，再用 =M-RET= 执行。
+- 接受前源码仍保留原文，候选通过显示层预览；先核对 Diff 再决定是否接受。
+
+GPT 的建议和 CL 运行结果是两回事。gptel 不自动把建议送进 Lisp image，编译和求值由你控制。
+聊天、改写和解释之间的上下文怎样传递，见 init-gptel-workflow.el 中的分段说明。
+你的长期代码偏好保存在 [[file:gptel-preferences.md][gptel-preferences.md]]，手动修改并保存后，下次聊天/改写会重新读取。
+回复语言默认跟随提问或改写指令。只粘贴代码等无法判断语言的场合，会参考 Emacs 的系统消息语言。
+要在这台机器上固定语言，按 =M-x customize-option RET han/gptel-response-language RET=，
+选择固定语言，输入语言名后用 =Apply and Save= 保存。明确要求“请用英文回答”等只覆盖当前请求。
+选回自动（=nil=）即可恢复跟随提问。改写已有文本会保留原文语言，代码中的注释和文档字符串优先沿用项目已有语言；需要翻译时，可在当次改写要求里明确说明。
+
+* 安全地练习修改配置
+
+先备份目标文件，一次只改一个小功能；查清变量说明和现有键绑定后再编辑。
+保存配置文件不会自动执行其中所有代码。局部实验可选中完整表达式后用 =M-x eval-region=，
+但含安装、会话恢复、启动服务的整段配置不适合反复求值。
+启动相关调整通常保存后重启验证；不要为了更新一项设置把整个 init.el 重跑一遍。
+
+custom.el 是 Customize 自动保存的变量区，优先通过 Customize 修改；手写函数放在对应 lisp/ 模块。
+elpa-* 是第三方包目录，lisp/ 是自己的配置目录。不要为了修改偏好直接编辑第三方源码，升级会覆盖它。
+旧版 elpa 目录、其他语言模块和历史保存策略均保留；仅把状态文件位置集中到 var/。
+
+* 配置、状态与备份放在哪里
+
+- =early-init.el= 是正式配置，在 =init.el= 之前加载，不能当作旧备份删除。
+- =init.el=、=lisp/=、=custom.el= 和 =gptel-preferences.md= 是正式配置与偏好。
+- =var/= 保存输入历史、最近文件、会话、项目列表、Eshell 数据等，具体映射见 =init-state.el=。
+- =.cache/gptel-openai/= 包含 gptel 授权，仍保留原位；不要作为普通缓存清空或公开分享。
+- =elpa-版本号/= 保存相应 Emacs 版本的第三方包；旧版目录继续保留。
+- 接管现有配置前，先退出相应 Emacs，将完整备份放在配置目录外并妥善保管其中的历史与授权。安装器会另外备份本次替换的受管文件，恢复点在目标旁的 =目标名.portable-backups/=，安装结束时会打印对应的 =--restore= 命令。
+
+状态收纳不会改变原先的自动保存、备份副本开关，也不会合并或清空历史。
+以后新建功能若需要保存全局个人状态，可通过 =(han/state-file "文件名")= 指定位置；
+项目自己的数据仍放项目内。不要在 Emacs 运行时直接移动 var/ 中的文件，否则定时保存可能写回旧位置。
+迁移 Linux 时按需携带 var/；其中桌面记录可能引用旧电脑路径，授权通常应在目标设备重新登录。

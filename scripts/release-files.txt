@@ -1,0 +1,27 @@
+# Public support files, relative to the repository root.
+# Configuration files are separately reviewed in scripts/config-files.txt.
+.gitignore
+LICENSE
+README.en.md
+README.md
+bootstrap/configure.py
+bootstrap/online-packages.py
+bootstrap/package-bundle.py
+bootstrap/packages.el
+bootstrap/packages.sh
+deps/offline-packages.sha256
+deps/online-packages.json
+deps/reference-packages.tsv
+docs/third-party-distribution.md
+docs/依赖与离线包.md
+docs/迁移到已有设备.md
+install.sh
+scripts/config-files.txt
+scripts/export-config.py
+scripts/make-release.py
+scripts/release-files.txt
+scripts/standalone.sh.in
+tests/slime-smoke.el
+tests/test-sandbox.el
+tests/test_installer.py
+tests/verify-startup.el

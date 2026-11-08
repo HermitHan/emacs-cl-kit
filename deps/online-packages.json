@@ -1,0 +1,3768 @@
+{
+ "format": 1,
+ "packages": {
+  "a": {
+   "version": "20210929.1510",
+   "commit": "9ad2d18252b729174fe22ed0b2b7670c88f60c31",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/a-20210929.1510.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/a-20210929.1510.tar"
+   ],
+   "sha256": "3a07edc3ff8c291377076325f4298985512f60ae0fcd905061d606cedbfe68c0",
+   "bytes": 20480,
+   "files": [
+    "a-pkg.el",
+    "a.el"
+   ]
+  },
+  "add-node-modules-path": {
+   "version": "20230307.655",
+   "commit": "841e93dfed50448da66c89a977c9182bb18796a1",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/add-node-modules-path-20230307.655.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/add-node-modules-path-20230307.655.tar"
+   ],
+   "sha256": "f74466fec79aabe1efb7e904183e006c31c2708d1cf9f6bf1998de58c25c1b3a",
+   "bytes": 10240,
+   "files": [
+    "add-node-modules-path-pkg.el",
+    "add-node-modules-path.el"
+   ]
+  },
+  "affe": {
+   "version": "20260322.19",
+   "commit": "6e06b8efcd5b57160ba267e42cbf3b982a4b89a1",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/0973e89399c1971a0ca36ed40e01229aad8f6e02/melpa/affe-20260322.19.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@0973e89399c1971a0ca36ed40e01229aad8f6e02/melpa/affe-20260322.19.tar"
+   ],
+   "sha256": "44b1f8f1e994972bcd5863e5a76aaaf76de813ea02bbb2203c08c356c8c755c6",
+   "bytes": 20480,
+   "files": [
+    "affe-backend.el",
+    "affe-pkg.el",
+    "affe.el"
+   ]
+  },
+  "aggressive-indent": {
+   "version": "20230112.1300",
+   "commit": "a437a45868f94b77362c6b913c5ee8e67b273c42",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/aggressive-indent-20230112.1300.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/aggressive-indent-20230112.1300.tar"
+   ],
+   "sha256": "0e500dd77f981ecf4742ae35a403b7ef867122ae40228ea1236575d4651ec11b",
+   "bytes": 30720,
+   "files": [
+    "aggressive-indent-pkg.el",
+    "aggressive-indent.el"
+   ]
+  },
+  "aio": {
+   "version": "20200610.1904",
+   "commit": "da93523e235529fa97d6f251319d9e1d6fc24a41",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/aio-20200610.1904.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/aio-20200610.1904.tar"
+   ],
+   "sha256": "a61518c93d86f9fb0b2a8576cb3d1dde202985fe2c96ec9caad939159694ecd3",
+   "bytes": 30720,
+   "files": [
+    "README.md",
+    "UNLICENSE",
+    "aio-pkg.el",
+    "aio.el"
+   ]
+  },
+  "alert": {
+   "version": "20221213.1619",
+   "commit": "c762380ff71c429faf47552a83605b2578656380",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/alert-20221213.1619.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/alert-20221213.1619.tar"
+   ],
+   "sha256": "98c3a2ada08db5484da08fc3236a72f8d1c92b55c24649583490d45b5f2dd9b7",
+   "bytes": 61440,
+   "files": [
+    "alert-pkg.el",
+    "alert.el"
+   ]
+  },
+  "anzu": {
+   "version": "20240929.201",
+   "commit": "bc3a0032bb6aa7f5886f10460cd53eb7b8b020af",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/anzu-20240929.201.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/anzu-20240929.201.tar"
+   ],
+   "sha256": "328010e30c22fa37217c9d9acdd4b3cebd0b2be4ad30e3129253fef0761c4260",
+   "bytes": 40960,
+   "files": [
+    "anzu-pkg.el",
+    "anzu.el"
+   ]
+  },
+  "async": {
+   "version": "20241126.810",
+   "commit": "b99658e831bc7e7d20ed4bb0a85bdb5c7dd74142",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/async-20241126.810.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/async-20241126.810.tar"
+   ],
+   "sha256": "54587de62933976096e26c4ea081ff2d752e756065373f6e27fe19ee238feaf9",
+   "bytes": 71680,
+   "files": [
+    "async-bytecomp.el",
+    "async-package.el",
+    "async-pkg.el",
+    "async.el",
+    "dired-async.el",
+    "smtpmail-async.el"
+   ]
+  },
+  "auto-compile": {
+   "version": "20250301.1627",
+   "commit": "5304e2f8a69ed9610b2392b846471f43b28b773b",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/auto-compile-20250301.1627.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/auto-compile-20250301.1627.tar"
+   ],
+   "sha256": "7cabe13a4345542c72ee4b8bb14d9fb7ea16e594fc0b2e5311999aadf6768440",
+   "bytes": 40960,
+   "files": [
+    "auto-compile-pkg.el",
+    "auto-compile.el"
+   ]
+  },
+  "avy": {
+   "version": "20241101.1357",
+   "commit": "933d1f36cca0f71e4acb5fac707e9ae26c536264",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/avy-20241101.1357.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/avy-20241101.1357.tar"
+   ],
+   "sha256": "7cb8d5c57d3dc17427b984c38763c774ca14cdb3238b754df12755c6f5bbba74",
+   "bytes": 92160,
+   "files": [
+    "avy-pkg.el",
+    "avy.el"
+   ]
+  },
+  "browse-kill-ring": {
+   "version": "20231104.1450",
+   "commit": "03cc18c08a549568edb6bc710c307c19bc507ef3",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/browse-kill-ring-20231104.1450.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/browse-kill-ring-20231104.1450.tar"
+   ],
+   "sha256": "2b3cb6aee7301dc5ffeb17fc218625ddcdcfa62a7de440e8bc11205a64c879d8",
+   "bytes": 61440,
+   "files": [
+    "browse-kill-ring-pkg.el",
+    "browse-kill-ring.el"
+   ]
+  },
+  "bug-reference-github": {
+   "version": "20200206.2158",
+   "commit": "4e848472a5be464a3bc10a3c917322d1e344951a",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/bug-reference-github-20200206.2158.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/bug-reference-github-20200206.2158.tar"
+   ],
+   "sha256": "4e5d7a96f4caebe7d7bfd85f571d0fed5925ac3503e96abbd09025a0eb9a5654",
+   "bytes": 20480,
+   "files": [
+    "bug-reference-github-pkg.el",
+    "bug-reference-github.el",
+    "bug-reference-github.info"
+   ]
+  },
+  "bundler": {
+   "version": "20200129.1338",
+   "commit": "43efb6be4ed118b06d787ce7fbcffd68a31732a7",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/bundler-20200129.1338.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/bundler-20200129.1338.tar"
+   ],
+   "sha256": "190dfa65a09024a3a8b9b5c96cc46c83df9b4bbb571f24532c34de6bd08cc06c",
+   "bytes": 20480,
+   "files": [
+    "bundler-pkg.el",
+    "bundler.el"
+   ]
+  },
+  "caml": {
+   "version": "20250227.1734",
+   "commit": "744333dc4c4bd8b93e037efa8f7362b0903b96a2",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/caml-20250227.1734.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/caml-20250227.1734.tar"
+   ],
+   "sha256": "49489b4977af0b2614ee9e2020c42dbd6612c077bedea6361c7688fa80979680",
+   "bytes": 215040,
+   "files": [
+    "caml-font-old.el",
+    "caml-font.el",
+    "caml-help.el",
+    "caml-pkg.el",
+    "caml-types.el",
+    "caml.el",
+    "camldebug.el",
+    "inf-caml.el"
+   ]
+  },
+  "cask-mode": {
+   "version": "20160410.1449",
+   "commit": "c97755267b7215f02df7b0c16b4210c04aee6566",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/cask-mode-20160410.1449.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/cask-mode-20160410.1449.tar"
+   ],
+   "sha256": "68b6cf738b92c2128f23d5652ee4d6a9ab07e07cf6d398ca9d3ea4b3f60b2c78",
+   "bytes": 10240,
+   "files": [
+    "cask-mode-pkg.el",
+    "cask-mode.el"
+   ]
+  },
+  "cider": {
+   "version": "20250313.1535",
+   "commit": "ee35c30d58bffe08dab080ec5135e23b9dfcf508",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/cider-20250313.1535.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/cider-20250313.1535.tar"
+   ],
+   "sha256": "245ab38566a479ec0ee993b76200782ee214ab6740f7c45cf1984390de547283",
+   "bytes": 1105920,
+   "files": [
+    "cider-apropos.el",
+    "cider-browse-ns.el",
+    "cider-browse-spec.el",
+    "cider-cheatsheet.el",
+    "cider-classpath.el",
+    "cider-client.el",
+    "cider-clojuredocs.el",
+    "cider-common.el",
+    "cider-completion-context.el",
+    "cider-completion.el",
+    "cider-connection.el",
+    "cider-debug.el",
+    "cider-doc.el",
+    "cider-docstring.el",
+    "cider-eldoc.el",
+    "cider-eval.el",
+    "cider-find.el",
+    "cider-format.el",
+    "cider-inspector.el",
+    "cider-jar.el",
+    "cider-log.el",
+    "cider-macroexpansion.el",
+    "cider-mode.el",
+    "cider-ns.el",
+    "cider-overlays.el",
+    "cider-pkg.el",
+    "cider-popup.el",
+    "cider-profile.el",
+    "cider-repl-history.el",
+    "cider-repl.el",
+    "cider-resolve.el",
+    "cider-scratch.el",
+    "cider-selector.el",
+    "cider-stacktrace.el",
+    "cider-test.el",
+    "cider-tracing.el",
+    "cider-util.el",
+    "cider-xref-backend.el",
+    "cider-xref.el",
+    "cider.el",
+    "clojure.sh",
+    "lein.sh",
+    "nrepl-client.el",
+    "nrepl-dict.el"
+   ]
+  },
+  "cl-libify": {
+   "version": "20181130.230",
+   "commit": "e205b96f944a4f312fd523804cbbaf00027a3c8b",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/cl-libify-20181130.230.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/cl-libify-20181130.230.tar"
+   ],
+   "sha256": "9b5dd09be743cc9509a842ee7acb36d370aca0fe634da953356f11472bfa48c5",
+   "bytes": 10240,
+   "files": [
+    "cl-libify-pkg.el",
+    "cl-libify.el"
+   ]
+  },
+  "cljsbuild-mode": {
+   "version": "20160402.1700",
+   "commit": "fa2315660cb3ce944b5e16c679dcf5afd6a97f4c",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/cljsbuild-mode-20160402.1700.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/cljsbuild-mode-20160402.1700.tar"
+   ],
+   "sha256": "2b61b173eaecb40d1685f3156bcfb6266ce88f8a551eb3973f6b8712eddee3f2",
+   "bytes": 10240,
+   "files": [
+    "cljsbuild-mode-pkg.el",
+    "cljsbuild-mode.el"
+   ]
+  },
+  "clojure-mode": {
+   "version": "20241211.1522",
+   "commit": "76630045fb5b1660c91e2ab960f5636f4d567c47",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/clojure-mode-20241211.1522.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/clojure-mode-20241211.1522.tar"
+   ],
+   "sha256": "52319337c379b884f4263c849ac54ba1f26bc7e513a2ad84cd118e4c6155653f",
+   "bytes": 133120,
+   "files": [
+    "clojure-mode-pkg.el",
+    "clojure-mode.el"
+   ]
+  },
+  "closql": {
+   "version": "20250301.2221",
+   "commit": "dc7924c1d206483a2555a98470c96fadf419f32d",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/closql-20250301.2221.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/closql-20250301.2221.tar"
+   ],
+   "sha256": "a160b83e3c13a3dbc32d3ec1951fed15ea63a786e877a0088c5500c2dfbd691a",
+   "bytes": 30720,
+   "files": [
+    "closql-pkg.el",
+    "closql.el"
+   ]
+  },
+  "coffee-mode": {
+   "version": "20200315.1133",
+   "commit": "35a41c7d8233eac0b267d9593e67fb8b6235e134",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/coffee-mode-20200315.1133.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/coffee-mode-20200315.1133.tar"
+   ],
+   "sha256": "6508145d02210adac13c335838b719aedc5b83ca2fa8d48eb6f061b2eb9a10ac",
+   "bytes": 61440,
+   "files": [
+    "coffee-mode-pkg.el",
+    "coffee-mode.el"
+   ]
+  },
+  "color-theme-sanityinc-solarized": {
+   "version": "20241126.1028",
+   "commit": "f42431850e0ff0cff90c6cc39edc222faa40323d",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/color-theme-sanityinc-solarized-20241126.1028.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/color-theme-sanityinc-solarized-20241126.1028.tar"
+   ],
+   "sha256": "b38bb30caa9d945a583daeff506295d672da5d4b32d23778c7802d43a8d76a03",
+   "bytes": 51200,
+   "files": [
+    "color-theme-sanityinc-solarized-pkg.el",
+    "color-theme-sanityinc-solarized.el",
+    "sanityinc-solarized-dark-theme.el",
+    "sanityinc-solarized-light-theme.el"
+   ]
+  },
+  "color-theme-sanityinc-tomorrow": {
+   "version": "20250306.1440",
+   "commit": "5e3ed508e2c0a9a6d9af700212dd7ce96a356da6",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/color-theme-sanityinc-tomorrow-20250306.1440.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/color-theme-sanityinc-tomorrow-20250306.1440.tar"
+   ],
+   "sha256": "615a8eddfdcf5d5b139e529af7f29b5cf575b624e027c5910012760a8eb51ae5",
+   "bytes": 102400,
+   "files": [
+    "color-theme-sanityinc-tomorrow-pkg.el",
+    "color-theme-sanityinc-tomorrow.el",
+    "sanityinc-tomorrow-blue-theme.el",
+    "sanityinc-tomorrow-bright-theme.el",
+    "sanityinc-tomorrow-day-theme.el",
+    "sanityinc-tomorrow-eighties-theme.el",
+    "sanityinc-tomorrow-night-theme.el"
+   ]
+  },
+  "command-log-mode": {
+   "version": "20160413.447",
+   "commit": "af600e6b4129c8115f464af576505ea8e789db27",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/command-log-mode-20160413.447.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/command-log-mode-20160413.447.tar"
+   ],
+   "sha256": "b8cf5ed2d62c4782bda36852ca296646a8136476702575ce0c70b1b27968090e",
+   "bytes": 20480,
+   "files": [
+    "command-log-mode-pkg.el",
+    "command-log-mode.el"
+   ]
+  },
+  "commenter": {
+   "version": "20160219.1627",
+   "commit": "6d1885419434ba779270c6fda0e30d390bb074bd",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/commenter-20160219.1627.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/commenter-20160219.1627.tar"
+   ],
+   "sha256": "396ddc9a09c0770d33fcb7458088a384057c737b05d72ac9b6d475354615b425",
+   "bytes": 10240,
+   "files": [
+    "commenter-pkg.el",
+    "commenter.el"
+   ]
+  },
+  "company": {
+   "version": "20250228.258",
+   "commit": "8d599ebc8a9aca27c0a6157aeb31c5b7f05ed0a3",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/company-20250228.258.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/company-20250228.258.tar"
+   ],
+   "sha256": "2af48fbe33182bc895a896aee9835ea21d18079b41e823a31b4d950ba1ac6a0f",
+   "bytes": 1269760,
+   "files": [
+    "company-abbrev.el",
+    "company-bbdb.el",
+    "company-capf.el",
+    "company-clang.el",
+    "company-cmake.el",
+    "company-css.el",
+    "company-dabbrev-code.el",
+    "company-dabbrev.el",
+    "company-etags.el",
+    "company-files.el",
+    "company-gtags.el",
+    "company-ispell.el",
+    "company-keywords.el",
+    "company-nxml.el",
+    "company-oddmuse.el",
+    "company-pkg.el",
+    "company-semantic.el",
+    "company-template.el",
+    "company-tempo.el",
+    "company-tng.el",
+    "company-yasnippet.el",
+    "company.el",
+    "company.info",
+    "icons/LICENSE",
+    "icons/attribution.md",
+    "icons/vscode-dark/folder.svg",
+    "icons/vscode-dark/references.svg",
+    "icons/vscode-dark/symbol-array.svg",
+    "icons/vscode-dark/symbol-boolean.svg",
+    "icons/vscode-dark/symbol-class.svg",
+    "icons/vscode-dark/symbol-color.svg",
+    "icons/vscode-dark/symbol-constant.svg",
+    "icons/vscode-dark/symbol-enumerator-member.svg",
+    "icons/vscode-dark/symbol-enumerator.svg",
+    "icons/vscode-dark/symbol-event.svg",
+    "icons/vscode-dark/symbol-field.svg",
+    "icons/vscode-dark/symbol-file.svg",
+    "icons/vscode-dark/symbol-interface.svg",
+    "icons/vscode-dark/symbol-key.svg",
+    "icons/vscode-dark/symbol-keyword.svg",
+    "icons/vscode-dark/symbol-method.svg",
+    "icons/vscode-dark/symbol-misc.svg",
+    "icons/vscode-dark/symbol-namespace.svg",
+    "icons/vscode-dark/symbol-numeric.svg",
+    "icons/vscode-dark/symbol-operator.svg",
+    "icons/vscode-dark/symbol-parameter.svg",
+    "icons/vscode-dark/symbol-property.svg",
+    "icons/vscode-dark/symbol-ruler.svg",
+    "icons/vscode-dark/symbol-snippet.svg",
+    "icons/vscode-dark/symbol-string.svg",
+    "icons/vscode-dark/symbol-structure.svg",
+    "icons/vscode-dark/symbol-variable.svg",
+    "icons/vscode-light/folder.svg",
+    "icons/vscode-light/references.svg",
+    "icons/vscode-light/symbol-array.svg",
+    "icons/vscode-light/symbol-boolean.svg",
+    "icons/vscode-light/symbol-class.svg",
+    "icons/vscode-light/symbol-color.svg",
+    "icons/vscode-light/symbol-constant.svg",
+    "icons/vscode-light/symbol-enumerator-member.svg",
+    "icons/vscode-light/symbol-enumerator.svg",
+    "icons/vscode-light/symbol-event.svg",
+    "icons/vscode-light/symbol-field.svg",
+    "icons/vscode-light/symbol-file.svg",
+    "icons/vscode-light/symbol-interface.svg",
+    "icons/vscode-light/symbol-key.svg",
+    "icons/vscode-light/symbol-keyword.svg",
+    "icons/vscode-light/symbol-method.svg",
+    "icons/vscode-light/symbol-misc.svg",
+    "icons/vscode-light/symbol-namespace.svg",
+    "icons/vscode-light/symbol-numeric.svg",
+    "icons/vscode-light/symbol-operator.svg",
+    "icons/vscode-light/symbol-parameter.svg",
+    "icons/vscode-light/symbol-property.svg",
+    "icons/vscode-light/symbol-ruler.svg",
+    "icons/vscode-light/symbol-snippet.svg",
+    "icons/vscode-light/symbol-string.svg",
+    "icons/vscode-light/symbol-structure.svg",
+    "icons/vscode-light/symbol-variable.svg",
+    "images/small/echo-meta.png",
+    "images/small/echo-qa.png",
+    "images/small/echo-strip-qa.png",
+    "images/small/echo-strip.png",
+    "images/small/echo.png",
+    "images/small/preview-dark.png",
+    "images/small/preview-light.png",
+    "images/small/tooltip-annotations.png",
+    "images/small/tooltip-faces-light.png",
+    "images/small/tooltip-filter.png",
+    "images/small/tooltip-flip.png",
+    "images/small/tooltip-icon-bg.png",
+    "images/small/tooltip-icon-face.png",
+    "images/small/tooltip-icons-dot.png",
+    "images/small/tooltip-icons-text.png",
+    "images/small/tooltip-icons-vscode.png",
+    "images/small/tooltip-limit.png",
+    "images/small/tooltip-margin.png",
+    "images/small/tooltip-minimum-above.png",
+    "images/small/tooltip-minimum-below.png",
+    "images/small/tooltip-offset-display.png",
+    "images/small/tooltip-qa-faces-light.png",
+    "images/small/tooltip-quick-access.png",
+    "images/small/tooltip-search.png"
+   ]
+  },
+  "compat": {
+   "version": "30.1.0.1",
+   "commit": "cccd41f549fa88031a32deb26253b462021d7e12",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/4a3b7fd58609a5fed4344c83f44c9445e2634b99/gnu/compat-30.1.0.1.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@4a3b7fd58609a5fed4344c83f44c9445e2634b99/gnu/compat-30.1.0.1.tar"
+   ],
+   "sha256": "16fef8c2e47398ed1575898a9639d5659986a67ee11477726e878298c08945e6",
+   "bytes": 389120,
+   "files": [
+    "NEWS.org",
+    "compat-25.el",
+    "compat-26.el",
+    "compat-27.el",
+    "compat-28.el",
+    "compat-29.el",
+    "compat-30.el",
+    "compat-macs.el",
+    "compat-pkg.el",
+    "compat.el",
+    "compat.info"
+   ]
+  },
+  "concurrent": {
+   "version": "20170601.435",
+   "commit": "d012a1ab50edcc2c44e3e49006f054dbff47cb6c",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/concurrent-20170601.435.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/concurrent-20170601.435.tar"
+   ],
+   "sha256": "3d1ef07701361c0f297e281fe9cc99cfda5d3d07f2b20f2f6123750b80126daa",
+   "bytes": 30720,
+   "files": [
+    "concurrent-pkg.el",
+    "concurrent.el"
+   ]
+  },
+  "consult": {
+   "version": "20250311.1658",
+   "commit": "d557305b730f7666d46bc3eb04c87cfcc493a8e5",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/058bcdaff5e757055408010dc6dca1452657b289/melpa/consult-20250311.1658.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@058bcdaff5e757055408010dc6dca1452657b289/melpa/consult-20250311.1658.tar"
+   ],
+   "sha256": "0c996ed20abf137466523b207bac16cb39a9eedb3a640fd09ea5e1c9f23ee599",
+   "bytes": 317440,
+   "files": [
+    "consult-compile.el",
+    "consult-flymake.el",
+    "consult-imenu.el",
+    "consult-info.el",
+    "consult-kmacro.el",
+    "consult-org.el",
+    "consult-pkg.el",
+    "consult-register.el",
+    "consult-xref.el",
+    "consult.el"
+   ]
+  },
+  "consult-eglot": {
+   "version": "20250216.2144",
+   "commit": "b71499f4b93bfea4e2005564c25c5bb0f9e73199",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/consult-eglot-20250216.2144.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/consult-eglot-20250216.2144.tar"
+   ],
+   "sha256": "5da17b14e6d5fa2b6cda2f623fe01f8f408203839854b76e9f1c195a38d61bba",
+   "bytes": 20480,
+   "files": [
+    "consult-eglot-pkg.el",
+    "consult-eglot.el"
+   ]
+  },
+  "consult-flycheck": {
+   "version": "20250101.914",
+   "commit": "3bc2141daf8cfad7e4d2e2f78b15d45033f707a5",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/consult-flycheck-20250101.914.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/consult-flycheck-20250101.914.tar"
+   ],
+   "sha256": "453bdd18060cd16a06e88b918da0259ad00720dba3e0c3cf807c177ff6f8cff2",
+   "bytes": 10240,
+   "files": [
+    "consult-flycheck-pkg.el",
+    "consult-flycheck.el"
+   ]
+  },
+  "corfu": {
+   "version": "20250128.821",
+   "commit": "2c476b442ccfda9935e472b26d9cd60d45726560",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/corfu-20250128.821.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/corfu-20250128.821.tar"
+   ],
+   "sha256": "2fb10ebc49a1eee3cca5c9cdd0f50333547cdd37e2731299d8e4f23dea2f373e",
+   "bytes": 122880,
+   "files": [
+    "corfu-echo.el",
+    "corfu-history.el",
+    "corfu-indexed.el",
+    "corfu-info.el",
+    "corfu-pkg.el",
+    "corfu-popupinfo.el",
+    "corfu-quick.el",
+    "corfu.el"
+   ]
+  },
+  "crontab-mode": {
+   "version": "20210715.133",
+   "commit": "7412f3df0958812bfcacd5875a409fa795fa8ecc",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/crontab-mode-20210715.133.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/crontab-mode-20210715.133.tar"
+   ],
+   "sha256": "971bf9e4366e9a6273e2666668fffad451ce9566e6fcc6f803b5116633181a71",
+   "bytes": 10240,
+   "files": [
+    "crontab-mode-pkg.el",
+    "crontab-mode.el"
+   ]
+  },
+  "css-eldoc": {
+   "version": "20220415.1629",
+   "commit": "73ebf9757a043b56b7d3b5befec5a38e6754b9e5",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/css-eldoc-20220415.1629.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/css-eldoc-20220415.1629.tar"
+   ],
+   "sha256": "edfce4f82733884946ad71f4dad716d13166aff2c06c4234c0fc54c8254f4020",
+   "bytes": 30720,
+   "files": [
+    "css-eldoc-hash-table.el",
+    "css-eldoc-pkg.el",
+    "css-eldoc.el"
+   ]
+  },
+  "csv-mode": {
+   "version": "1.27",
+   "commit": "a16e9d8b0952de1badf6da8e652b178a7f6c4498",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/gnu/csv-mode-1.27.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/gnu/csv-mode-1.27.tar"
+   ],
+   "sha256": "0e0b4bc9d5e74d9b7c30758280b69f7a8f8effeaa01b63a035c924565a24ae4b",
+   "bytes": 102400,
+   "files": [
+    "csv-mode-pkg.el",
+    "csv-mode-tests.el",
+    "csv-mode.el"
+   ]
+  },
+  "ctable": {
+   "version": "20210128.629",
+   "commit": "48b73742757a3ae5736d825fe49e00034cc453b5",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/ctable-20210128.629.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/ctable-20210128.629.tar"
+   ],
+   "sha256": "bd0dc6d844e82d254045867e9360bca207ef1bfee106210ae8c0ab0d6d433e46",
+   "bytes": 81920,
+   "files": [
+    "ctable-pkg.el",
+    "ctable.el"
+   ]
+  },
+  "dash": {
+   "version": "20250312.1307",
+   "commit": "fcb5d831fc08a43f984242c7509870f30983c27c",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/dash-20250312.1307.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/dash-20250312.1307.tar"
+   ],
+   "sha256": "db6301b1051a5d811202aba2ff2fd54c4552b15c1ae905473749e04009f7ab44",
+   "bytes": 358400,
+   "files": [
+    "dash-pkg.el",
+    "dash.el",
+    "dash.info"
+   ]
+  },
+  "dash-at-point": {
+   "version": "20211023.104",
+   "commit": "fba1a6f42ea51d05110e12c62bdced664059eb55",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/dash-at-point-20211023.104.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/dash-at-point-20211023.104.tar"
+   ],
+   "sha256": "2bc94d1446f1e5b027e85755e58a92ff43c3b31bdb3845e641f7f1bd78f546de",
+   "bytes": 20480,
+   "files": [
+    "dash-at-point-pkg.el",
+    "dash-at-point.el"
+   ]
+  },
+  "default-text-scale": {
+   "version": "20191226.2234",
+   "commit": "bfc0987c37e93742255d3b23d86c17096fda8e7e",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/default-text-scale-20191226.2234.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/default-text-scale-20191226.2234.tar"
+   ],
+   "sha256": "522ddbf2cda80811aff7c4b51559cfa4758d004c28a931cd21dd02896a040db3",
+   "bytes": 10240,
+   "files": [
+    "default-text-scale-pkg.el",
+    "default-text-scale.el"
+   ]
+  },
+  "deferred": {
+   "version": "20170901.1330",
+   "commit": "2239671d94b38d92e9b28d4e12fd79814cfb9c16",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/deferred-20170901.1330.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/deferred-20170901.1330.tar"
+   ],
+   "sha256": "f3ed14fb39b002567cc7d8a1bec6b3a863908c11bc155ec4338998e65e37ecb2",
+   "bytes": 40960,
+   "files": [
+    "deferred-pkg.el",
+    "deferred.el"
+   ]
+  },
+  "dhall-mode": {
+   "version": "20250105.1418",
+   "commit": "fca383a9c4622c1d9a39dc977572b34c7fa0b719",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/dhall-mode-20250105.1418.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/dhall-mode-20250105.1418.tar"
+   ],
+   "sha256": "307843d9695f539b820900fddd7697807c87d5710d0ec16113ab0889129a48c5",
+   "bytes": 20480,
+   "files": [
+    "dhall-mode-pkg.el",
+    "dhall-mode.el"
+   ]
+  },
+  "diff-hl": {
+   "version": "20250315.338",
+   "commit": "79c46da33b249eb59a2f82fe7ad46fc9621eab0b",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/diff-hl-20250315.338.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/diff-hl-20250315.338.tar"
+   ],
+   "sha256": "e0d9c072bc62e43649e59f6cfbe07ed247d8e18e60e3b8403fe517d8299c1ac3",
+   "bytes": 122880,
+   "files": [
+    "diff-hl-amend.el",
+    "diff-hl-dired.el",
+    "diff-hl-flydiff.el",
+    "diff-hl-inline-popup.el",
+    "diff-hl-margin.el",
+    "diff-hl-pkg.el",
+    "diff-hl-show-hunk-posframe.el",
+    "diff-hl-show-hunk.el",
+    "diff-hl.el"
+   ]
+  },
+  "diminish": {
+   "version": "20220909.847",
+   "commit": "fbd5d846611bad828e336b25d2e131d1bc06b83d",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/diminish-20220909.847.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/diminish-20220909.847.tar"
+   ],
+   "sha256": "680e77943a219e994bfe573a211fc1eb4767ed90aeb5f738e51010bd5cc23738",
+   "bytes": 20480,
+   "files": [
+    "diminish-pkg.el",
+    "diminish.el"
+   ]
+  },
+  "dimmer": {
+   "version": "20220817.122",
+   "commit": "a5b697580e5aed6168b571ae3d925753428284f8",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/dimmer-20220817.122.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/dimmer-20220817.122.tar"
+   ],
+   "sha256": "37b13b204f7ab8166559ce70f0c315ff2b9762a4606f75670f9630bb038e7428",
+   "bytes": 30720,
+   "files": [
+    "dimmer-pkg.el",
+    "dimmer.el"
+   ]
+  },
+  "diredfl": {
+   "version": "20241201.1141",
+   "commit": "fe72d2e42ee18bf6228bba9d7086de4098f18a70",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/diredfl-20241201.1141.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/diredfl-20241201.1141.tar"
+   ],
+   "sha256": "53201989a7118d179dcdf92dbdd208e52eac402e84cd436d2f90492125fb36b3",
+   "bytes": 20480,
+   "files": [
+    "diredfl-pkg.el",
+    "diredfl.el"
+   ]
+  },
+  "disable-mouse": {
+   "version": "20240604.900",
+   "commit": "93a55a6453f34049375f97d3cf817b4e6db46f25",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/disable-mouse-20240604.900.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/disable-mouse-20240604.900.tar"
+   ],
+   "sha256": "8e78c9af3838aaba668105ae00c8080721dd32f6d976e2e3e3751964c96aea5d",
+   "bytes": 10240,
+   "files": [
+    "disable-mouse-pkg.el",
+    "disable-mouse.el"
+   ]
+  },
+  "docker": {
+   "version": "20250313.2007",
+   "commit": "36cc66f2a975d2a1864545d0bd57dd4b6db3e6a5",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/docker-20250313.2007.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/docker-20250313.2007.tar"
+   ],
+   "sha256": "3de2610c1300a32ab91083c6fa2b43e3dc2bb2c2e0ed6284151ba10c13ba822d",
+   "bytes": 122880,
+   "files": [
+    "docker-compose.el",
+    "docker-container.el",
+    "docker-context.el",
+    "docker-core.el",
+    "docker-faces.el",
+    "docker-group.el",
+    "docker-image.el",
+    "docker-network.el",
+    "docker-pkg.el",
+    "docker-process.el",
+    "docker-utils.el",
+    "docker-volume.el",
+    "docker.el"
+   ]
+  },
+  "docker-compose-mode": {
+   "version": "20200830.1336",
+   "commit": "abaa4f3aeb5c62d7d16e186dd7d77f4e846e126a",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/docker-compose-mode-20200830.1336.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/docker-compose-mode-20200830.1336.tar"
+   ],
+   "sha256": "551a005a88a61f1348baa3d718e2abf1c047c483349ce8dc5add0082a2fcbd1e",
+   "bytes": 30720,
+   "files": [
+    "docker-compose-mode-pkg.el",
+    "docker-compose-mode.el"
+   ]
+  },
+  "dockerfile-mode": {
+   "version": "20250225.1527",
+   "commit": "7ce17e054eca4d56ca8bc1e4a6a0dbf58efd8d52",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/7f49d4f5094ea5c7b948053b7addb25f1c027634/melpa/dockerfile-mode-20250225.1527.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@7f49d4f5094ea5c7b948053b7addb25f1c027634/melpa/dockerfile-mode-20250225.1527.tar"
+   ],
+   "sha256": "169fc5c759810fa783e2bfb3b6912aa65de155f3ea478dbcc2f67f0f30f3781f",
+   "bytes": 20480,
+   "files": [
+    "dockerfile-mode-pkg.el",
+    "dockerfile-mode.el"
+   ]
+  },
+  "dotenv-mode": {
+   "version": "20191027.2129",
+   "commit": "e3701bf739bde44f6484eb7753deadaf691b73fb",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/dotenv-mode-20191027.2129.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/dotenv-mode-20191027.2129.tar"
+   ],
+   "sha256": "c21217a304300099b1a45fa4842cdd34e5d0d0de5f9f790d3d4cbeb0d9ed6c15",
+   "bytes": 10240,
+   "files": [
+    "dotenv-mode-pkg.el",
+    "dotenv-mode.el"
+   ]
+  },
+  "dune": {
+   "version": "20240427.1346",
+   "commit": "5554158af27ead066fbb3c009e780c930958613c",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/dune-20240427.1346.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/dune-20240427.1346.tar"
+   ],
+   "sha256": "d515ab6c72ce817400e3527e05d8d254c42bc85b190f577a97e37f3146544c2c",
+   "bytes": 40960,
+   "files": [
+    "dune-flymake.el",
+    "dune-pkg.el",
+    "dune-watch.el",
+    "dune.el"
+   ]
+  },
+  "dune-format": {
+   "version": "20210505.108",
+   "commit": "eda7a16ae378e7c482c11228c43ef32b893a1520",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/dune-format-20210505.108.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/dune-format-20210505.108.tar"
+   ],
+   "sha256": "739074d22d8a5b38a73596a6224586daf25cd46bfbe2da7b274916040cf70dc1",
+   "bytes": 10240,
+   "files": [
+    "dune-format-pkg.el",
+    "dune-format.el"
+   ]
+  },
+  "elein": {
+   "version": "20120120.1116",
+   "commit": "d4c0c0491dbb7c90e953d7a16172107c37103605",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/elein-20120120.1116.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/elein-20120120.1116.tar"
+   ],
+   "sha256": "5e27c6fc4834d23803aa03631bc50a6c99878aaaaff719dcb47ade2a157efa10",
+   "bytes": 20480,
+   "files": [
+    "elein-pkg.el",
+    "elein.el"
+   ]
+  },
+  "elisp-slime-nav": {
+   "version": "20210510.528",
+   "commit": "8588d80d414aee1fafce5b9da0e913612ee0bcdd",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/elisp-slime-nav-20210510.528.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/elisp-slime-nav-20210510.528.tar"
+   ],
+   "sha256": "6d3ec1260af679a8adc4ad4b014fc37ad769be32440e4ca138e282e458340efa",
+   "bytes": 10240,
+   "files": [
+    "elisp-slime-nav-pkg.el",
+    "elisp-slime-nav.el"
+   ]
+  },
+  "elm-mode": {
+   "version": "20230315.1122",
+   "commit": "699841865e1bd5b7f2077baa7121510b6bcad3c7",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/elm-mode-20230315.1122.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/elm-mode-20230315.1122.tar"
+   ],
+   "sha256": "17c8216dab71ba261dd27cf575a13ef54358b359b01abbdc155be0fbb146ac06",
+   "bytes": 133120,
+   "files": [
+    "elm-defuns.el",
+    "elm-font-lock.el",
+    "elm-format.el",
+    "elm-imenu.el",
+    "elm-indent-simple.el",
+    "elm-indent.el",
+    "elm-interactive.el",
+    "elm-mode-pkg.el",
+    "elm-mode.el",
+    "elm-tags.el",
+    "elm-util.el",
+    "elm.tags"
+   ]
+  },
+  "elm-test-runner": {
+   "version": "20230905.331",
+   "commit": "b664e50a4c849f5f2e2f434fc01718da10515612",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/elm-test-runner-20230905.331.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/elm-test-runner-20230905.331.tar"
+   ],
+   "sha256": "f57e4ba576408e42508e88bde60f660a8bf22efc40139e7becdb791c962ccc50",
+   "bytes": 20480,
+   "files": [
+    "elm-test-runner-pkg.el",
+    "elm-test-runner.el"
+   ]
+  },
+  "emacsql": {
+   "version": "20250301.1637",
+   "commit": "f111b0acc79eadeeb3c6c1332d943f11fd6932ff",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/emacsql-20250301.1637.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/emacsql-20250301.1637.tar"
+   ],
+   "sha256": "5a82dc9314fd4645305bf9e607b43a418430b8946a750053de747e90e8786016",
+   "bytes": 102400,
+   "files": [
+    "README.md",
+    "emacsql-compiler.el",
+    "emacsql-mysql.el",
+    "emacsql-pg.el",
+    "emacsql-pkg.el",
+    "emacsql-psql.el",
+    "emacsql-sqlite-builtin.el",
+    "emacsql-sqlite-common.el",
+    "emacsql-sqlite-module.el",
+    "emacsql-sqlite.el",
+    "emacsql.el"
+   ]
+  },
+  "embark": {
+   "version": "20250127.1315",
+   "commit": "755cb49b59801ff420193cc0e3b1a7aa12bf22e3",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/embark-20250127.1315.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/embark-20250127.1315.tar"
+   ],
+   "sha256": "3c8cb860b8f0f0ba0b57fe7bfaac96b8d10337a0866fa6c94ba845c8528d71b0",
+   "bytes": 307200,
+   "files": [
+    "embark-org.el",
+    "embark-pkg.el",
+    "embark.el",
+    "embark.info"
+   ]
+  },
+  "embark-consult": {
+   "version": "20250201.501",
+   "commit": "d5df0eff182b014ab49328a4dbb1d69eb7faafbd",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/embark-consult-20250201.501.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/embark-consult-20250201.501.tar"
+   ],
+   "sha256": "24ce63c581bee691c85bc9b7213948d76d8a998d2f7610b6d0f0fb668898987a",
+   "bytes": 30720,
+   "files": [
+    "embark-consult-pkg.el",
+    "embark-consult.el"
+   ]
+  },
+  "envrc": {
+   "version": "20250110.1756",
+   "commit": "2b818ca6e4a2f723e7cab70cd0101c2728581c3a",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/envrc-20250110.1756.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/envrc-20250110.1756.tar"
+   ],
+   "sha256": "28c92ecdd9b6831a00f16e6105d8381b7287a6df6b127773a9bc36ca60281f35",
+   "bytes": 30720,
+   "files": [
+    "envrc-pkg.el",
+    "envrc.el"
+   ]
+  },
+  "epc": {
+   "version": "20140610.534",
+   "commit": "94cd36a3bec752263ac9b1b3a9dd2def329d2af7",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/epc-20140610.534.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/epc-20140610.534.tar"
+   ],
+   "sha256": "0926259c58479fe5354d2b805e2577d7e720632fc34b8a600b852541696108bf",
+   "bytes": 51200,
+   "files": [
+    "epc-pkg.el",
+    "epc.el",
+    "epcs.el"
+   ]
+  },
+  "erlang": {
+   "version": "20250115.1500",
+   "commit": "dd160c846e656634a34f4cc4b4aed46cbe5d6744",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/erlang-20250115.1500.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/erlang-20250115.1500.tar"
+   ],
+   "sha256": "cde654f527ed7935966e8b9d5e5c0dea50d43c140176ff675b35797ac39ac5e8",
+   "bytes": 450560,
+   "files": [
+    "erlang-edoc.el",
+    "erlang-eunit.el",
+    "erlang-flymake.el",
+    "erlang-pkg.el",
+    "erlang-skels-old.el",
+    "erlang-skels.el",
+    "erlang-start.el",
+    "erlang-test.el",
+    "erlang.el",
+    "erldoc.el"
+   ]
+  },
+  "exec-path-from-shell": {
+   "version": "20240411.859",
+   "commit": "72ede29a0e0467b3b433e8edbee3c79bab005884",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/exec-path-from-shell-20240411.859.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/exec-path-from-shell-20240411.859.tar"
+   ],
+   "sha256": "00ca7c451c94011bfbc8fd74a9838412aed8afeee04c531fefe1b4a8db6963f6",
+   "bytes": 20480,
+   "files": [
+    "exec-path-from-shell-pkg.el",
+    "exec-path-from-shell.el"
+   ]
+  },
+  "f": {
+   "version": "20241003.1131",
+   "commit": "931b6d0667fe03e7bf1c6c282d6d8d7006143c52",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/f-20241003.1131.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/f-20241003.1131.tar"
+   ],
+   "sha256": "043f5adc67917344a062dc27bd5aa55ea338c850bb1ad62fc3611dafa84fea7b",
+   "bytes": 51200,
+   "files": [
+    "f-pkg.el",
+    "f-shortdoc.el",
+    "f.el"
+   ]
+  },
+  "flycheck": {
+   "version": "20250226.1541",
+   "commit": "b9db1379dcc3e59238dc1fdd7db368c66e8734ba",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/flycheck-20250226.1541.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/flycheck-20250226.1541.tar"
+   ],
+   "sha256": "40c26531f34f38b872eb1dfc5743180628eff9080ce2f92407db8de5f10cdb81",
+   "bytes": 552960,
+   "files": [
+    "flycheck-buttercup.el",
+    "flycheck-ert.el",
+    "flycheck-pkg.el",
+    "flycheck.el"
+   ]
+  },
+  "flycheck-clojure": {
+   "version": "20191215.2227",
+   "commit": "bc85f9dfe1bcfa66a98d2ca5da955e7eab4ae00d",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/flycheck-clojure-20191215.2227.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/flycheck-clojure-20191215.2227.tar"
+   ],
+   "sha256": "d691a59cb2e43ffb78b456e8059e08227065f29eb73d848dae465e879f7265b0",
+   "bytes": 20480,
+   "files": [
+    "flycheck-clojure-pkg.el",
+    "flycheck-clojure.el"
+   ]
+  },
+  "flycheck-ledger": {
+   "version": "20200304.2204",
+   "commit": "628e25ba66604946085571652a94a54f4d1ad96f",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/flycheck-ledger-20200304.2204.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/flycheck-ledger-20200304.2204.tar"
+   ],
+   "sha256": "23ad50c748fb4d1a11305faa01ecd5c4274238c312dd91ab815bf8ee3cc93e54",
+   "bytes": 10240,
+   "files": [
+    "flycheck-ledger-pkg.el",
+    "flycheck-ledger.el"
+   ]
+  },
+  "flycheck-nim": {
+   "version": "20190927.1514",
+   "commit": "ddfade51001571c2399f78bcc509e0aa8eb752a4",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/flycheck-nim-20190927.1514.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/flycheck-nim-20190927.1514.tar"
+   ],
+   "sha256": "5ca56e3904f44356252263642dc9296cd6d52a41ea7a560608f20ca81c3b0dee",
+   "bytes": 10240,
+   "files": [
+    "flycheck-nim-pkg.el",
+    "flycheck-nim.el"
+   ]
+  },
+  "flycheck-nimsuggest": {
+   "version": "20171027.2208",
+   "commit": "dc9a5de1cb3ee05db5794d824610959a1f603bc9",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/flycheck-nimsuggest-20171027.2208.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/flycheck-nimsuggest-20171027.2208.tar"
+   ],
+   "sha256": "8a0b84015546f339484155b50708769cc7cce4dd16ac47b660a09cbe76cba536",
+   "bytes": 10240,
+   "files": [
+    "flycheck-nimsuggest-pkg.el",
+    "flycheck-nimsuggest.el"
+   ]
+  },
+  "flycheck-relint": {
+   "version": "20240910.1036",
+   "commit": "88da7151b1781ec950eb9ec0b2ad32b90dae7427",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/flycheck-relint-20240910.1036.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/flycheck-relint-20240910.1036.tar"
+   ],
+   "sha256": "97e34a91963b2d7e59a55a068933c3fa393feb4c51c32ead223a134bf9d4cfc5",
+   "bytes": 10240,
+   "files": [
+    "flycheck-relint-pkg.el",
+    "flycheck-relint.el"
+   ]
+  },
+  "flycheck-rust": {
+   "version": "20250226.2240",
+   "commit": "2b544bab19b987bfb41d5d88801b89e29bdf69c7",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/flycheck-rust-20250226.2240.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/flycheck-rust-20250226.2240.tar"
+   ],
+   "sha256": "7c7b6cd5c4420fe37d1d7d349565a52bc9e0b16cdec8dcdc12991a52e11ff336",
+   "bytes": 20480,
+   "files": [
+    "flycheck-rust-pkg.el",
+    "flycheck-rust.el"
+   ]
+  },
+  "flymake-flycheck": {
+   "version": "20230826.749",
+   "commit": "cc50a97ee1384d260c56aca257a1dbf770084330",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/flymake-flycheck-20230826.749.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/flymake-flycheck-20230826.749.tar"
+   ],
+   "sha256": "cea960c733bba8ef6ce1077f6c1240dc6d515ed6cccb05ed960f5d86fc01cf20",
+   "bytes": 20480,
+   "files": [
+    "flymake-flycheck-pkg.el",
+    "flymake-flycheck.el"
+   ]
+  },
+  "forge": {
+   "version": "20250301.2353",
+   "commit": "1c904090dfdcd201d9170997052c43846ddce149",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/d0361590ad2ec4a4770a07bdebdc428094d3b04d/melpa/forge-20250301.2353.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@d0361590ad2ec4a4770a07bdebdc428094d3b04d/melpa/forge-20250301.2353.tar"
+   ],
+   "sha256": "9564d1ea79a45e0e152fbe1547cf9f04023d1d7f3da33699f23de6778e5fccf6",
+   "bytes": 471040,
+   "files": [
+    "forge-bitbucket.el",
+    "forge-commands.el",
+    "forge-core.el",
+    "forge-db.el",
+    "forge-forgejo.el",
+    "forge-gitea.el",
+    "forge-github.el",
+    "forge-gitlab.el",
+    "forge-gogs.el",
+    "forge-issue.el",
+    "forge-notify.el",
+    "forge-pkg.el",
+    "forge-post.el",
+    "forge-pullreq.el",
+    "forge-repo.el",
+    "forge-repos.el",
+    "forge-revnote.el",
+    "forge-semi.el",
+    "forge-tablist.el",
+    "forge-topic.el",
+    "forge-topics.el",
+    "forge.el",
+    "forge.info"
+   ]
+  },
+  "fullframe": {
+   "version": "20210226.1057",
+   "commit": "886b831c001b44ec95aec4ff36e8bc1b3003c786",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/fullframe-20210226.1057.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/fullframe-20210226.1057.tar"
+   ],
+   "sha256": "dad29c8742371341d131475a9e6f68b6d67cc99ca13feae833e63e5d9e32d0b0",
+   "bytes": 20480,
+   "files": [
+    "fullframe-pkg.el",
+    "fullframe.el"
+   ]
+  },
+  "gh": {
+   "version": "20230825.1217",
+   "commit": "b5a8d8209340d49ad82dab22d23dae0434499fdf",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/gh-20230825.1217.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/gh-20230825.1217.tar"
+   ],
+   "sha256": "13363f1d02dd20a76e188e49e3023ab52619cc4466600ec470192184d4e0fb0f",
+   "bytes": 112640,
+   "files": [
+    "gh-api.el",
+    "gh-auth.el",
+    "gh-cache.el",
+    "gh-comments.el",
+    "gh-common.el",
+    "gh-gist.el",
+    "gh-issue-comments.el",
+    "gh-issues.el",
+    "gh-oauth.el",
+    "gh-orgs.el",
+    "gh-pkg.el",
+    "gh-profile.el",
+    "gh-pull-comments.el",
+    "gh-pulls.el",
+    "gh-repos.el",
+    "gh-search.el",
+    "gh-url.el",
+    "gh-users.el",
+    "gh.el"
+   ]
+  },
+  "ghub": {
+   "version": "20250301.1641",
+   "commit": "af663777c47a3dce64b2144b4409587b35521e47",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/d0361590ad2ec4a4770a07bdebdc428094d3b04d/melpa/ghub-20250301.1641.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@d0361590ad2ec4a4770a07bdebdc428094d3b04d/melpa/ghub-20250301.1641.tar"
+   ],
+   "sha256": "664d016ea03f873d0eb832a6afed4d2ce5bc95defeb85ea993c7be1a25012252",
+   "bytes": 163840,
+   "files": [
+    "buck.el",
+    "ghub-graphql.el",
+    "ghub-pkg.el",
+    "ghub.el",
+    "ghub.info",
+    "glab.el",
+    "gogs.el",
+    "gsexp.el",
+    "gtea.el"
+   ]
+  },
+  "git-blamed": {
+   "version": "20161028.1926",
+   "commit": "cef196abf398e2dd11f775d1e6cd8690567408aa",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/git-blamed-20161028.1926.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/git-blamed-20161028.1926.tar"
+   ],
+   "sha256": "02fe051f61d670042bee70e938c5ad45d82950fca7544007800912bcf67e77be",
+   "bytes": 20480,
+   "files": [
+    "git-blamed-pkg.el",
+    "git-blamed.el"
+   ]
+  },
+  "git-link": {
+   "version": "20250214.1240",
+   "commit": "8d0f98cf36f6b9c31285329b054ae77f9a3d9b33",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/git-link-20250214.1240.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/git-link-20250214.1240.tar"
+   ],
+   "sha256": "a09c74531065c65fafcad7b0116c9933f663b30226e74b1bb89e828a9d5f83f1",
+   "bytes": 51200,
+   "files": [
+    "git-link-pkg.el",
+    "git-link-transient.el",
+    "git-link.el"
+   ]
+  },
+  "git-modes": {
+   "version": "20240805.1320",
+   "commit": "f99010bbeb8b6d8a0819fac0195a2ef0159d08f0",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/git-modes-20240805.1320.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/git-modes-20240805.1320.tar"
+   ],
+   "sha256": "7da6a5242182c569b3a2d6016adfdf0218dda407a26deb0d2f91e7bf2f573db6",
+   "bytes": 30720,
+   "files": [
+    "git-modes-pkg.el",
+    "git-modes.el",
+    "gitattributes-mode.el",
+    "gitconfig-mode.el",
+    "gitignore-mode.el"
+   ]
+  },
+  "git-timemachine": {
+   "version": "20250128.940",
+   "commit": "d1346a76122595aeeb7ebb292765841c6cfd417b",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/git-timemachine-20250128.940.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/git-timemachine-20250128.940.tar"
+   ],
+   "sha256": "c8fd360c674533aca5c55ccb8dd1ae3d8240d04ab38ee06b7a4ef58ac82c6d07",
+   "bytes": 30720,
+   "files": [
+    "git-timemachine-pkg.el",
+    "git-timemachine.el"
+   ]
+  },
+  "github-clone": {
+   "version": "20210108.1920",
+   "commit": "7b2ce0109f5aac0b65f3e6a5ba761e18bd86f093",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/github-clone-20210108.1920.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/github-clone-20210108.1920.tar"
+   ],
+   "sha256": "aaa2329e09084ee2290a369dc18e35a8e8ae9518ecd251e20564f99c4ec5d89a",
+   "bytes": 20480,
+   "files": [
+    "github-clone-pkg.el",
+    "github-clone.el"
+   ]
+  },
+  "github-review": {
+   "version": "20211029.243",
+   "commit": "725fbc7b385228f53a7ddc46a92c1276bab4aea8",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/github-review-20211029.243.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/github-review-20211029.243.tar"
+   ],
+   "sha256": "d317562467a37873773b5a8bf551ebb5bd8cafd80fd81fdb4eb92e27bf784c7d",
+   "bytes": 30720,
+   "files": [
+    "github-review-pkg.el",
+    "github-review.el"
+   ]
+  },
+  "gntp": {
+   "version": "20141025.250",
+   "commit": "767571135e2c0985944017dc59b0be79af222ef5",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/gntp-20141025.250.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/gntp-20141025.250.tar"
+   ],
+   "sha256": "980c0d6fb69ed2d03a49000074823409661648358ff454f4176653474eff1fa5",
+   "bytes": 20480,
+   "files": [
+    "gntp-pkg.el",
+    "gntp.el"
+   ]
+  },
+  "gnu-elpa-keyring-update": {
+   "version": "2022.12.1",
+   "commit": "1e8726c459258fba62ee38807abdae4e350e5238",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/gnu/gnu-elpa-keyring-update-2022.12.1.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/gnu/gnu-elpa-keyring-update-2022.12.1.tar"
+   ],
+   "sha256": "d67cc4402ff936f8f0360ad49bb97b39fc8a9ff52659a0ae1346147f3c0d6879",
+   "bytes": 20480,
+   "files": [
+    "etc/gnu-elpa.gpg-keyring",
+    "gnu-elpa-keyring-update-pkg.el",
+    "gnu-elpa-keyring-update.el"
+   ]
+  },
+  "gnuplot": {
+   "version": "20240914.1522",
+   "commit": "235ba76c358d9db5b10f177552f5f8deeef74df5",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/gnuplot-20240914.1522.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/gnuplot-20240914.1522.tar"
+   ],
+   "sha256": "d8bc42d285d35e3ad178162f6f40322c62f2a82d7bd2080039f7bfa2186c2f51",
+   "bytes": 256000,
+   "files": [
+    "gnuplot-context.el",
+    "gnuplot-gui.el",
+    "gnuplot-pkg.el",
+    "gnuplot.el"
+   ]
+  },
+  "gptel": {
+   "version": "0.9.9.6",
+   "commit": "2b02618b2eba819b996eca7f71bf4dd4b91eb532",
+   "urls": [
+    "https://elpa.nongnu.org/nongnu/gptel-0.9.9.6.tar",
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/4a8214819e416a3d6ae44dc136208e7f90ff7a28/nongnu/gptel-0.9.9.6.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@4a8214819e416a3d6ae44dc136208e7f90ff7a28/nongnu/gptel-0.9.9.6.tar"
+   ],
+   "sha256": "0aa684b3e273ef6788756cffa4d018fe0bed0ecc853640fb82abaacd9d7ca5dd",
+   "bytes": 1003520,
+   "files": [
+    "LICENSE",
+    "README.org",
+    "gptel-anthropic.el",
+    "gptel-bedrock.el",
+    "gptel-context.el",
+    "gptel-gemini.el",
+    "gptel-gh.el",
+    "gptel-integrations.el",
+    "gptel-kagi.el",
+    "gptel-oauth.el",
+    "gptel-ollama.el",
+    "gptel-openai-extras.el",
+    "gptel-openai-oauth.el",
+    "gptel-openai-responses.el",
+    "gptel-openai.el",
+    "gptel-org.el",
+    "gptel-pkg.el",
+    "gptel-request.el",
+    "gptel-rewrite.el",
+    "gptel-transient.el",
+    "gptel.el",
+    "news"
+   ]
+  },
+  "grab-mac-link": {
+   "version": "20210511.1303",
+   "commit": "5fdb03bf57bc4a530374b896e0f8b5139dc794e3",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/grab-mac-link-20210511.1303.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/grab-mac-link-20210511.1303.tar"
+   ],
+   "sha256": "88d7792bc0b8a764ef0b1b5546c7c7be0de6c38446476a5449d31ef6d10ffae2",
+   "bytes": 20480,
+   "files": [
+    "grab-mac-link-pkg.el",
+    "grab-mac-link.el"
+   ]
+  },
+  "haml-mode": {
+   "version": "20230608.1833",
+   "commit": "fe83c65c1f002f7c36480b758727c1afbad9a1b2",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/haml-mode-20230608.1833.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/haml-mode-20230608.1833.tar"
+   ],
+   "sha256": "f079075005cfb4d84b7b1b13b9059e53ddc981370e7ebed25172a8e7009afd0a",
+   "bytes": 40960,
+   "files": [
+    "haml-mode-pkg.el",
+    "haml-mode.el"
+   ]
+  },
+  "haskell-mode": {
+   "version": "20250305.1349",
+   "commit": "2ada981f2447039c070441d37d28cd32cc2906ca",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/haskell-mode-20250305.1349.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/haskell-mode-20250305.1349.tar"
+   ],
+   "sha256": "8be0f6bb96e3aa1dd03cd24b8fe81436c3fb8b8d14ed037f88b981a30beaa2d1",
+   "bytes": 952320,
+   "files": [
+    "NEWS",
+    "ghc-core.el",
+    "ghci-script-mode.el",
+    "haskell-align-imports.el",
+    "haskell-c2hs.el",
+    "haskell-cabal.el",
+    "haskell-collapse.el",
+    "haskell-commands.el",
+    "haskell-compile.el",
+    "haskell-complete-module.el",
+    "haskell-completions.el",
+    "haskell-customize.el",
+    "haskell-debug.el",
+    "haskell-decl-scan.el",
+    "haskell-doc.el",
+    "haskell-font-lock.el",
+    "haskell-ghc-support.el",
+    "haskell-hoogle.el",
+    "haskell-indent.el",
+    "haskell-indentation.el",
+    "haskell-interactive-mode.el",
+    "haskell-lexeme.el",
+    "haskell-load.el",
+    "haskell-menu.el",
+    "haskell-mode-pkg.el",
+    "haskell-mode.el",
+    "haskell-mode.info",
+    "haskell-modules.el",
+    "haskell-move-nested.el",
+    "haskell-navigate-imports.el",
+    "haskell-presentation-mode.el",
+    "haskell-process.el",
+    "haskell-repl.el",
+    "haskell-sandbox.el",
+    "haskell-session.el",
+    "haskell-sort-imports.el",
+    "haskell-string.el",
+    "haskell-svg.el",
+    "haskell-unicode-input-method.el",
+    "haskell-utils.el",
+    "haskell.el",
+    "highlight-uses-mode.el",
+    "inf-haskell.el",
+    "logo.svg",
+    "w3m-haddock.el"
+   ]
+  },
+  "hcl-mode": {
+   "version": "20240220.1534",
+   "commit": "b2a03a446c1fe324ff494c28b9321486fa6fc672",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/hcl-mode-20240220.1534.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/hcl-mode-20240220.1534.tar"
+   ],
+   "sha256": "492043f4d629880358bbb6d391274c4ab6b26e86aab1780010a808c52bd93ebe",
+   "bytes": 20480,
+   "files": [
+    "hcl-mode-pkg.el",
+    "hcl-mode.el"
+   ]
+  },
+  "highlight-escape-sequences": {
+   "version": "20201214.1730",
+   "commit": "fae976568c04b6fe8a9f2d854c8fe23b357a6878",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/highlight-escape-sequences-20201214.1730.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/highlight-escape-sequences-20201214.1730.tar"
+   ],
+   "sha256": "c7f7c6589d2f1af2eb15f062d4afc9bc63413643db949ffae8d0b8afd5c130aa",
+   "bytes": 20480,
+   "files": [
+    "highlight-escape-sequences-pkg.el",
+    "highlight-escape-sequences.el"
+   ]
+  },
+  "highlight-quoted": {
+   "version": "20140916.1822",
+   "commit": "ec9108486cf7f21f9a0b13f81369849b3b525f1f",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/highlight-quoted-20140916.1822.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/highlight-quoted-20140916.1822.tar"
+   ],
+   "sha256": "4243491c776b104ac30d7cd684cf5beba4b100d688e2d512e8c433f66343c681",
+   "bytes": 10240,
+   "files": [
+    "highlight-quoted-pkg.el",
+    "highlight-quoted.el"
+   ]
+  },
+  "hl-todo": {
+   "version": "20250301.1643",
+   "commit": "0ce21c329b686802121df45bf4ae15ae201137bf",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/hl-todo-20250301.1643.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/hl-todo-20250301.1643.tar"
+   ],
+   "sha256": "ce5542e8f2e222094483094863c452eead4ad12b32da18b60ef8e0e7d2b9e627",
+   "bytes": 30720,
+   "files": [
+    "hl-todo-pkg.el",
+    "hl-todo.el"
+   ]
+  },
+  "ht": {
+   "version": "20230703.558",
+   "commit": "1c49aad1c820c86f7ee35bf9fff8429502f60fef",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/ht-20230703.558.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/ht-20230703.558.tar"
+   ],
+   "sha256": "f0684921f0e6f8a413dd010c55431cc1f855e66235efbadd1296094d1665d037",
+   "bytes": 20480,
+   "files": [
+    "ht-pkg.el",
+    "ht.el"
+   ]
+  },
+  "htmlize": {
+   "version": "20240915.1657",
+   "commit": "8e3841c837b4b78bd72ad7f0436e919f39315a46",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/htmlize-20240915.1657.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/htmlize-20240915.1657.tar"
+   ],
+   "sha256": "46909836b0fb5bb20da263aade3932ecd69c8192fd2c9171bf22827b7601c5ba",
+   "bytes": 92160,
+   "files": [
+    "htmlize-pkg.el",
+    "htmlize.el"
+   ]
+  },
+  "httprepl": {
+   "version": "20141101.1734",
+   "commit": "cfa3693267a8ed1c96a86a126823f37dbfe077d8",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/httprepl-20141101.1734.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/httprepl-20141101.1734.tar"
+   ],
+   "sha256": "3554af401c9afb69b161ee88dcf3515b4f9a6db4d2e1c2472c01f6b78f979763",
+   "bytes": 30720,
+   "files": [
+    "httprepl-pkg.el",
+    "httprepl.el"
+   ]
+  },
+  "ibuffer-projectile": {
+   "version": "20230817.610",
+   "commit": "710ecac1578273bf31debe52870f5844472e3428",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/ibuffer-projectile-20230817.610.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/ibuffer-projectile-20230817.610.tar"
+   ],
+   "sha256": "7c7a54c13f8176c5e13803f1968f641fd31ebb9706eed9fa4aa3a67ffe2888de",
+   "bytes": 10240,
+   "files": [
+    "ibuffer-projectile-pkg.el",
+    "ibuffer-projectile.el"
+   ]
+  },
+  "ibuffer-vc": {
+   "version": "20241106.1518",
+   "commit": "890c692da9348ef071a4b27940082a4dad05b27c",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/ibuffer-vc-20241106.1518.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/ibuffer-vc-20241106.1518.tar"
+   ],
+   "sha256": "884bae3f109262c1c6963947c92f016547dafe7340d35444d900009944704a03",
+   "bytes": 20480,
+   "files": [
+    "ibuffer-vc-pkg.el",
+    "ibuffer-vc.el"
+   ]
+  },
+  "immortal-scratch": {
+   "version": "20160517.2118",
+   "commit": "faeab0ad6c33c74c0cbd1dfcebffaa0690de40c6",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/immortal-scratch-20160517.2118.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/immortal-scratch-20160517.2118.tar"
+   ],
+   "sha256": "ca954ef2809e9edd0859221adeb19746c42d30902e63bed06703d6aa32920d59",
+   "bytes": 10240,
+   "files": [
+    "immortal-scratch-pkg.el",
+    "immortal-scratch.el"
+   ]
+  },
+  "inf-ruby": {
+   "version": "20250212.29",
+   "commit": "b8076aad10dfb0ba1e3a8b0d39c2b370dbe96ab0",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/inf-ruby-20250212.29.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/inf-ruby-20250212.29.tar"
+   ],
+   "sha256": "4a97548d737bc2356d821daf06fbc971f19623e502129a76ba66948776039f50",
+   "bytes": 61440,
+   "files": [
+    "inf-ruby-pkg.el",
+    "inf-ruby.el"
+   ]
+  },
+  "inflections": {
+   "version": "20210110.2237",
+   "commit": "55caa66a7cc6e0b1a76143fd40eff38416928941",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/inflections-20210110.2237.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/inflections-20210110.2237.tar"
+   ],
+   "sha256": "105b2fb987e9641da9504dcf93fbc639b1864f6e2c26f46be584a9c66253fe3d",
+   "bytes": 10240,
+   "files": [
+    "inflections-pkg.el",
+    "inflections.el"
+   ]
+  },
+  "info-colors": {
+   "version": "20220927.1640",
+   "commit": "2e237c301ba62f0e0286a27c1abe48c4c8441143",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/info-colors-20220927.1640.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/info-colors-20220927.1640.tar"
+   ],
+   "sha256": "707f5759d330596d1d1be9a4564e053d5da4fb2b31afb779cc79ad4dc5729164",
+   "bytes": 10240,
+   "files": [
+    "info-colors-pkg.el",
+    "info-colors.el"
+   ]
+  },
+  "inheritenv": {
+   "version": "20241119.1355",
+   "commit": "b9e67cc20c069539698a9ac54d0e6cc11e616c6f",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/inheritenv-20241119.1355.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/inheritenv-20241119.1355.tar"
+   ],
+   "sha256": "20de29bf1d6e68114a219a3f5724e08671d9a9b858ad0417e02aa0fe1caaccb6",
+   "bytes": 10240,
+   "files": [
+    "inheritenv-pkg.el",
+    "inheritenv.el"
+   ]
+  },
+  "ipretty": {
+   "version": "20180606.522",
+   "commit": "042f5cc4e6f81d59115e8335c582bb5c571c2585",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/ipretty-20180606.522.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/ipretty-20180606.522.tar"
+   ],
+   "sha256": "b8d18e0cee289dd322f7f80a81febb5d813bdacfec7f19c4a21475670bae83a0",
+   "bytes": 10240,
+   "files": [
+    "ipretty-pkg.el",
+    "ipretty.el"
+   ]
+  },
+  "j-mode": {
+   "version": "20240920.1706",
+   "commit": "62d373b9d0926f191f42c747a2364cf8dacf0fa1",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/j-mode-20240920.1706.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/j-mode-20240920.1706.tar"
+   ],
+   "sha256": "27502272174e12af998f0e207e8f500744e543ab2d66b8cc0fa5f872f85b76c4",
+   "bytes": 51200,
+   "files": [
+    "j-console.el",
+    "j-font-lock.el",
+    "j-help.el",
+    "j-mode-pkg.el",
+    "j-mode.el"
+   ]
+  },
+  "js-comint": {
+   "version": "20241205.2321",
+   "commit": "68908b5d232738bdc25c4cae502067ef2255a2fd",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/js-comint-20241205.2321.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/js-comint-20241205.2321.tar"
+   ],
+   "sha256": "e425e07c18c0d2d817af5e833b59a77990fdf5828228f2b0b678feb9df4086fa",
+   "bytes": 40960,
+   "files": [
+    "js-comint-pkg.el",
+    "js-comint.el"
+   ]
+  },
+  "js2-mode": {
+   "version": "20241205.140",
+   "commit": "e0c302872de4d26a9c1614fac8d6b94112b96307",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/js2-mode-20241205.140.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/js2-mode-20241205.140.tar"
+   ],
+   "sha256": "c702b47fdb27fa28092698cdebf1b7a75b180702a182c4c90cf17af5aa53afc8",
+   "bytes": 583680,
+   "files": [
+    "js2-imenu-extras.el",
+    "js2-mode-pkg.el",
+    "js2-mode.el",
+    "js2-old-indent.el"
+   ]
+  },
+  "json-mode": {
+   "version": "20240427.1245",
+   "commit": "77125b01c0ddce537085201098bea9b4b8ba6be3",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/json-mode-20240427.1245.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/json-mode-20240427.1245.tar"
+   ],
+   "sha256": "90a5217db7ba65789b2abcc2d2c535530d2e052324b15aa37979bee08dc1cb83",
+   "bytes": 20480,
+   "files": [
+    "json-mode-pkg.el",
+    "json-mode.el"
+   ]
+  },
+  "json-snatcher": {
+   "version": "20200916.1717",
+   "commit": "b28d1c0670636da6db508d03872d96ffddbc10f2",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/json-snatcher-20200916.1717.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/json-snatcher-20200916.1717.tar"
+   ],
+   "sha256": "963f7890a26d65b19ec8f0af71b92340c814dce2d1452a6f4f74fb99c430c617",
+   "bytes": 20480,
+   "files": [
+    "json-snatcher-pkg.el",
+    "json-snatcher.el"
+   ]
+  },
+  "ledger-mode": {
+   "version": "20250315.500",
+   "commit": "dcad2d467d995b1adf0424d61ac3307e1cc25c5c",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/2e556c1b26beda66797eaf795ba7b845f92e505d/melpa/ledger-mode-20250315.500.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@2e556c1b26beda66797eaf795ba7b845f92e505d/melpa/ledger-mode-20250315.500.tar"
+   ],
+   "sha256": "cbf485e216905a04dac773a7633287ffa7f39dfff932c8ad46d76e128081b289",
+   "bytes": 337920,
+   "files": [
+    "ledger-check.el",
+    "ledger-commodities.el",
+    "ledger-complete.el",
+    "ledger-context.el",
+    "ledger-exec.el",
+    "ledger-flymake.el",
+    "ledger-fontify.el",
+    "ledger-fonts.el",
+    "ledger-init.el",
+    "ledger-mode-pkg.el",
+    "ledger-mode.el",
+    "ledger-mode.info",
+    "ledger-navigate.el",
+    "ledger-occur.el",
+    "ledger-post.el",
+    "ledger-reconcile.el",
+    "ledger-regex.el",
+    "ledger-report.el",
+    "ledger-schedule.el",
+    "ledger-sort.el",
+    "ledger-state.el",
+    "ledger-test.el",
+    "ledger-texi.el",
+    "ledger-xact.el"
+   ]
+  },
+  "list-unicode-display": {
+   "version": "20241119.1152",
+   "commit": "68feedd776082c1743588c2b07dbb6539dbe51bf",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/list-unicode-display-20241119.1152.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/list-unicode-display-20241119.1152.tar"
+   ],
+   "sha256": "f5b6c72c0e699dfc8c39d9bfbf5bc2606dae1618438f845ef39c9f0a4a02b0d7",
+   "bytes": 10240,
+   "files": [
+    "list-unicode-display-pkg.el",
+    "list-unicode-display.el"
+   ]
+  },
+  "llama": {
+   "version": "20250314.2009",
+   "commit": "48e5bc4919a4a29665362832d59ade8e248b0c3e",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/llama-20250314.2009.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/llama-20250314.2009.tar"
+   ],
+   "sha256": "5b39a4cecbd11002a9ab62711017d176ed7e71f9bc2c3dcf903695d4904e0fac",
+   "bytes": 30720,
+   "files": [
+    "llama-pkg.el",
+    "llama.el"
+   ]
+  },
+  "log4e": {
+   "version": "20240123.1313",
+   "commit": "6d71462df9bf595d3861bfb328377346aceed422",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/log4e-20240123.1313.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/log4e-20240123.1313.tar"
+   ],
+   "sha256": "8322e5be984c0a97410936066d1d77f8f3dbc4fc79d9b801448ad3240f6d8a9a",
+   "bytes": 30720,
+   "files": [
+    "log4e-pkg.el",
+    "log4e.el"
+   ]
+  },
+  "logito": {
+   "version": "20201226.534",
+   "commit": "d5934ce10ba3a70d3fcfb94d742ce3b9136ce124",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/logito-20201226.534.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/logito-20201226.534.tar"
+   ],
+   "sha256": "5b7434b4246d22c042f69334367738b162cdc08f4ae1642a1c7d26bf13d30efa",
+   "bytes": 10240,
+   "files": [
+    "logito-pkg.el",
+    "logito.el"
+   ]
+  },
+  "lua-mode": {
+   "version": "20250310.1150",
+   "commit": "2f6b8d7a6317e42c953c5119b0119ddb337e0a5f",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/lua-mode-20250310.1150.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/lua-mode-20250310.1150.tar"
+   ],
+   "sha256": "d39f6ac2d65c9b63e3581c3face594add7736059c94a2a827bf5b4ee7586e41b",
+   "bytes": 102400,
+   "files": [
+    "lua-mode-pkg.el",
+    "lua-mode.el"
+   ]
+  },
+  "macrostep": {
+   "version": "20250202.2205",
+   "commit": "d0928626b4711dcf9f8f90439d23701118724199",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/macrostep-20250202.2205.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/macrostep-20250202.2205.tar"
+   ],
+   "sha256": "63f4f434f3f5fa273fc93a7abb6b574f26f16aa6a57ad1223df8a71cdcb1bd9b",
+   "bytes": 61440,
+   "files": [
+    "macrostep-c.el",
+    "macrostep-pkg.el",
+    "macrostep.el"
+   ]
+  },
+  "magit": {
+   "version": "20250312.1432",
+   "commit": "ed4fa09eeeb531c0cfc3c7bf713d3929c2b2107d",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/fb52860498c5de0ec2bacc6486b5e2cde5448f7a/melpa/magit-20250312.1432.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@fb52860498c5de0ec2bacc6486b5e2cde5448f7a/melpa/magit-20250312.1432.tar"
+   ],
+   "sha256": "501692dfeebf469e9c3d28d2b57a1d83b85d4667d506297ae0acddbe27c41c7a",
+   "bytes": 1894400,
+   "files": [
+    "AUTHORS.md",
+    "LICENSE",
+    "git-commit.el",
+    "git-rebase.el",
+    "magit-apply.el",
+    "magit-autorevert.el",
+    "magit-base.el",
+    "magit-bisect.el",
+    "magit-blame.el",
+    "magit-bookmark.el",
+    "magit-branch.el",
+    "magit-bundle.el",
+    "magit-clone.el",
+    "magit-commit.el",
+    "magit-core.el",
+    "magit-diff.el",
+    "magit-ediff.el",
+    "magit-extras.el",
+    "magit-fetch.el",
+    "magit-files.el",
+    "magit-git.el",
+    "magit-gitignore.el",
+    "magit-log.el",
+    "magit-margin.el",
+    "magit-merge.el",
+    "magit-mode.el",
+    "magit-notes.el",
+    "magit-patch.el",
+    "magit-pkg.el",
+    "magit-process.el",
+    "magit-pull.el",
+    "magit-push.el",
+    "magit-reflog.el",
+    "magit-refs.el",
+    "magit-remote.el",
+    "magit-repos.el",
+    "magit-reset.el",
+    "magit-sequence.el",
+    "magit-sparse-checkout.el",
+    "magit-stash.el",
+    "magit-status.el",
+    "magit-submodule.el",
+    "magit-subtree.el",
+    "magit-tag.el",
+    "magit-transient.el",
+    "magit-wip.el",
+    "magit-worktree.el",
+    "magit.el",
+    "magit.info"
+   ]
+  },
+  "magit-section": {
+   "version": "20250307.1739",
+   "commit": "3f79700f1b9a6f5f6fd6a77fd1e812c1b8e6463b",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/magit-section-20250307.1739.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/magit-section-20250307.1739.tar"
+   ],
+   "sha256": "9bbd03aa60a34c7545989267558089f24683e7034c88867d7a5fe50b28b9e3b5",
+   "bytes": 133120,
+   "files": [
+    "magit-section-pkg.el",
+    "magit-section.el",
+    "magit-section.info"
+   ]
+  },
+  "magit-todos": {
+   "version": "20240927.52",
+   "commit": "bd27c57eada0fda1cc0a813db04731a9bcc51b7b",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/magit-todos-20240927.52.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/magit-todos-20240927.52.tar"
+   ],
+   "sha256": "f73033beebd1079c053e9e1ff37d01f8c700f067d6962193606cd92fc1cc9143",
+   "bytes": 81920,
+   "files": [
+    "magit-todos-pkg.el",
+    "magit-todos.el"
+   ]
+  },
+  "marginalia": {
+   "version": "20250203.1018",
+   "commit": "a527fb03b76a2bce1e360c6e73a095e06922c3f3",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/marginalia-20250203.1018.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/marginalia-20250203.1018.tar"
+   ],
+   "sha256": "87727ac0d7dc2a7fd09b42b57e0a47a9788c7fb08d5e4389173ef86cdf415ddb",
+   "bytes": 71680,
+   "files": [
+    "marginalia-pkg.el",
+    "marginalia.el"
+   ]
+  },
+  "markdown-mode": {
+   "version": "20250314.311",
+   "commit": "d2d960bec164e91e1a3315b176e2bcc324e63c95",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/markdown-mode-20250314.311.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/markdown-mode-20250314.311.tar"
+   ],
+   "sha256": "f2edaf6c938266802d863d85258344a54f08463547475ba54a51a93411035680",
+   "bytes": 450560,
+   "files": [
+    "markdown-mode-pkg.el",
+    "markdown-mode.el"
+   ]
+  },
+  "marshal": {
+   "version": "20201223.1853",
+   "commit": "490496d974d03906f784707ecc2e0ac36ed84b96",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/marshal-20201223.1853.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/marshal-20201223.1853.tar"
+   ],
+   "sha256": "c1458e88147df79abd5250d9af2f34eadb3e097f0223d6ec02c8cde2fabbfa54",
+   "bytes": 30720,
+   "files": [
+    "marshal-pkg.el",
+    "marshal.el"
+   ]
+  },
+  "mmm-mode": {
+   "version": "20240222.428",
+   "commit": "b1f5c7dbdc405e6e10d9ddd99a43a6b2ad61b176",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/mmm-mode-20240222.428.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/mmm-mode-20240222.428.tar"
+   ],
+   "sha256": "bf07ba7fbd6e6ee85074c0145ba9f474a0a44e5e09dcd3e49f6be7096051320f",
+   "bytes": 317440,
+   "files": [
+    "mmm-auto.el",
+    "mmm-class.el",
+    "mmm-cmds.el",
+    "mmm-compat.el",
+    "mmm-cweb.el",
+    "mmm-defaults.el",
+    "mmm-erb.el",
+    "mmm-mason.el",
+    "mmm-mode-pkg.el",
+    "mmm-mode.el",
+    "mmm-myghty.el",
+    "mmm-noweb.el",
+    "mmm-region.el",
+    "mmm-rpm.el",
+    "mmm-sample.el",
+    "mmm-univ.el",
+    "mmm-utils.el",
+    "mmm-vars.el",
+    "mmm.info"
+   ]
+  },
+  "mode-line-bell": {
+   "version": "20181029.516",
+   "commit": "4985ba42f5a19f46ddbf9b3622453a9694995ce5",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/mode-line-bell-20181029.516.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/mode-line-bell-20181029.516.tar"
+   ],
+   "sha256": "8916636ffea65ac06753c710ea4b688d3f99ec1f50a699c25a3a21b28ae75ca6",
+   "bytes": 10240,
+   "files": [
+    "mode-line-bell-pkg.el",
+    "mode-line-bell.el"
+   ]
+  },
+  "move-dup": {
+   "version": "20210127.1938",
+   "commit": "bf2e578b89d7e7bf0b5500d9afcf49ac6ec2dcd1",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/move-dup-20210127.1938.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/move-dup-20210127.1938.tar"
+   ],
+   "sha256": "b0e42c712d8aacc340823ab59d8fb4832bed69f15122e7f065077e9a37de42f0",
+   "bytes": 20480,
+   "files": [
+    "move-dup-pkg.el",
+    "move-dup.el"
+   ]
+  },
+  "multiple-cursors": {
+   "version": "20250210.1813",
+   "commit": "89f1a8df9b1fc721b1672b4c7b6d3ab451e7e3ef",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/multiple-cursors-20250210.1813.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/multiple-cursors-20250210.1813.tar"
+   ],
+   "sha256": "14ffbe6403151b4bf57174d44d8fae87a6562cee06f3d2918c14f6bb6131aa4b",
+   "bytes": 112640,
+   "files": [
+    "mc-cycle-cursors.el",
+    "mc-edit-lines.el",
+    "mc-hide-unmatched-lines-mode.el",
+    "mc-mark-more.el",
+    "mc-mark-pop.el",
+    "mc-separate-operations.el",
+    "multiple-cursors-core.el",
+    "multiple-cursors-pkg.el",
+    "multiple-cursors.el",
+    "rectangular-region-mode.el"
+   ]
+  },
+  "nginx-mode": {
+   "version": "20240412.402",
+   "commit": "c4ac5de975d65c84893a130a470af32a48b0b66c",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/nginx-mode-20240412.402.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/nginx-mode-20240412.402.tar"
+   ],
+   "sha256": "246ff91328ce51b8a9a7935eca174934a96141d4565efcad50e7b8af64b2af11",
+   "bytes": 10240,
+   "files": [
+    "nginx-mode-pkg.el",
+    "nginx-mode.el"
+   ]
+  },
+  "nim-mode": {
+   "version": "20240220.1033",
+   "commit": "625cc023bd75a741b7d4e629e5bec3a52f45b4be",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/nim-mode-20240220.1033.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/nim-mode-20240220.1033.tar"
+   ],
+   "sha256": "b36bb52219b8932717a0c7cfe1d2d353315c6be036be28b37c63ebee8a77e9e8",
+   "bytes": 245760,
+   "files": [
+    "nim-capf.el",
+    "nim-compile.el",
+    "nim-fill.el",
+    "nim-helper.el",
+    "nim-mode-pkg.el",
+    "nim-mode.el",
+    "nim-rx.el",
+    "nim-smie.el",
+    "nim-suggest.el",
+    "nim-syntax.el",
+    "nim-util.el",
+    "nim-vars.el"
+   ]
+  },
+  "nix-buffer": {
+   "version": "20180212.1518",
+   "commit": "db57cda36e7477bdc7ef5a136357b971b1d4d099",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/nix-buffer-20180212.1518.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/nix-buffer-20180212.1518.tar"
+   ],
+   "sha256": "150c8d4301a0f9d9c44716b6718bbc7f9e5ee084720656e3463124e1bb36208b",
+   "bytes": 20480,
+   "files": [
+    "nix-buffer-pkg.el",
+    "nix-buffer.el"
+   ]
+  },
+  "nix-mode": {
+   "version": "20230421.2036",
+   "commit": "719feb7868fb567ecfe5578f6119892c771ac5e5",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/nix-mode-20230421.2036.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/nix-mode-20230421.2036.tar"
+   ],
+   "sha256": "248d02a5f54d565f687d755a8d54a31c2cbceeaba2cc16b5eaffa2e027bc98df",
+   "bytes": 143360,
+   "files": [
+    "nix-build.el",
+    "nix-drv-mode.el",
+    "nix-edit.el",
+    "nix-flake.el",
+    "nix-format.el",
+    "nix-instantiate.el",
+    "nix-log.el",
+    "nix-mode-pkg.el",
+    "nix-mode.el",
+    "nix-prettify-mode.el",
+    "nix-repl.el",
+    "nix-search.el",
+    "nix-shebang.el",
+    "nix-shell.el",
+    "nix-store.el",
+    "nix.el"
+   ]
+  },
+  "nix-sandbox": {
+   "version": "20210325.1622",
+   "commit": "d3ec98405f1f9dac833abf9e146249b1b943870d",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/nix-sandbox-20210325.1622.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/nix-sandbox-20210325.1622.tar"
+   ],
+   "sha256": "781f3f1eb25da99ebc9c8072274ad19a6820a312906b93b5d91d6f7945144b62",
+   "bytes": 10240,
+   "files": [
+    "nix-sandbox-pkg.el",
+    "nix-sandbox.el"
+   ]
+  },
+  "nixos-options": {
+   "version": "20160209.1841",
+   "commit": "045825c2e1cf0a4fb0a472e72c1dae8f55202cef",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/nixos-options-20160209.1841.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/nixos-options-20160209.1841.tar"
+   ],
+   "sha256": "3861a727d10576ed5fc467777331adf79a7c1427ba981aea6dfe616eea232c68",
+   "bytes": 10240,
+   "files": [
+    "nixos-options-pkg.el",
+    "nixos-options.el"
+   ]
+  },
+  "nixpkgs-fmt": {
+   "version": "20200327.2302",
+   "commit": "83e03d6f20bdf79c1c448c15734367b1a7cc6b02",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/nixpkgs-fmt-20200327.2302.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/nixpkgs-fmt-20200327.2302.tar"
+   ],
+   "sha256": "f6dcf8742744115579dcc3c975df46bc1a946a3bf45d6a330453d58d54c4d29d",
+   "bytes": 10240,
+   "files": [
+    "nixpkgs-fmt-pkg.el",
+    "nixpkgs-fmt.el"
+   ]
+  },
+  "ns-auto-titlebar": {
+   "version": "20181022.2154",
+   "commit": "b16092e8058af63ad2bc222f166b0aa3cb66bf9d",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/ns-auto-titlebar-20181022.2154.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/ns-auto-titlebar-20181022.2154.tar"
+   ],
+   "sha256": "ededea7b6b41cda2d66e5d38b69d8bce7e596a02115fb55b169eddb78c106a58",
+   "bytes": 10240,
+   "files": [
+    "ns-auto-titlebar-pkg.el",
+    "ns-auto-titlebar.el"
+   ]
+  },
+  "orderless": {
+   "version": "20250201.2341",
+   "commit": "c7cb04499d94ee1c17affb29b1cfcd2a45116c97",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/orderless-20250201.2341.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/orderless-20250201.2341.tar"
+   ],
+   "sha256": "1c095dd18b699984a58bed91a451e03b9f0bdf1042b217a98021c67887e70659",
+   "bytes": 71680,
+   "files": [
+    "orderless-kwd.el",
+    "orderless-pkg.el",
+    "orderless.el",
+    "orderless.info"
+   ]
+  },
+  "org-cliplink": {
+   "version": "20201126.1020",
+   "commit": "13e0940b65d22bec34e2de4bc8cba1412a7abfbc",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/org-cliplink-20201126.1020.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/org-cliplink-20201126.1020.tar"
+   ],
+   "sha256": "12a066f12d3b71ab9de5d28fd0bcbefe894399639b52d2932bd24330549c2424",
+   "bytes": 51200,
+   "files": [
+    "org-cliplink-pkg.el",
+    "org-cliplink-string.el",
+    "org-cliplink-transport.el",
+    "org-cliplink.el"
+   ]
+  },
+  "org-pomodoro": {
+   "version": "20220318.1618",
+   "commit": "3f5bcfb80d61556d35fc29e5ddb09750df962cc6",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/org-pomodoro-20220318.1618.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/org-pomodoro-20220318.1618.tar"
+   ],
+   "sha256": "a2b3757e42c2411b9ada444fdc0c6ac809dea42950e1ded2ada1541b5741e7cb",
+   "bytes": 153600,
+   "files": [
+    "org-pomodoro-pidgin.el",
+    "org-pomodoro-pkg.el",
+    "org-pomodoro.el",
+    "resources/bell.wav",
+    "resources/bell_multiple.wav",
+    "resources/tick.wav"
+   ]
+  },
+  "origami": {
+   "version": "20200331.1019",
+   "commit": "e558710a975e8511b9386edc81cd6bdd0a5bda74",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/origami-20200331.1019.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/origami-20200331.1019.tar"
+   ],
+   "sha256": "54f4bf8f9aeb863326e645f680c11a3adac7eb8371734ab3c9ece54f05601899",
+   "bytes": 61440,
+   "files": [
+    "origami-parsers.el",
+    "origami-pkg.el",
+    "origami.el"
+   ]
+  },
+  "osx-location": {
+   "version": "20200304.2209",
+   "commit": "733f116dbc56ac73bee3cebe4a489dc9eb37ab78",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/osx-location-20200304.2209.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/osx-location-20200304.2209.tar"
+   ],
+   "sha256": "7147a076a7f300d9d39c0aaf37d763f2a3ab625abbdb8b6dae7f2e3e70f9e101",
+   "bytes": 30720,
+   "files": [
+    "EmacsLocationHelper",
+    "osx-location-pkg.el",
+    "osx-location.el"
+   ]
+  },
+  "package-lint": {
+   "version": "20250307.912",
+   "commit": "6170c1e5b79f9b9f606ab17ab4d9ffb9bce3ebde",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/package-lint-20250307.912.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/package-lint-20250307.912.tar"
+   ],
+   "sha256": "d8778d681f1bfbad7294b8284338b09def7241885d008050d1f9c4e9705a7457",
+   "bytes": 1300480,
+   "files": [
+    "data/compat-symbols",
+    "data/stdlib-changes",
+    "package-lint-pkg.el",
+    "package-lint.el"
+   ]
+  },
+  "package-lint-flymake": {
+   "version": "20250307.912",
+   "commit": "6170c1e5b79f9b9f606ab17ab4d9ffb9bce3ebde",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/package-lint-flymake-20250307.912.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/package-lint-flymake-20250307.912.tar"
+   ],
+   "sha256": "e9c8d5baf39373ab4a50ed331950f7eb533e74e7057050a473de0a7dc9012f91",
+   "bytes": 10240,
+   "files": [
+    "package-lint-flymake-pkg.el",
+    "package-lint-flymake.el"
+   ]
+  },
+  "page-break-lines": {
+   "version": "20250218.1607",
+   "commit": "982571749c8fe2b5e2997dd043003a1b9fe87b38",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/page-break-lines-20250218.1607.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/page-break-lines-20250218.1607.tar"
+   ],
+   "sha256": "93dd69571449d9fc1a76de00f4bcc503c9f33b35cf499c37c37e75edffe834b7",
+   "bytes": 10240,
+   "files": [
+    "page-break-lines-pkg.el",
+    "page-break-lines.el"
+   ]
+  },
+  "paredit": {
+   "version": "20241103.2046",
+   "commit": "89e75b4cb21f525a6f4cabcd12f1bd4204e682ab",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/paredit-20241103.2046.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/paredit-20241103.2046.tar"
+   ],
+   "sha256": "acaee58fee0d9da0dbf53cef75b10e61a558942ffba3e5b09db741193084c9c6",
+   "bytes": 143360,
+   "files": [
+    "paredit-pkg.el",
+    "paredit.el"
+   ]
+  },
+  "parseclj": {
+   "version": "20231203.1905",
+   "commit": "6af22372e0fe14df882dd300b22b12ba2d7e00b0",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/parseclj-20231203.1905.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/parseclj-20231203.1905.tar"
+   ],
+   "sha256": "ef1f8143f42ea2bb433ca96d1eda3f33a679c705b0837251f45e275781db0da0",
+   "bytes": 61440,
+   "files": [
+    "parseclj-alist.el",
+    "parseclj-ast.el",
+    "parseclj-lex.el",
+    "parseclj-parser.el",
+    "parseclj-pkg.el",
+    "parseclj.el"
+   ]
+  },
+  "parseedn": {
+   "version": "20231203.1909",
+   "commit": "3407e4530a367b6c2b857dae261cdbb67a440aaa",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/parseedn-20231203.1909.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/parseedn-20231203.1909.tar"
+   ],
+   "sha256": "6ddc4f21d4adcfef249a218ee6dc0b0e0fa7583f28ebf27a01a67c47499c54b0",
+   "bytes": 20480,
+   "files": [
+    "parseedn-pkg.el",
+    "parseedn.el"
+   ]
+  },
+  "pcache": {
+   "version": "20220724.1841",
+   "commit": "cae29ddbc3d12fac18ab5cfc26fa3ef13eb97dad",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/pcache-20220724.1841.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/pcache-20220724.1841.tar"
+   ],
+   "sha256": "48e73943a136d6e0beeb227b3ba957b09fe966f7aeb99c9c8aa4a4955c74e15d",
+   "bytes": 20480,
+   "files": [
+    "pcache-pkg.el",
+    "pcache.el"
+   ]
+  },
+  "pcre2el": {
+   "version": "20240629.2322",
+   "commit": "b4d846d80dddb313042131cf2b8fbf647567e000",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/pcre2el-20240629.2322.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/pcre2el-20240629.2322.tar"
+   ],
+   "sha256": "f21978d64ece5e1e8d450f6f14743fb049f9ea5a0ba269907e8823b77e93d6e0",
+   "bytes": 122880,
+   "files": [
+    "pcre2el-pkg.el",
+    "pcre2el.el"
+   ]
+  },
+  "php-mode": {
+   "version": "20250109.2103",
+   "commit": "0f756a8c0782ebdc00557addc68763305c91ca51",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/php-mode-20250109.2103.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/php-mode-20250109.2103.tar"
+   ],
+   "sha256": "e994d4c6d686b8f82391e3b16da3164d1d33545e50441c0637ff5abcd3185681",
+   "bytes": 276480,
+   "files": [
+    "php-align.el",
+    "php-complete.el",
+    "php-defs.el",
+    "php-face.el",
+    "php-flymake.el",
+    "php-format.el",
+    "php-ide-phpactor.el",
+    "php-ide.el",
+    "php-local-manual.el",
+    "php-mode-debug.el",
+    "php-mode-pkg.el",
+    "php-mode.el",
+    "php-project.el",
+    "php.el"
+   ]
+  },
+  "pip-requirements": {
+   "version": "20240621.2151",
+   "commit": "31e0dc62abb2d88fa765e0ea88b919d756cc0e4f",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/pip-requirements-20240621.2151.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/pip-requirements-20240621.2151.tar"
+   ],
+   "sha256": "0f4376616d03f553e550ddee0b5033a012233de04c3551f6b6991c8e0f956d48",
+   "bytes": 10240,
+   "files": [
+    "pip-requirements-pkg.el",
+    "pip-requirements.el"
+   ]
+  },
+  "prettier-js": {
+   "version": "20180109.726",
+   "commit": "0e8b95c4e5898a03e85dbc555c37b4f968292aec",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/prettier-js-20180109.726.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/prettier-js-20180109.726.tar"
+   ],
+   "sha256": "5031f93ceaedf5c85b82c6b4a085b828b3b9ed853011ac66e727b4f7e9448162",
+   "bytes": 20480,
+   "files": [
+    "prettier-js-pkg.el",
+    "prettier-js.el"
+   ]
+  },
+  "projectile": {
+   "version": "20250312.1659",
+   "commit": "55db082cdf7b849335ccf24b7ba5aa2607d6fe93",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/projectile-20250312.1659.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/projectile-20250312.1659.tar"
+   ],
+   "sha256": "e2c706e49cccbeeb51195d9bf4d787970f6c418aa77f90e052399af90755c5e4",
+   "bytes": 286720,
+   "files": [
+    "projectile-pkg.el",
+    "projectile.el"
+   ]
+  },
+  "projectile-rails": {
+   "version": "20221231.1643",
+   "commit": "701784df7befe17b861f1b53fe9cbc59d0b94b9f",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/projectile-rails-20221231.1643.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/projectile-rails-20221231.1643.tar"
+   ],
+   "sha256": "1b59bebc68f451de5d5b625e45979d2058e009183ac3907e293c7e329cfd49be",
+   "bytes": 92160,
+   "files": [
+    "projectile-rails-pkg.el",
+    "projectile-rails.el"
+   ]
+  },
+  "psc-ide": {
+   "version": "20240113.1224",
+   "commit": "4e614df553fb315d32ee9dac085109ee7786a3cf",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/psc-ide-20240113.1224.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/psc-ide-20240113.1224.tar"
+   ],
+   "sha256": "97dfeb69ca6d08415640545c11036afbd5522d271de6b91d1755dfd8ff8cf384",
+   "bytes": 61440,
+   "files": [
+    "psc-ide-backported.el",
+    "psc-ide-flycheck.el",
+    "psc-ide-pkg.el",
+    "psc-ide-protocol.el",
+    "psc-ide.el"
+   ]
+  },
+  "psci": {
+   "version": "20231219.52",
+   "commit": "ef31045295f29485fc697892fba53390fe193595",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/psci-20231219.52.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/psci-20231219.52.tar"
+   ],
+   "sha256": "6d861fa959fd55e0ed50c14ef9174922b827046b91b5d07b623562cd0c03d6a1",
+   "bytes": 20480,
+   "files": [
+    "psci-dev.el",
+    "psci-pkg.el",
+    "psci.el"
+   ]
+  },
+  "purescript-mode": {
+   "version": "20250307.416",
+   "commit": "a3d6ca4ba5b6ead6f19cf635258f2560c25a6e1f",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/purescript-mode-20250307.416.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/purescript-mode-20250307.416.tar"
+   ],
+   "sha256": "5bd10c6562b00ebcf76e64008513e784ee884c6a0783a22bb6cfbf3026f403e5",
+   "bytes": 337920,
+   "files": [
+    "NEWS",
+    "purescript-align-imports.el",
+    "purescript-collapse.el",
+    "purescript-decl-scan.el",
+    "purescript-font-lock.el",
+    "purescript-indent.el",
+    "purescript-indentation.el",
+    "purescript-mode-pkg.el",
+    "purescript-mode.el",
+    "purescript-mode.info",
+    "purescript-move-nested.el",
+    "purescript-navigate-imports.el",
+    "purescript-presentation-mode.el",
+    "purescript-simple-indent.el",
+    "purescript-sort-imports.el",
+    "purescript-str.el",
+    "purescript-string.el",
+    "purescript-unicode-input-method.el",
+    "purescript-utils.el",
+    "purescript-yas.el",
+    "snippets/README.md",
+    "snippets/haskell-mode/case",
+    "snippets/haskell-mode/comment.block",
+    "snippets/haskell-mode/constraint",
+    "snippets/haskell-mode/data.inline",
+    "snippets/haskell-mode/data.record",
+    "snippets/haskell-mode/fn",
+    "snippets/haskell-mode/fn.clause",
+    "snippets/haskell-mode/fn.guarded",
+    "snippets/haskell-mode/get",
+    "snippets/haskell-mode/if.block",
+    "snippets/haskell-mode/if.inline",
+    "snippets/haskell-mode/import",
+    "snippets/haskell-mode/import.qualified",
+    "snippets/haskell-mode/instance",
+    "snippets/haskell-mode/lambda",
+    "snippets/haskell-mode/lang-pragma",
+    "snippets/haskell-mode/let",
+    "snippets/haskell-mode/main",
+    "snippets/haskell-mode/module",
+    "snippets/haskell-mode/module.exports",
+    "snippets/haskell-mode/newtype"
+   ]
+  },
+  "queue": {
+   "version": "0.2",
+   "commit": "c9ec2e33f26b068c40b8391e91a7839546fa8355",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/gnu/queue-0.2.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/gnu/queue-0.2.tar"
+   ],
+   "sha256": "880dc17566232e7b1d4b2298906d153a971971ded7a250cdd5fac056a836ef84",
+   "bytes": 10240,
+   "files": [
+    "queue-pkg.el",
+    "queue.el"
+   ]
+  },
+  "rainbow-delimiters": {
+   "version": "20210515.1254",
+   "commit": "7919681b0d883502155d5b26e791fec15da6aeca",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/rainbow-delimiters-20210515.1254.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/rainbow-delimiters-20210515.1254.tar"
+   ],
+   "sha256": "a6cce1576f77e6ce34997d8e325304fef8acef314bdc851c4792169848922169",
+   "bytes": 20480,
+   "files": [
+    "rainbow-delimiters-pkg.el",
+    "rainbow-delimiters.el"
+   ]
+  },
+  "rainbow-mode": {
+   "version": "1.0.6",
+   "commit": "ac68593018ef3555e64ea592d72334f4e3e39209",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/gnu/rainbow-mode-1.0.6.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/gnu/rainbow-mode-1.0.6.tar"
+   ],
+   "sha256": "47142153ecdfb6346d7f9c30ae473e3b655733e01a53c4f84ee12a162a1b6713",
+   "bytes": 51200,
+   "files": [
+    "rainbow-mode-pkg.el",
+    "rainbow-mode.el"
+   ]
+  },
+  "rake": {
+   "version": "20220211.827",
+   "commit": "452ea0caca33376487103c64177c295ed2960cca",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/rake-20220211.827.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/rake-20220211.827.tar"
+   ],
+   "sha256": "8ea84fd4788c6dbb3168e0adb00ab165bf7fed23bfd5b2462f5d16cfde0f8448",
+   "bytes": 20480,
+   "files": [
+    "rake-pkg.el",
+    "rake.el"
+   ]
+  },
+  "reformatter": {
+   "version": "20241204.1051",
+   "commit": "f2cb59466b1c3f85a8c960f7d4b7b7ead015bedc",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/reformatter-20241204.1051.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/reformatter-20241204.1051.tar"
+   ],
+   "sha256": "3e7030d9653e6aca39ac38f507fbcc360a75916afbaacdc44a7951f00f516354",
+   "bytes": 20480,
+   "files": [
+    "reformatter-pkg.el",
+    "reformatter.el"
+   ]
+  },
+  "regex-tool": {
+   "version": "20170104.1918",
+   "commit": "0b4a0111143c88ef94bec56624cb2e00c1a054e6",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/regex-tool-20170104.1918.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/regex-tool-20170104.1918.tar"
+   ],
+   "sha256": "c07a245dbed75c74cc890e75d92a9d86fd03e683bb0c1da85314a33e668e4967",
+   "bytes": 10240,
+   "files": [
+    "regex-tool-pkg.el",
+    "regex-tool.el"
+   ]
+  },
+  "relint": {
+   "version": "2.1",
+   "commit": "9eda48e439e13479151be4abbf47906326bc732f",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/gnu/relint-2.1.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/gnu/relint-2.1.tar"
+   ],
+   "sha256": "00b350460088034b4be0294c27611dcfa626ff7c818e2a52c3054de00fa27546",
+   "bytes": 153600,
+   "files": [
+    "NEWS",
+    "README",
+    "relint-pkg.el",
+    "relint.el"
+   ]
+  },
+  "restclient": {
+   "version": "20231010.1327",
+   "commit": "e2a2b13482d72634f8e49864cd9e5c907a5fe137",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/restclient-20231010.1327.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/restclient-20231010.1327.tar"
+   ],
+   "sha256": "366b6c907a6f509c27092ca5115f43942ce99e67b70952cb2e6f0105bfcabad4",
+   "bytes": 40960,
+   "files": [
+    "restclient-pkg.el",
+    "restclient.el"
+   ]
+  },
+  "rg": {
+   "version": "20251022.457",
+   "commit": "9ff6cb24bda58f481886ebaf16b524f4f9b3769c",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/fcc0396864885d542454b456b765398987d12c18/melpa/rg-20251022.457.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@fcc0396864885d542454b456b765398987d12c18/melpa/rg-20251022.457.tar"
+   ],
+   "sha256": "3ed5571619a7116043837936c58e0b081c94e6f1e3569347af1fd235d9f9602e",
+   "bytes": 225280,
+   "files": [
+    "rg-header.el",
+    "rg-history.el",
+    "rg-ibuffer.el",
+    "rg-info-hack.el",
+    "rg-isearch.el",
+    "rg-menu.el",
+    "rg-pkg.el",
+    "rg-result.el",
+    "rg.el",
+    "rgel.info",
+    "wgrep-rg.el"
+   ]
+  },
+  "robe": {
+   "version": "20250219.1910",
+   "commit": "73a78e55394c1c70c11f9354ef52e7ffce31547c",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/robe-20250219.1910.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/robe-20250219.1910.tar"
+   ],
+   "sha256": "685bfe51b982bc7143f76333f8d64c971cfb05000b2e3bc468cba19ab67bde5c",
+   "bytes": 102400,
+   "files": [
+    "lib/robe.rb",
+    "lib/robe/core_ext.rb",
+    "lib/robe/jvisor.rb",
+    "lib/robe/sash.rb",
+    "lib/robe/sash/const_locations.rb",
+    "lib/robe/sash/doc_for.rb",
+    "lib/robe/sash/includes_tracker.rb",
+    "lib/robe/scanners.rb",
+    "lib/robe/server.rb",
+    "lib/robe/type_space.rb",
+    "lib/robe/visor.rb",
+    "robe-pkg.el",
+    "robe.el"
+   ]
+  },
+  "rspec-mode": {
+   "version": "20230819.154",
+   "commit": "29df3d081c6a1cbdf840cd13d45ea1c100c5bbaa",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/rspec-mode-20230819.154.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/rspec-mode-20230819.154.tar"
+   ],
+   "sha256": "4ca69c11e227ac5db435c099ca26f5b0c0ef6165474b66134008644f3e0a3fcf",
+   "bytes": 81920,
+   "files": [
+    "rspec-mode-pkg.el",
+    "rspec-mode.el",
+    "snippets/rspec-mode/aft",
+    "snippets/rspec-mode/back",
+    "snippets/rspec-mode/bef",
+    "snippets/rspec-mode/cont",
+    "snippets/rspec-mode/dc",
+    "snippets/rspec-mode/desc",
+    "snippets/rspec-mode/descm",
+    "snippets/rspec-mode/desct",
+    "snippets/rspec-mode/exp",
+    "snippets/rspec-mode/expb",
+    "snippets/rspec-mode/feat",
+    "snippets/rspec-mode/featm",
+    "snippets/rspec-mode/helper",
+    "snippets/rspec-mode/iexp",
+    "snippets/rspec-mode/it",
+    "snippets/rspec-mode/itiexp",
+    "snippets/rspec-mode/let",
+    "snippets/rspec-mode/lfgb",
+    "snippets/rspec-mode/lfgc",
+    "snippets/rspec-mode/lfgs",
+    "snippets/rspec-mode/sbj",
+    "snippets/rspec-mode/scn",
+    "snippets/rspec-mode/sfgb",
+    "snippets/rspec-mode/sfgc",
+    "snippets/rspec-mode/sfgs",
+    "snippets/rspec-mode/sp"
+   ]
+  },
+  "ruby-compilation": {
+   "version": "20150709.640",
+   "commit": "be07b0f42aefa24c5d36c441d1f3f72e64fffaa4",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/ruby-compilation-20150709.640.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/ruby-compilation-20150709.640.tar"
+   ],
+   "sha256": "8f0b1f2d1f2f7dd1e3c31bfa6eb1d2bca86af3611b0c171c1bfb9a6b47ef6b72",
+   "bytes": 20480,
+   "files": [
+    "ruby-compilation-pkg.el",
+    "ruby-compilation.el"
+   ]
+  },
+  "ruby-hash-syntax": {
+   "version": "20210106.224",
+   "commit": "d458fb5891e0da85271b1cba3ee0ee69ea66a374",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/ruby-hash-syntax-20210106.224.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/ruby-hash-syntax-20210106.224.tar"
+   ],
+   "sha256": "a429d6a1032d644219dd6ee2e5bb94978606e3a42ca6cf32ee084a75f4deed01",
+   "bytes": 10240,
+   "files": [
+    "ruby-hash-syntax-pkg.el",
+    "ruby-hash-syntax.el"
+   ]
+  },
+  "rust-mode": {
+   "version": "20241112.438",
+   "commit": "542f1755d8929ca83564322d7030d558f3392fe1",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/rust-mode-20241112.438.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/rust-mode-20241112.438.tar"
+   ],
+   "sha256": "c47b35c972c92d5a45b5c51cf9582aea1872ee1f996fe11d0f3ba0b6ea4cdb0a",
+   "bytes": 112640,
+   "files": [
+    "rust-cargo.el",
+    "rust-common.el",
+    "rust-compile.el",
+    "rust-mode-pkg.el",
+    "rust-mode-treesitter.el",
+    "rust-mode.el",
+    "rust-playpen.el",
+    "rust-prog-mode.el",
+    "rust-rustfmt.el",
+    "rust-utils.el"
+   ]
+  },
+  "s": {
+   "version": "20220902.1511",
+   "commit": "b4b8c03fcef316a27f75633fe4bb990aeff6e705",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/s-20220902.1511.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/s-20220902.1511.tar"
+   ],
+   "sha256": "549b80e5ddf3d7730f4025cca858f8d447f9a0b33df4a35fe819c86628b59e3a",
+   "bytes": 30720,
+   "files": [
+    "s-pkg.el",
+    "s.el"
+   ]
+  },
+  "sass-mode": {
+   "version": "20190502.53",
+   "commit": "247a0d4b509f10b28e4687cd8763492bca03599b",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/sass-mode-20190502.53.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/sass-mode-20190502.53.tar"
+   ],
+   "sha256": "71d0650f9dc3f8a063599e3c06900db17a46174423ddb51aa95161ee50798699",
+   "bytes": 20480,
+   "files": [
+    "sass-mode-pkg.el",
+    "sass-mode.el"
+   ]
+  },
+  "scratch": {
+   "version": "20220319.1705",
+   "commit": "f000648c9663833a76a8de9b1e78c99a9d698e48",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/scratch-20220319.1705.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/scratch-20220319.1705.tar"
+   ],
+   "sha256": "a3c9ca687a2cce2416cf7b14c57f11c3102af4c4cf141c0aa4cc43ba11458d6e",
+   "bytes": 20480,
+   "files": [
+    "scratch-pkg.el",
+    "scratch.el"
+   ]
+  },
+  "sesman": {
+   "version": "20240417.1723",
+   "commit": "7bca68dbbab0af26a6a23be1ff5fa97f9a18e022",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/sesman-20240417.1723.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/sesman-20240417.1723.tar"
+   ],
+   "sha256": "b34c78d412243afd846ec88dd87f05e619e1282b58c30de6d740dceb523c61cb",
+   "bytes": 71680,
+   "files": [
+    "sesman-browser.el",
+    "sesman-pkg.el",
+    "sesman.el"
+   ]
+  },
+  "session": {
+   "version": "20210422.53",
+   "commit": "3be207c50dfe964de3cbf5cd8fa9b07fc7d2e609",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/session-20210422.53.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/session-20210422.53.tar"
+   ],
+   "sha256": "8925694767ec61bbc1daa8a74fcf35b2dda7aab22ce849c3839f74a66152bb42",
+   "bytes": 81920,
+   "files": [
+    "session-pkg.el",
+    "session.el"
+   ]
+  },
+  "shfmt": {
+   "version": "20240104.1218",
+   "commit": "1a747c53eab1c0cd4d2708e5ffb953f9761ca7fb",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/shfmt-20240104.1218.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/shfmt-20240104.1218.tar"
+   ],
+   "sha256": "d34c8670c55a7402c93297afa7b0b6f5b6e4cc4cb78f4afe23e01102a1a476f0",
+   "bytes": 10240,
+   "files": [
+    "shfmt-pkg.el",
+    "shfmt.el"
+   ]
+  },
+  "simple-httpd": {
+   "version": "20230821.1458",
+   "commit": "347c30494d3bcfc79de35e54538f92f4e4a46ecd",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/simple-httpd-20230821.1458.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/simple-httpd-20230821.1458.tar"
+   ],
+   "sha256": "84129fb5fed4507aa21aae9be6ea7bf8bd0d6f65a59dad759c0b763b15554bb3",
+   "bytes": 40960,
+   "files": [
+    "simple-httpd-pkg.el",
+    "simple-httpd.el"
+   ]
+  },
+  "skewer-less": {
+   "version": "20210510.532",
+   "commit": "baa973581c2ab7326db65803df97d1a7382b6564",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/skewer-less-20210510.532.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/skewer-less-20210510.532.tar"
+   ],
+   "sha256": "7c3938eb6cda618d8c21165cd84d50488716d52b29c3e8e6a240ad10eca1936c",
+   "bytes": 10240,
+   "files": [
+    "skewer-less-pkg.el",
+    "skewer-less.el"
+   ]
+  },
+  "skewer-mode": {
+   "version": "20200304.1142",
+   "commit": "e5bed351939c92a1f788f78398583c2f83f1bb3c",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/skewer-mode-20200304.1142.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/skewer-mode-20200304.1142.tar"
+   ],
+   "sha256": "7af7917b83f4094dc1a927a81e9d5c7f31a8a978dc3f49c68755004cf88fe175",
+   "bytes": 81920,
+   "files": [
+    "cache-table.el",
+    "example.html",
+    "skewer-bower.el",
+    "skewer-css.el",
+    "skewer-everything.user.js",
+    "skewer-html.el",
+    "skewer-mode-pkg.el",
+    "skewer-mode.el",
+    "skewer-repl.el",
+    "skewer-setup.el",
+    "skewer.js"
+   ]
+  },
+  "slime": {
+   "version": "20250313.1731",
+   "commit": "74677912d0923b659418c7d1449648e0d3e2cd1b",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/slime-20250313.1731.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/slime-20250313.1731.tar"
+   ],
+   "sha256": "d3648df0f963fd95e483c269482d6343f83bb1abecfca9689eb809a8d563320b",
+   "bytes": 2672640,
+   "files": [
+    "contrib/README.md",
+    "contrib/inferior-slime.el",
+    "contrib/slime-asdf.el",
+    "contrib/slime-autodoc.el",
+    "contrib/slime-banner.el",
+    "contrib/slime-buffer-streams.el",
+    "contrib/slime-c-p-c.el",
+    "contrib/slime-cl-indent.el",
+    "contrib/slime-clipboard.el",
+    "contrib/slime-compiler-notes-tree.el",
+    "contrib/slime-editing-commands.el",
+    "contrib/slime-enclosing-context.el",
+    "contrib/slime-fancy-inspector.el",
+    "contrib/slime-fancy-trace.el",
+    "contrib/slime-fancy.el",
+    "contrib/slime-fontifying-fu.el",
+    "contrib/slime-fuzzy.el",
+    "contrib/slime-highlight-edits.el",
+    "contrib/slime-hyperdoc.el",
+    "contrib/slime-indentation.el",
+    "contrib/slime-listener-hooks.el",
+    "contrib/slime-macrostep.el",
+    "contrib/slime-mdot-fu.el",
+    "contrib/slime-media.el",
+    "contrib/slime-mrepl.el",
+    "contrib/slime-package-fu.el",
+    "contrib/slime-parse.el",
+    "contrib/slime-presentation-streams.el",
+    "contrib/slime-presentations.el",
+    "contrib/slime-quicklisp.el",
+    "contrib/slime-references.el",
+    "contrib/slime-repl.el",
+    "contrib/slime-sbcl-exts.el",
+    "contrib/slime-scheme.el",
+    "contrib/slime-scratch.el",
+    "contrib/slime-snapshot.el",
+    "contrib/slime-sprof.el",
+    "contrib/slime-trace-dialog.el",
+    "contrib/slime-tramp.el",
+    "contrib/slime-typeout-frame.el",
+    "contrib/slime-xref-browser.el",
+    "contrib/swank-arglists.lisp",
+    "contrib/swank-asdf.lisp",
+    "contrib/swank-buffer-streams.lisp",
+    "contrib/swank-c-p-c.lisp",
+    "contrib/swank-clipboard.lisp",
+    "contrib/swank-fancy-inspector.lisp",
+    "contrib/swank-fuzzy.lisp",
+    "contrib/swank-goo.goo",
+    "contrib/swank-hyperdoc.lisp",
+    "contrib/swank-ikarus.ss",
+    "contrib/swank-indentation.lisp",
+    "contrib/swank-jolt.k",
+    "contrib/swank-kawa.scm",
+    "contrib/swank-larceny.scm",
+    "contrib/swank-listener-hooks.lisp",
+    "contrib/swank-macrostep.lisp",
+    "contrib/swank-media.lisp",
+    "contrib/swank-mit-scheme.scm",
+    "contrib/swank-mlworks.sml",
+    "contrib/swank-mrepl.lisp",
+    "contrib/swank-package-fu.lisp",
+    "contrib/swank-presentation-streams.lisp",
+    "contrib/swank-presentations.lisp",
+    "contrib/swank-quicklisp.lisp",
+    "contrib/swank-r6rs.scm",
+    "contrib/swank-repl.lisp",
+    "contrib/swank-sbcl-exts.lisp",
+    "contrib/swank-snapshot.lisp",
+    "contrib/swank-sprof.lisp",
+    "contrib/swank-trace-dialog.lisp",
+    "contrib/swank-util.lisp",
+    "contrib/swank.rb",
+    "lib/hyperspec.el",
+    "metering.lisp",
+    "nregex.lisp",
+    "packages.lisp",
+    "sbcl-pprint-patch.lisp",
+    "slime-pkg.el",
+    "slime-tests.el",
+    "slime.el",
+    "slime.info",
+    "start-swank.lisp",
+    "swank-loader.lisp",
+    "swank.asd",
+    "swank.lisp",
+    "swank/abcl.lisp",
+    "swank/allegro.lisp",
+    "swank/backend.lisp",
+    "swank/ccl.lisp",
+    "swank/clasp.lisp",
+    "swank/clisp.lisp",
+    "swank/cmucl.lisp",
+    "swank/corman.lisp",
+    "swank/ecl.lisp",
+    "swank/gray.lisp",
+    "swank/lispworks.lisp",
+    "swank/match.lisp",
+    "swank/mezzano.lisp",
+    "swank/mkcl.lisp",
+    "swank/rpc.lisp",
+    "swank/sbcl.lisp",
+    "swank/scl.lisp",
+    "swank/source-file-cache.lisp",
+    "swank/source-path-parser.lisp",
+    "xref.lisp"
+   ]
+  },
+  "smarty-mode": {
+   "version": "20100703.1158",
+   "commit": "3dfdfe1571f5e9ef55a29c51e5a80046d4cb7568",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/smarty-mode-20100703.1158.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/smarty-mode-20100703.1158.tar"
+   ],
+   "sha256": "4772b20bba3d31e22f06f9f55adbe4d993ff2739f9b08b706d8fa2aa7006e8fa",
+   "bytes": 10240,
+   "files": [
+    "smarty-mode-pkg.el",
+    "smarty-mode.el"
+   ]
+  },
+  "spinner": {
+   "version": "1.7.4",
+   "commit": "bca794fa6f6b007292cdac9b0a850a3711986db5",
+   "urls": [
+    "https://elpa.gnu.org/packages/spinner-1.7.4.tar",
+    "https://mirrors.sjtug.sjtu.edu.cn/emacs-elpa/gnu/spinner-1.7.4.tar"
+   ],
+   "sha256": "d9a82b8cc7ac6960a65d5e9b6822b6b64143cb73ca5f74530ac8aa8285c10853",
+   "bytes": 1986560,
+   "files": [
+    "README-elpa",
+    "README.org",
+    "all-spinners.gif",
+    "some-spinners.gif",
+    "spinner-pkg.el",
+    "spinner.el"
+   ]
+  },
+  "sqlformat": {
+   "version": "20240325.1006",
+   "commit": "f1c8f864f11f4af65551de445dcf65543be0583b",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/sqlformat-20240325.1006.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/sqlformat-20240325.1006.tar"
+   ],
+   "sha256": "54d32437a48be73380ffff31b93048784558d0e6d0957fcc90c971722cac34b8",
+   "bytes": 10240,
+   "files": [
+    "sqlformat-pkg.el",
+    "sqlformat.el"
+   ]
+  },
+  "sudo-edit": {
+   "version": "20220801.1317",
+   "commit": "74eb1e6986461baed9a9269566ff838530b4379b",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/sudo-edit-20220801.1317.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/sudo-edit-20220801.1317.tar"
+   ],
+   "sha256": "1bb35f30efb6dac6ea0a31d2d9f92cfe198f49030eeb30e25186ab1c65b6773d",
+   "bytes": 20480,
+   "files": [
+    "sudo-edit-pkg.el",
+    "sudo-edit.el"
+   ]
+  },
+  "switch-window": {
+   "version": "20241028.314",
+   "commit": "61e425e703bee66825c33f4be11fabac1a3d992a",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/switch-window-20241028.314.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/switch-window-20241028.314.tar"
+   ],
+   "sha256": "814c9ee16fcd0854ed6f5f776950ee780486eb12955b9c93a1040daf12441240",
+   "bytes": 51200,
+   "files": [
+    "switch-window-asciiart.el",
+    "switch-window-mvborder.el",
+    "switch-window-pkg.el",
+    "switch-window.el"
+   ]
+  },
+  "symbol-overlay": {
+   "version": "20240913.1624",
+   "commit": "6151f4279bd94b5960149596b202cdcb45cacec2",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/symbol-overlay-20240913.1624.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/symbol-overlay-20240913.1624.tar"
+   ],
+   "sha256": "edf9f2992d21471edc95d9565c06bb9ce8d5ccca159e553d5634269f33f14936",
+   "bytes": 40960,
+   "files": [
+    "symbol-overlay-pkg.el",
+    "symbol-overlay.el"
+   ]
+  },
+  "tablist": {
+   "version": "20231019.1126",
+   "commit": "fcd37147121fabdf003a70279cf86fbe08cfac6f",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/tablist-20231019.1126.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/tablist-20231019.1126.tar"
+   ],
+   "sha256": "c8a687a4aa824c8d45b437f1f1023d312607713041a8928d5567948702c0b039",
+   "bytes": 92160,
+   "files": [
+    "tablist-filter.el",
+    "tablist-pkg.el",
+    "tablist.el"
+   ]
+  },
+  "tagedit": {
+   "version": "20161121.855",
+   "commit": "b3a70101a0dcf85498c92b7fcfa7fdbac869746c",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/tagedit-20161121.855.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/tagedit-20161121.855.tar"
+   ],
+   "sha256": "5acfc43b4d23a29da550e53eb614ad7420bc90bed5ae74c59a8b868e9e835bdb",
+   "bytes": 40960,
+   "files": [
+    "tagedit-pkg.el",
+    "tagedit.el"
+   ]
+  },
+  "terraform-mode": {
+   "version": "20241217.1628",
+   "commit": "5bdd734a87f67f6574664f63eb4d02a0bc74c0d0",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/terraform-mode-20241217.1628.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/terraform-mode-20241217.1628.tar"
+   ],
+   "sha256": "cb21c774eb9939557c95b7f9ea894d837a9edf4af2c2c6eb43debb23cb2f5505",
+   "bytes": 20480,
+   "files": [
+    "terraform-mode-pkg.el",
+    "terraform-mode.el"
+   ]
+  },
+  "textile-mode": {
+   "version": "20240212.1755",
+   "commit": "2ad90cb6ed2560ee147417a3ec65222cc2ad33f1",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/textile-mode-20240212.1755.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/textile-mode-20240212.1755.tar"
+   ],
+   "sha256": "2c2c287cf26223b3d18e18713f6787a1ce9d49e7cbb9e5f4eedb30ca459657be",
+   "bytes": 20480,
+   "files": [
+    "textile-mode-pkg.el",
+    "textile-mode.el"
+   ]
+  },
+  "toml-mode": {
+   "version": "20161107.1800",
+   "commit": "f6c61817b00f9c4a3cab1bae9c309e0fc45cdd06",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/toml-mode-20161107.1800.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/toml-mode-20161107.1800.tar"
+   ],
+   "sha256": "f2585337faa16b600a591b36032943ac5b1f8b62ab538b01338e38a93bfb64db",
+   "bytes": 10240,
+   "files": [
+    "toml-mode-pkg.el",
+    "toml-mode.el"
+   ]
+  },
+  "transient": {
+   "version": "20250312.1453",
+   "commit": "4a06aeb0f7bd279f76bdf619a7852a4725bf4cc5",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/2e556c1b26beda66797eaf795ba7b845f92e505d/melpa/transient-20250312.1453.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@2e556c1b26beda66797eaf795ba7b845f92e505d/melpa/transient-20250312.1453.tar"
+   ],
+   "sha256": "e8760b40babb9e81a7f96fb6d088bc9bf925ccdd6652a8919bd75c3ab0495a2a",
+   "bytes": 440320,
+   "files": [
+    "gpl.info",
+    "transient-pkg.el",
+    "transient.el",
+    "transient.info"
+   ]
+  },
+  "treepy": {
+   "version": "20240930.728",
+   "commit": "651e2634f01f346da9ec8a64613c51f54b444bc3",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/treepy-20240930.728.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/treepy-20240930.728.tar"
+   ],
+   "sha256": "e6dc86311e2dcb6d6b22fb78129f3be7d927dabd53e5298faf608e952495cba5",
+   "bytes": 30720,
+   "files": [
+    "treepy-pkg.el",
+    "treepy.el"
+   ]
+  },
+  "tuareg": {
+   "version": "20250228.257",
+   "commit": "1600fdad28bdd2c55e52a87e7987713c6d5d1718",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/tuareg-20250228.257.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/tuareg-20250228.257.tar"
+   ],
+   "sha256": "e6a97f31899f60eb8ca4abffe77d79823861310fa02c8f19137155107344725a",
+   "bytes": 266240,
+   "files": [
+    "dot-emacs.el",
+    "ocamldebug.el",
+    "tuareg-compat.el",
+    "tuareg-menhir.el",
+    "tuareg-opam.el",
+    "tuareg-pkg.el",
+    "tuareg.el"
+   ]
+  },
+  "typescript-mode": {
+   "version": "20250118.2056",
+   "commit": "481df3ad2cdf569d8e6697679669ff6206fbd2f9",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/typescript-mode-20250118.2056.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/typescript-mode-20250118.2056.tar"
+   ],
+   "sha256": "a98cdca5dabf97a23da9a0e9c7defbfde81222aa288bad302586275825369c3a",
+   "bytes": 133120,
+   "files": [
+    "typescript-mode-pkg.el",
+    "typescript-mode-test-utilities.el",
+    "typescript-mode.el"
+   ]
+  },
+  "unfill": {
+   "version": "20230227.1349",
+   "commit": "075052ce0b4451d7d3ede013ce5a77e6a7a92360",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/unfill-20230227.1349.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/unfill-20230227.1349.tar"
+   ],
+   "sha256": "893657bfc59e8efb59347e39c3973311399cb96de5f3f1b1d91077d46a3ac011",
+   "bytes": 10240,
+   "files": [
+    "unfill-pkg.el",
+    "unfill.el"
+   ]
+  },
+  "uptimes": {
+   "version": "20231015.1458",
+   "commit": "84407aba479117344080ebf373e3e9186a96f05c",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/uptimes-20231015.1458.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/uptimes-20231015.1458.tar"
+   ],
+   "sha256": "28f916387b701d04c9a531710b648fbac09f9c4e6a70ed4766f825a461fdbaa6",
+   "bytes": 20480,
+   "files": [
+    "uptimes-pkg.el",
+    "uptimes.el"
+   ]
+  },
+  "vc-darcs": {
+   "version": "20230319.1149",
+   "commit": "097e03f119b4fedb0186fd45d730a1c5acac10dc",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/vc-darcs-20230319.1149.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/vc-darcs-20230319.1149.tar"
+   ],
+   "sha256": "d2a82ae129b7a472e1c75c05199f80d22fe172267ba60ff065e18e33ea3a3b58",
+   "bytes": 30720,
+   "files": [
+    "vc-darcs-pkg.el",
+    "vc-darcs.el"
+   ]
+  },
+  "vertico": {
+   "version": "20250311.1655",
+   "commit": "026a81a9c893b1d73cdbcb12436a0fad3ebdeb5f",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/vertico-20250311.1655.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/vertico-20250311.1655.tar"
+   ],
+   "sha256": "24d5d0592be38610771f12b314c05f16f5eeef7fe14132106c2f79c209d07e8b",
+   "bytes": 122880,
+   "files": [
+    "vertico-buffer.el",
+    "vertico-directory.el",
+    "vertico-flat.el",
+    "vertico-grid.el",
+    "vertico-indexed.el",
+    "vertico-mouse.el",
+    "vertico-multiform.el",
+    "vertico-pkg.el",
+    "vertico-quick.el",
+    "vertico-repeat.el",
+    "vertico-reverse.el",
+    "vertico-suspend.el",
+    "vertico-unobtrusive.el",
+    "vertico.el"
+   ]
+  },
+  "visual-fill-column": {
+   "version": "20250204.2336",
+   "commit": "d4464130a21733671a53f915a697dea65888473f",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/visual-fill-column-20250204.2336.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/visual-fill-column-20250204.2336.tar"
+   ],
+   "sha256": "927ef3a6c22d69a1e1b683a4e720e81f162be47c495a5d7d50565329bcc22fe8",
+   "bytes": 20480,
+   "files": [
+    "visual-fill-column-pkg.el",
+    "visual-fill-column.el"
+   ]
+  },
+  "vlf": {
+   "version": "1.7.2",
+   "commit": "efffeb5f54191d41a503d1d51343bb327fe2f871",
+   "urls": [
+    "https://elpa.gnu.org/packages/vlf-1.7.2.tar",
+    "https://mirrors.sjtug.sjtu.edu.cn/emacs-elpa/gnu/vlf-1.7.2.tar"
+   ],
+   "sha256": "7be29cef561199a58c12b522d62336d3d50ab3016a9228702b8b67bd55eb57d9",
+   "bytes": 153600,
+   "files": [
+    "README-elpa",
+    "README.org",
+    "vlf-base.el",
+    "vlf-ediff.el",
+    "vlf-follow.el",
+    "vlf-occur.el",
+    "vlf-pkg.el",
+    "vlf-search.el",
+    "vlf-setup.el",
+    "vlf-tune.el",
+    "vlf-write.el",
+    "vlf.el"
+   ]
+  },
+  "wgrep": {
+   "version": "20230203.1214",
+   "commit": "b4d69280d8a6a5ded1597e02afbaa811a160383b",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/wgrep-20230203.1214.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/wgrep-20230203.1214.tar"
+   ],
+   "sha256": "5b659a304ab880b308be1c4e3cc4c5137ff1c613e2a8b8e08af478548221d758",
+   "bytes": 51200,
+   "files": [
+    "wgrep-pkg.el",
+    "wgrep.el"
+   ]
+  },
+  "which-key": {
+   "version": "20240620.2145",
+   "commit": "ed389312170df955aaf10c2e120cc533ed5c509e",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/which-key-20240620.2145.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/which-key-20240620.2145.tar"
+   ],
+   "sha256": "16b204511bb951f87d894640a866051d7e06e572363926ceb0105cb3095bb6ac",
+   "bytes": 122880,
+   "files": [
+    "which-key-pkg.el",
+    "which-key.el"
+   ]
+  },
+  "whitespace-cleanup-mode": {
+   "version": "20210510.533",
+   "commit": "b108b73ddf8f7e747d5a20a681560171e02ad037",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/whitespace-cleanup-mode-20210510.533.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/whitespace-cleanup-mode-20210510.533.tar"
+   ],
+   "sha256": "9c3f16bd77ae997708a6de305757e9ccaa98b8fc1b2b70affa098dfd7d4e192d",
+   "bytes": 10240,
+   "files": [
+    "whitespace-cleanup-mode-pkg.el",
+    "whitespace-cleanup-mode.el"
+   ]
+  },
+  "whole-line-or-region": {
+   "version": "20240630.804",
+   "commit": "f39fd03cf563ffdf57144a7586a5e845969fc641",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/whole-line-or-region-20240630.804.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/whole-line-or-region-20240630.804.tar"
+   ],
+   "sha256": "e0af6b761087bd2ee678ce54e86266043898f8066a9f65100d21ad2e0e43ed75",
+   "bytes": 20480,
+   "files": [
+    "whole-line-or-region-pkg.el",
+    "whole-line-or-region.el"
+   ]
+  },
+  "windswap": {
+   "version": "20200722.411",
+   "commit": "1a334f6543e0a30c55ea1e6071e9732d948f9e4b",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/windswap-20200722.411.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/windswap-20200722.411.tar"
+   ],
+   "sha256": "fd2f1ae6fda422e0e98192a4bb8755633f78bc6373f0c3f9b4dd95f86e39086a",
+   "bytes": 10240,
+   "files": [
+    "windswap-pkg.el",
+    "windswap.el"
+   ]
+  },
+  "with-editor": {
+   "version": "20241201.1419",
+   "commit": "ca902ae02972bdd6919a902be2593d8cb6bd991b",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/with-editor-20241201.1419.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/with-editor-20241201.1419.tar"
+   ],
+   "sha256": "0fe6374a795c31847565b77d1203afc5b010e60c1f5884a1abe7ce6c742f2768",
+   "bytes": 71680,
+   "files": [
+    "with-editor-pkg.el",
+    "with-editor.el",
+    "with-editor.info"
+   ]
+  },
+  "writeroom-mode": {
+   "version": "20250204.2335",
+   "commit": "cca2b4b3cfcfea1919e1870519d79ed1a69aa5e2",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/writeroom-mode-20250204.2335.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/writeroom-mode-20250204.2335.tar"
+   ],
+   "sha256": "0ce3e5a779649ec1dc14612931d75b65c6de76876b0d504f3db39fb9f819abe5",
+   "bytes": 61440,
+   "files": [
+    "writeroom-mode-pkg.el",
+    "writeroom-mode.el",
+    "writeroom-mode.info"
+   ]
+  },
+  "xr": {
+   "version": "2.1",
+   "commit": "31cd397f54591e3692bf88d6e1995236928e3561",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/gnu/xr-2.1.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/gnu/xr-2.1.tar"
+   ],
+   "sha256": "c23323168746324e4c9ea12c006d5e772ccb14393c8e54ebb7ea66b1d5a15afb",
+   "bytes": 122880,
+   "files": [
+    "NEWS",
+    "README",
+    "xr-pkg.el",
+    "xr.el"
+   ]
+  },
+  "xref-js2": {
+   "version": "20240504.1449",
+   "commit": "e215af9eedac69b40942fff9d5514704f9f4d43e",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/xref-js2-20240504.1449.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/xref-js2-20240504.1449.tar"
+   ],
+   "sha256": "79fd285c9489853e97c53bc941220329fcbafd1f0f2f01d0828523901e7de228",
+   "bytes": 20480,
+   "files": [
+    "xref-js2-pkg.el",
+    "xref-js2.el"
+   ]
+  },
+  "yagist": {
+   "version": "20160418.508",
+   "commit": "10da4baa272ff0f7052f17debecc340764c7003f",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/yagist-20160418.508.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/yagist-20160418.508.tar"
+   ],
+   "sha256": "4df7de2eb117e0a5f7ee880bc190789c6b22192bdb8c034c63dd787bdb27ce85",
+   "bytes": 30720,
+   "files": [
+    "yagist-pkg.el",
+    "yagist.el"
+   ]
+  },
+  "yaml": {
+   "version": "20250208.1534",
+   "commit": "09e46d563f1f3ff948852e08360c7d3c76e2acba",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/cb69f927b7cc3f12e29b85b3f3415258d2deed3b/melpa/yaml-20250208.1534.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@cb69f927b7cc3f12e29b85b3f3415258d2deed3b/melpa/yaml-20250208.1534.tar"
+   ],
+   "sha256": "1cb13c6b45ea9269c033e58997bae5677acadc811e883c3dbcacef7f01f53d07",
+   "bytes": 122880,
+   "files": [
+    "yaml-pkg.el",
+    "yaml.el"
+   ]
+  },
+  "yaml-mode": {
+   "version": "20241003.153",
+   "commit": "d91f878729312a6beed77e6637c60497c5786efa",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/yaml-mode-20241003.153.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/yaml-mode-20241003.153.tar"
+   ],
+   "sha256": "b8d4fc60bf9b2b8f757f23e57a2ce17b6ae9daddfc026a56001308bcb35bc0aa",
+   "bytes": 30720,
+   "files": [
+    "yaml-mode-pkg.el",
+    "yaml-mode.el"
+   ]
+  },
+  "yard-mode": {
+   "version": "20230505.1950",
+   "commit": "de1701753a64544c3376b015805f3661136d8038",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/yard-mode-20230505.1950.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/yard-mode-20230505.1950.tar"
+   ],
+   "sha256": "88f34dfa60c44f91c7e56cf7f090b3d7e7aaf751593fcab0fd615b03abe72a16",
+   "bytes": 20480,
+   "files": [
+    "yard-mode-pkg.el",
+    "yard-mode.el"
+   ]
+  },
+  "yari": {
+   "version": "20250120.851",
+   "commit": "de61285ceb21f56c29f4be12e2e65b2aa2bccf56",
+   "urls": [
+    "https://raw.githubusercontent.com/d12frosted/elpa-mirror/ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/yari-20250120.851.tar",
+    "https://cdn.jsdelivr.net/gh/d12frosted/elpa-mirror@ec84a3cbc5e382ea48ac4f33d4ba9e80ca1839ee/melpa/yari-20250120.851.tar"
+   ],
+   "sha256": "2ce2179c67ed180a423f577d9ea6243db3977fec8fa930f68eae264027af0231",
+   "bytes": 20480,
+   "files": [
+    "yari-pkg.el",
+    "yari.el"
+   ]
+  }
+ }
+}
